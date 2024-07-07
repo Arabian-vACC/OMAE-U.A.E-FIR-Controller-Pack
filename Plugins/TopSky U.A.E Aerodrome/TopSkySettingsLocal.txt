@@ -1,0 +1,42 @@
+// File created for the Arabian vACC - Bahrain FIR (OBBB)
+// Developed and maintained by Chriss Klosowski (1306415)
+//
+// Version 1.0.0
+//
+// Last Change by Chriss Klosowski
+//
+// Changelog:
+// 14/04/2024 - Initial Release
+//
+// To be used on the VATSIM Network only
+
+// This file contains your PERSONAL SETTINGS.
+// Modifying this file will OVERWRITE any settings that you would like to change and will not be overwrriten by any sector file updates.
+// Any parameters showing "//" before its item means that this setting is unavailable and cannot be changed.
+
+// Menu Scaling: GUI, Menu, Windows, Tracks, Cursor
+System_GUI_Scale_Cursors=1.0
+System_GUI_Scale_GlobalMenu=1.1
+System_GUI_Scale_Menus=1.0
+System_GUI_Scale_Screen=1.0
+System_GUI_Scale_Tracks=1.0
+System_GUI_Scale_Windows=1.0
+
+//32 INCH DISPLAY / 4K SETTINGS
+//System_GUI_Scale_Cursors=1.2
+//System_GUI_Scale_GlobalMenu=1.2
+//System_GUI_Scale_Menus=1.2
+//System_GUI_Scale_Screen=1.2
+//System_GUI_Scale_Tracks=1.2
+//System_GUI_Scale_Windows=1.2
+
+// Setup
+[_CTR]
+Window_CARD=1,1600,825
+Window_LFUNCFP=1,1767,139
+Window_GenInfo=1,1638,40
+
+WXR_Brightness=15
+WXR_Gain=200
+
+Setup_AutoSignIn=1

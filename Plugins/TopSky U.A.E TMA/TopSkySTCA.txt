@@ -1,0 +1,20 @@
+// File created for the Arabian vACC - Doha FIR (OTDF)
+// Developed and maintained by Chriss Klosowski (1306415)
+//
+// Version 1.0.0
+//
+// Last Change by Chriss Klosowski
+//
+// Changelog:
+// 17/04/2024 - Initial Release
+//
+// To be used on the VATSIM Network only
+
+FINALAPP:OTHH:16L
+FINALAPP:OTHH:16R
+
+FINALAPP:OTHH:34L
+FINALAPP:OTHH:34R
+
+FINALAPP:OTBD:15
+FINALAPP:OTBD:33
