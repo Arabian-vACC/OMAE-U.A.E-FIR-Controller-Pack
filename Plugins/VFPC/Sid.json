@@ -1,0 +1,563 @@
+[
+   {
+      "icao": "OTHH",
+      "sids": {
+         "ALSEM": [
+            {
+               "direction": "ODD",
+               "max_fl": 250,
+               "destinations": [
+                  "OMDB",
+                  "OMDW",
+                  "OMRK",
+                  "OMSJ"
+
+               ],
+               "airways": [
+                  "L305"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "L305"
+               ]
+            }
+         ],
+         "ALVEN": [
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "EDDH",
+                  "EGCC",
+                  "EGNT",
+                  "ENGM",
+                  "EPWA",
+                  "ESSA",
+                  "KJFK",
+                  "LHBP",
+                  "LOWW",
+                  "LTFJ",
+                  "LYBE",
+                  "OISS"
+               ],
+               "airways": [
+                  "T430"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "destinations": [
+                  "EFHK",
+                  "KEWR",
+                  "KLAX",
+                  "KORD",
+                  "KSEA",
+                  "OIAW",
+                  "OIFM",
+                  "OIIE",
+                  "OIII",
+                  "OIKB",
+                  "OIMM",
+                  "UAAA",
+                  "UBBB",
+                  "UGTB",
+                  "ULLI",
+                  "URSS",
+                  "UTAA",
+                  "UTTT",
+                  "UUDD"
+               ],
+               "airways": [
+                  "T430"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "T430"
+               ]
+            }
+         ],
+         "BUNDU": [
+            {
+               "direction": "ODD",
+               "max_fl": 330,
+			   "destinations": [
+                  "OOMS"
+               ],
+               "airways": [
+                  "B415"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "max_fl": 230,
+			   "destinations": [
+                  "OOSH"
+               ],
+               "airways": [
+                  "B415"
+               ]
+            },
+            {
+               "direction": "ODD",
+			   "destinations": [
+                  "OOMS",
+                  "OOSA",
+                  "VCBI",
+                  "VOBL",
+                  "VOCI",
+                  "VOCL",
+                  "VOMD",
+                  "VOML",
+                  "VOMM",
+                  "VOTV",
+                  "VRMM",
+                  "WIII",
+                  "YBBN",
+                  "YMML",
+                  "YPAD",
+                  "YPPH",
+                  "YSSY"
+               ],
+               "airways": [
+                  "B415"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "B415"
+               ]
+            }
+         ],
+         "DATRI":[
+            {
+               "direction":"EVEN",
+               "airways":[
+                  "L564"
+               ]
+            }
+         ],
+         "DEMBO3x":[
+            {
+               "suffix":"DATRI",
+               "direction":"EVEN",
+               "airways":[
+                  "L564"
+               ]
+            },
+            {
+               "suffix":"ULIKA",
+               "direction":"EVEN",
+               "airways":[
+                  "V975"
+               ]
+            }
+         ],
+         "IVENA2x":[
+            {
+               "suffix":"ALSEM",
+               "direction":"ODD",
+               "airways":[
+                  "L305"
+               ],
+               "max_fl": 255,
+               "destinations":[
+                  "OMDB",
+                  "OMDW",
+                  "OMSJ",
+                  "OMFJ",
+                  "OMRK"
+               ]
+            },
+            {
+               "suffix":"ALVEN",
+               "direction":"ODD",
+               "airways":[
+                  "T430"
+               ]
+            },
+            {
+               "suffix":"KUPRO",
+               "direction":"ODD",
+               "airways":[
+                  "N300"
+               ]
+            },
+            {
+               "suffix":"LUBET",
+               "direction":"EVEN",
+               "airways":[
+                  "T934"
+               ]
+            },
+            {
+               "suffix":"PATOM",
+               "direction":"EVEN",
+               "airways":[
+                  "B457"
+               ]
+            },
+            {
+               "suffix":"VAXIN",
+               "direction":"ODD",
+               "airways":[
+                  "T800"
+               ]
+            }
+         ],
+         "KASIS2x":[
+            {
+               "suffix":"BUNDU",
+               "direction":"ODD",
+               "airways":[
+                  "B415"
+               ]
+            },
+            {
+               "suffix":"DATRI",
+               "direction":"EVEN",
+               "airways":[
+                  "L564"
+               ]
+            },
+            {
+               "suffix":"TULUB",
+               "direction":"EVEN",
+               "airways":[
+                  "B457"
+               ]
+            },
+            {
+               "suffix":"ULIKA",
+               "direction":"EVEN",
+               "airways":[
+                  "V975"
+               ]
+            }
+         ],
+         "KUPRO": [
+            {
+               "direction": "ODD",
+               "max_fl": 250,
+               "destinations": [
+                  "OMAA",
+                  "OMAD",
+                  "OMAL"
+
+               ],
+               "airways": [
+                  "N300"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "destinations": [
+                  "OPKC",
+                  "RJTT",
+                  "RPLL",
+                  "RPVM",
+                  "VAAH",
+                  "VABB",
+                  "VAPO",
+                  "VECC",
+                  "VGHS",
+                  "VHHH",
+                  "VIAR",
+                  "VIDP",
+                  "VIJP",
+                  "VOHS",
+                  "VOMM",
+                  "VTBS",
+                  "VTSP",
+                  "VVNB",
+                  "VYYY",
+                  "WADD",
+                  "WIII",
+                  "WMKK",
+                  "WSSS",
+                  "ZGGG",
+                  "ZSPD"
+
+               ],
+               "airways": [
+                  "N300"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "N300"
+               ]
+            }
+         ],
+         "LUBET": [
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "CYYZ",
+                  "EBBR",
+                  "EDDF",
+                  "EDDH",
+                  "EDDK",
+                  "EDDL",
+                  "EDDM",
+                  "EDDP",
+                  "EGBB",
+                  "EGCC",
+                  "EGKK",
+                  "EGLL",
+                  "EGNT",
+                  "EGPF",
+                  "EGSS",
+                  "EHAM",
+                  "EIDW",
+                  "ENGM",
+                  "EPKK",
+                  "EPWA",
+                  "ESSA",
+                  "KJFK",
+                  "KMCO",
+                  "LBSF",
+                  "LDZA",
+                  "LEBL",
+                  "LFLL",
+                  "LFPG",
+                  "LHBP",
+                  "LIPE",
+                  "LKPR",
+                  "LOWW",
+                  "LQSA",
+                  "LSGG",
+                  "LSZH",
+                  "LTAI",
+                  "LTFJ",
+                  "LTFM",
+                  "LUKK",
+                  "LYTV",
+                  "ORBI",
+                  "ORER",
+                  "ORMM",
+                  "ORNI",
+                  "ORSU",
+                  "OSDI",
+                  "UUWW"
+               ],
+               "airways": [
+                  "L934"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "L934"
+               ]
+            }
+         ],
+         "PARES2x":[
+            {
+               "suffix":"ALSEM",
+               "direction":"ODD",
+               "airways":[
+                  "L305"
+               ],
+               "max_fl": 255,
+               "destinations":[
+                  "OMDB",
+                  "OMDW",
+                  "OMSJ",
+                  "OMFJ",
+                  "OMRK"
+               ]
+            },
+            {
+               "suffix":"ALVEN",
+               "direction":"ODD",
+               "airways":[
+                  "T430"
+               ]
+            },
+            {
+               "suffix":"BUNDU",
+               "direction":"ODD",
+               "airways":[
+                  "B415"
+               ]
+            },
+            {
+               "suffix":"KUPRO",
+               "direction":"ODD",
+               "airways":[
+                  "N300"
+               ]
+            },
+            {
+               "suffix":"VAXIN",
+               "direction":"ODD",
+               "airways":[
+                  "T800"
+               ]
+            }
+         ],
+         "TULUB": [
+            {
+               "direction": "EVEN",
+               "max_fl": 12000,
+               "destinations": [
+                  "OBBI"
+               ],
+               "airways": [
+                  "M444"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 16000,
+               "destinations": [
+                  "OEDF"
+               ],
+               "airways": [
+                  "B457"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 28000,
+               "destinations": [
+                  "OERK"
+               ],
+               "airways": [
+                  "B457"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "max_fl": 28000,
+               "destinations": [
+                  "OKKK"
+               ],
+               "airways": [
+                  "B457"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "DAAG",
+                  "DFFD",
+                  "DNMM",
+                  "EDDK",
+                  "EDDP",
+                  "EHAM",
+                  "ELLX",
+                  "GMMN",
+                  "GOBD",
+                  "GUCY",
+                  "HAAB",
+                  "HEBA",
+                  "HECA",
+                  "HEGN",
+                  "HESH",
+                  "HHAS",
+                  "HSPN",
+                  "HJJJ",
+                  "HSSK",
+                  "KORD",
+                  "LCLK",
+                  "LEBL",
+                  "LEBL",
+                  "LEMD",
+                  "LFRS",
+                  "LGAV",
+                  "LIMC",
+                  "LIRF",
+                  "LLBG",
+                  "LPPR",
+                  "LPPT",
+                  "OEAB",
+                  "OEGN",
+                  "OEGS",
+                  "OEHL",
+                  "OEJN",
+                  "OEMA",
+                  "OENN",
+                  "OESK",
+                  "OETB",
+                  "OETF",
+                  "OEYN",
+                  "OJAI",
+                  "OLBA",
+                  "SBGL",
+                  "SBGR"
+               ],
+               "airways": [
+                  "B457"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "B457"
+               ]
+            }
+         ],
+         "ULIKA": [
+            {
+              "direction": "EVEN",
+              "destinations": [
+                    "OEJN",
+                    "OEMA"
+                 ],
+                 "airways": [
+                  "M430"
+                 ]
+              },
+            {
+               "direction":"EVEN",
+               "airways":[
+                  "V975"
+               ]
+            }
+           ],
+         "VAXIN": [
+            {
+                 "direction": "ODD",
+                 "destinations": [
+                    "OAKB",
+                    "OIBK",
+                    "OPIS",
+                    "OPLA",
+                    "OPST",
+                    "RJTT",
+                    "RKSI",
+                    "VIJP",
+                    "VILK",
+                    "VNKT",
+                    "ZBAA"
+                 ],
+                 "airways": [
+                  "T800"
+                 ]
+              },
+              {
+                 "direction": "EVEN",
+                 "destinations": [
+                    "OEJN",
+                    "OEMA"
+                 ],
+                 "airways": [
+                    "M430"
+                 ]
+              },
+              {
+                 "direction": "ODD",
+                 "airways": [
+                    "T800"
+                 ]
+              }
+           ]
+      }
+   }
+]

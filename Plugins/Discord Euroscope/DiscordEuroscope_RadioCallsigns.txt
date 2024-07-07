@@ -1,0 +1,90 @@
+----------OMAE----------
+OMAA_1X_APP Abu Dhabi Radar
+OMAA_1X_GND Abu Dhabi Ground
+OMAA_1X_TWR Abu Dhabi Tower
+OMAA_1_APP Abu Dhabi Radar
+OMAA_1_GND Abu Dhabi Ground
+OMAA_1_TWR Abu Dhabi Tower
+OMAA_2_APP Abu Dhabi Radar
+OMAA_2_GND Abu Dhabi Ground
+OMAA_2_TWR Abu Dhabi Tower
+OMAA_3X_APP Abu Dhabi Radar
+OMAA_3_APP Abu Dhabi Radar
+OMAA_3_GND Abu Dhabi Ground
+OMAA_4_APP Abu Dhabi Radar
+OMAA_DEL Abu Dhabi Delivery
+OMAA_F1X_APP Abu Dhabi Director
+OMAA_F1_APP Abu Dhabi Director
+OMAA_F2_APP Abu Dhabi Director
+OMAA_FFM_APP Abu Dhabi Director (Flow Manager)
+OMAA_FM_APP Abu Dhabi Radar (Flow Manager)
+OMAA_FM_DEL Abu Dhabi Delivery (Flow Manager)
+OMAA_FM_GND Abu Dhabi Ground (Flow Manager)
+OMAA_FM_TWR Abu Dhabi Tower (Flow Manager)
+OMAA_I_APP Abu Dhabi Information
+OMAB_R_TWR Buhasa Radio
+OMAD_GND Al Bateen Ground
+OMAD_TWR Al Bateen Tower
+OMAE_1_CTR U.A.E Radar
+OMAE_2_CTR U.A.E Radar
+OMAE_3_CTR U.A.E Radar
+OMAE_4_CTR U.A.E Radar
+OMAE_A_CTR U.A.E Radar
+OMAE_C_CTR U.A.E Radar
+OMAE_D_CTR U.A.E Radar
+OMAE_E_CTR U.A.E Radar
+OMAE_FM_CTR U.A.E Radar
+OMAE_G_CTR U.A.E Radar
+OMAE_R_CTR U.A.E Radar
+OMAE_W_CTR U.A.E Radar
+OMAE_Y_CTR U.A.E Radar
+OMAL_GND Al Ain Ground
+OMAL_H_TWR Al Ain Kopter
+OMAL_TWR Al Ain Tower
+OMAR_R_TWR Arzanah Radio
+OMAS_I_TWR Das Information
+OMAZ_I_TWR Zirku Information
+OMBY_I_TWR Sir Bani Yas Information
+OMDB_1X_DEP Dubai Departures
+OMDB_1X_GND Dubai Ground
+OMDB_1X_TWR Dubai Tower
+OMDB_1_DEP Dubai Departures
+OMDB_1_GND Dubai Ground
+OMDB_1_TWR Dubai Tower
+OMDB_2_DEP Dubai Departures
+OMDB_2_GND Dubai Ground
+OMDB_2_TWR Dubai Tower
+OMDB_APP Dubai Arrivals
+OMDB_DEL Dubai Delivery
+OMDB_FM_APP Dubai Arrivals (Flow Manager)
+OMDB_FM_DEL Dubai Delivery (Flow Manager)
+OMDB_FM_GND Dubai Ground (Flow Manager)
+OMDB_FM_TWR Dubai Tower (Flow Manager)
+OMDB_FX_APP Dubai Director
+OMDB_F_APP Dubai Director
+OMDB_I_TWR Dubai Tower
+OMDB_X_APP Dubai Arrivals
+OMDB_X_TWR Al Maktoum Tower
+OMDL_TWR Delma Tower
+OMDM_APP Minhad Approach
+OMDM_X_APP Minhad Approach
+OMDW_APP Al Maktoum Radar
+OMDW_AX_TWR Academy Tower
+OMDW_A_TWR Academy Tower
+OMDW_FM_GND Al Maktoum Ground (Flow Manager)
+OMDW_FM_TWR Al Maktoum Tower (Flow Manager)
+OMDW_GND Al Maktoum Ground
+OMDW_I_GND Al Maktoum Apron Information
+OMDW_S_APP Dubai South Radar
+OMDW_TWR Al Maktoum Tower
+OMDW_X_APP Al Maktoum Radar
+OMDW_X_GND Al Maktoum Ground
+OMFJ_APP Fujairah Approach
+OMFJ_GND Fujairah Ground
+OMFJ_TWR Fujairah Tower
+OMRK_APP Ras Al Khaimah Approach
+OMRK_AR_APP Ras Al Khaimah Approach Radar
+OMRK_GND Ras Al Khaimah Ground
+OMRK_TWR Ras Al Khaimah Tower
+OMSJ_GND Sharjah Ground
+OMSJ_TWR Sharjah Tower

@@ -1,16 +1,12 @@
 // File created for the Arabian vACC - U.A.E FIR (OMAE)
 // Developed and maintained by Chriss Klosowski (1306415)
 //
+// Last Change by Luke Brown (1116943)
+//
 // Changelog:
-// 04/07/2024 - Initial Release
+// 04/07/2024 - Initial Release.
 //
 // To be used on the VATSIM Network only
-
-/// OMAA
-
-/// OMAD
-
-/// OMAL
 
 // =======================================================================================================================================
 //                                                             Dubai - OMDB
@@ -1365,11 +1361,3 @@ USE:A
 CODE:D:D
 CALLSIGN:UAE
 PRIORITY:-3
-
-/// OMDW
-
-/// OMFJ
-
-/// OMRK
-
-/// OMSJ
