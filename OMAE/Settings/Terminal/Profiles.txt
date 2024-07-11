@@ -1,0 +1,94 @@
+PROFILE
+PROFILE:(INITIALS)_OBS:300:0
+ATIS2:Arabian vACC - Observer
+ATIS3:Information - vats.im/arb/info
+ATIS4:Feedback - vats.im/arb/feedback
+PROFILE:OTDF_1_CTR:400:6
+ATIS2:"Doha Control"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTDF_1X_CTR:400:6
+ATIS2:"Doha Control" - Secondary Frequency
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTDF_2_CTR:400:6
+ATIS2:"Doha Control"
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTDF_2X_CTR:400:6
+ATIS2:"Doha Control" - Secondary Frequency
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTDF_FM_CTR:400:6
+ATIS2:"Doha Control Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Area Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_R1_APP:150:5
+ATIS2:"Doha Radar" [DCL - DOHA]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_R1X_APP:150:5
+ATIS2:"Doha Radar" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_R2_APP:150:5
+ATIS2:"Doha Radar"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_R2X_APP:150:5
+ATIS2:"Doha Radar" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_RFM_APP:150:5
+ATIS2:"Doha Radar Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_A1_APP:150:5
+ATIS2:"Doha Approach"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_A1X_APP:150:5
+ATIS2:"Doha Approach" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_A2_APP:150:5
+ATIS2:"Doha Approach"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_A2X_APP:150:5
+ATIS2:"Doha Approach" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_AFM_APP:150:5
+ATIS2:"Doha Approach Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F1_APP:150:5
+ATIS2:"Doha Director"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F1X_APP:150:5
+ATIS2:"Doha Director" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F2_APP:150:5
+ATIS2:"Doha Director"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F2X_APP:150:5
+ATIS2:"Doha Director" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F3_APP:150:5
+ATIS2:"Doha Director"
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_F3X_APP:150:5
+ATIS2:"Doha Director" - Secondary Frequency
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:DOH_FFM_APP:150:5
+ATIS2:"Doha Director Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+END

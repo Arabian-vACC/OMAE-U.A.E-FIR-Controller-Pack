@@ -1,0 +1,43 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Y:\VATSIMLibrary\Euroscope Sector Files\[OMAE] U.A.E FIR Developer\OMAE-Developer_20240616214340-240601-0001.sct
+SECTORTITLE:OMAE-Developer_20240616214340-240601-0001.sct
+Airports:OMDB:symbol
+ARTCC low boundary:OMAE MBZ - Jumeirah:
+ARTCC low boundary:Tower CTR OMDB:
+ARTCC low boundary:Tower CTR OMDW:
+ARTCC low boundary:Tower CTR OMSJ:
+Geo:OMAE Landmark Coastline:
+Geo:OMAE SAS Al Nakhl Tower - Class G:
+Runways:OMSJ 12-30:centerline
+Runways:OMSJ 12-30:extended centerline 1
+Runways:OMSJ 12-30:extended centerline 1 left ticks
+Runways:OMSJ 12-30:extended centerline 1 right ticks
+Runways:OMSJ 12-30:extended centerline 2
+Runways:OMSJ 12-30:extended centerline 2 left ticks
+Runways:OMSJ 12-30:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:0
+BELOW:200
+ABOVE:15000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky_UAE_TWR
+WINDOWAREA:25.012304:54.865009:25.503009:55.873071
+PLUGIN:Controller Pack ARBvACC:Timerbottom:834
+PLUGIN:Controller Pack ARBvACC:Timerleft:12
+PLUGIN:Controller Pack ARBvACC:Timerright:212
+PLUGIN:Controller Pack ARBvACC:Timertop:734
+PLUGIN:Controller Pack ARBvACC:Timervisible:0
+PLUGIN:Controller Pack UAEvACC:Timerbottom:422
+PLUGIN:Controller Pack UAEvACC:Timerleft:1711
+PLUGIN:Controller Pack UAEvACC:Timerright:1911
+PLUGIN:Controller Pack UAEvACC:Timertop:322
+PLUGIN:Controller Pack UAEvACC:Timervisible:1

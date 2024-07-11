@@ -1,0 +1,69 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:Y:\VATSIMLibrary\Euroscope Sector Files\[OMAE] U.A.E FIR Developer\OMAE-Developer_20240616214340-240601-0001.sct
+SECTORTITLE:OMAE-Developer_20240616214340-240601-0001.sct
+Airports:OMAA:name
+Airports:OMAA:symbol
+Airports:OMAB:name
+Airports:OMAB:symbol
+Airports:OMAD:name
+Airports:OMAD:symbol
+Airports:OMAF:name
+Airports:OMAF:symbol
+Airports:OMAG:name
+Airports:OMAG:symbol
+Airports:OMAJ:name
+Airports:OMAJ:symbol
+Airports:OMAL:name
+Airports:OMAL:symbol
+Airports:OMAQ:name
+Airports:OMAQ:symbol
+Airports:OMAR:name
+Airports:OMAR:symbol
+Airports:OMAS:name
+Airports:OMAS:symbol
+Airports:OMAZ:name
+Airports:OMAZ:symbol
+Airports:OMBY:name
+Airports:OMBY:symbol
+Airports:OMDB:name
+Airports:OMDB:symbol
+Airports:OMDL:name
+Airports:OMDL:symbol
+Airports:OMDM:name
+Airports:OMDM:symbol
+Airports:OMDW:name
+Airports:OMDW:symbol
+Airports:OMFJ:name
+Airports:OMFJ:symbol
+Airports:OMRJ:name
+Airports:OMRJ:symbol
+Airports:OMRK:name
+Airports:OMRK:symbol
+Airports:OMRS:name
+Airports:OMRS:symbol
+Airports:OMSJ:name
+Airports:OMSJ:symbol
+Airports:OTBD:name
+Airports:OTBD:symbol
+Airports:OTHH:name
+Airports:OTHH:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:2500
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:329.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:25.225602:55.323307:25.272569:55.416526
+PLUGIN:Ground Radar plugin:AirportElevation:62
+PLUGIN:Ground Radar plugin:AirportRadius:2.0
+PLUGIN:Ground Radar plugin:GroundMode:OMDB
+PLUGIN:TopSky plugin:NoDraw:1

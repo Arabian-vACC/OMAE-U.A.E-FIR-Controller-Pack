@@ -1,0 +1,70 @@
+PROFILE
+PROFILE:(INITIALS)_OBS:300:0
+ATIS2:Arabian vACC - Observer
+ATIS3:Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_1_TWR:50:4
+ATIS2:"Hamad Tower" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_1X_TWR:50:4
+ATIS2:"Hamad Tower" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_2_TWR:50:4
+ATIS2:"Hamad Tower" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_FM_TWR:50:4
+ATIS2:"Hamad Tower Planner" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTBD_1_TWR:50:4
+ATIS2:"Doha Tower" - DCL [OTBD]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTBD_1X_TWR:50:4
+ATIS2:"Doha Tower" - DCL [OTBD]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTBH_TWR:50:4
+ATIS2:"Al-Udaid Tower" - DCL [OTBD]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_1_GND:20:3
+ATIS2:"Hamad Ground" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_1X_GND:20:3
+ATIS2:"Hamad Ground" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_2_GND:20:3
+ATIS2:"Hamad Ground" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_3_GND:20:3
+ATIS2:"Hamad Ground" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_4_GND:20:3
+ATIS2:"Hamad Ground" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_FM_GND:20:3
+ATIS2:"Hamad Ground" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTBD_GND:20:3
+ATIS2:"Doha Ground" - DCL [OTBD]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_DEL:20:2
+ATIS2:"Hamad Delivery" - DCL [OTHH]
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OTHH_FM_DEL:20:2
+ATIS2:"Hamad Delivery" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/information
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+END
