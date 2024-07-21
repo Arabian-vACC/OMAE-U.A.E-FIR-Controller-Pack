@@ -1,33 +1,50 @@
-// File created for the Arabian vACC - Doha FIR (OTDF)
-// Developed and maintained by Chriss Klosowski (1306415)
-//
-// Version 1.0.0
-//
-// Last Change by Chriss Klosowski
-//
-// Changelog:
-// 17/04/2024 - Initial Release
-//
-// To be used on the VATSIM Network only
+// 0501 to 0577: Dubai & Maktoum Primary + OMAL
+// 6201 to 6277: Dubai & Maktoum Secondary + OMRK + OMAL
 
-// Hamad and Doha Departure Squawk
-RANGE:2601:2677
-ADEP:OTHH:OTBD:OT
-IFR
+// 3401 to 3477: Sharjah Primary + OMFJ + OMAD, Abu Dhabi Secondary
+// 1701 to 1777: Sharjah Secondary + OMFJ + OMAD, Abu Dhabi & Ras Al Khaimah Primary
 
-// Hamad and Doha Departure Squawk
-RANGE:3201:3277
-ADEP:OTHH:OTBH:OT
-SECONDARY
-IFR
+// 6201 to 6277: Transit ACC squawk
+// 6001 to 6077: Arrivals ACC Squawk
 
-// Hamad and Doha Domestic Squawk
-RANGE:1201:1277
-ADEP:OTHH:OTBD:OT
-ADES:OT
-IFR
+// 0601 to 0677: Dubai & Al-Maktoum Domestic Squawk + OMRK + OMAL
+// 6101 to 6177: Abu Dhabi & Sharjah Domestic Squawk + OMFJ + OMAD
 
-// Hamad and Doha Domestic Squawk
-RANGE:1201:1277
-ADEP:OTHH:OTBD:OT
-ADES:OT:OB
+// Dubai & Al-Maktoum Departure Squawk
+RANGE:0501:0577
+ADEP:OMDB:OMDW
+NOTADES:OM
+
+// Dubai & Al-Maktoum Departure Squawk
+RANGE:6201:6277
+ADEP:OMDB:OMDW
+NOTADES:OM
+
+// Abu Dhabi & Sharjah Departure Squawk
+RANGE:3401:3477
+ADEP:OMAA:OMAD:OMAL:OMFJ:OMSJ
+NOTADES:OM
+
+// Abu Dhabi & Sharjah Departure Squawk
+RANGE:1701:1777
+ADEP:OMAA:OMAD:OMAL:OMFJ:OMRK:OMSJ
+NOTADES:OM
+
+// Dubai & Al-Maktoum Domestic Squawk
+RANGE:0601:0677
+ADEP:OMDB:OMDW:OMRK:OMAL
+ADES:OM
+
+// Abu Dhabi & Sharjah Domestic Squawk
+RANGE:6101:6177
+ADEP:OMAA:OMSJ:OMAD:OMFJ
+ADES:OM
+
+// Area Control Center Arrivals
+RANGE:6001:6077
+ADES:OM
+
+// Area Control Center Transit
+RANGE:1701:1777
+NOTADEP:OM
+NOTADES:OM

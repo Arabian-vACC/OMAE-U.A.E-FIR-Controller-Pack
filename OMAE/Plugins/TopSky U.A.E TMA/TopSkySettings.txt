@@ -78,15 +78,15 @@ HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
 
 Shortcut_RadarMenu_Combo=0x12
 
-CPDLC_Default=0
-CPDLC_MinLevel=315
+CPDLC_MinLevel=155
 CPDLC_Transfer=1
 CPDLC_CFL=1
 CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
+CPDLC_FSM_CLD_Header=<adep> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> <adep> PDC <number>. @<callsign>@
 
-RDF_Mode=0
+RDF_Mode=1
 
 Equip_ModeS=PISXEHL
 Equip_UseCodes=2
@@ -118,15 +118,15 @@ Track_PredictionLine=0
 RwyAppLines_Auto=0
 
 // Colors
-Color_Active_Map=198,174,58
-Color_Active_Map_Type_1=158,158,255
-Color_Active_Map_Type_2=90,90,90
+Color_Active_Map=181,20,20
+Color_Active_Map_Type_1=87,87,164
+Color_Active_Map_Type_2=80,162,74
 Color_Active_Map_Type_3=179,180,180
 Color_Active_Map_Type_4=200,53,18
 Color_Active_Map_Type_5=198,174,58
 Color_Active_RD_Infill_Map=90,90,90
 Color_Active_Sector=52,58,62
-Color_Active_Text_Map=198,174,58
+Color_Active_Text_Map=181,20,20
 Color_AIW_Intrusion=255,152,0
 Color_Arm=97,97,97
 Color_Assumed=24,239,56
@@ -181,9 +181,9 @@ Color_Predisplay_Map=175,130,130
 Color_Proposition=255,130,180
 Color_QDM=215,190,163
 Color_Redundant=210,181,147
-Color_Runway=116,200,71
-Color_Rwy_App_Line_Inuse=255,255,255
-Color_Rwy_App_Line_Not_Inuse=255,255,255
+Color_Runway=255,255,255
+Color_Rwy_App_Line_Inuse=212,212,212
+Color_Rwy_App_Line_Not_Inuse=90,90,165
 Color_Rwy_Locked=41,210,41
 Color_Selected=61,121,148
 Color_Selected_Group=255,255,254
