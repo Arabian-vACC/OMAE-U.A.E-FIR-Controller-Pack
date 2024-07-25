@@ -232,7 +232,8 @@ Label_SI_FreqTime=3
 Label_DAPs=1
 Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner
 Label_Rev_Highlight_Delta_ETN=0
-Label_Alt_Digits=2
+Label_Alt_Digits=3
+Label_ASP_Digits=3
 
 Label_COP_MaxChars=3
 Label_FCOP_MaxChars=3
