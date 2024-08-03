@@ -88,6 +88,7 @@ SYMBOL:DAPS
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
 
+//Radar position symbol for diverging SSR(A) tracks
 SYMBOL:DAPS_DIV
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
@@ -98,6 +99,7 @@ SYMBOL:ADSB
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
 
+//Radar position symbol for diverging ADSB tracks
 SYMBOL:ADSB_DIV
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360

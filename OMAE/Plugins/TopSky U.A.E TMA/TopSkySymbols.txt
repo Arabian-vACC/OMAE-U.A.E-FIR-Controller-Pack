@@ -1,3 +1,13 @@
+// File created for the Arabian vACC - U.A.E. FIR (OMAE)
+// Developed and maintained by Chriss Klosowski (1306415) and Suprojit Paul (1351391)
+//
+// Last Change by Suprojit Paul
+//
+// Changelog:
+// 14/04/2024 - Initial Release
+//
+// To be used on the VATSIM Network only
+
 SYMBOL:AIRPORT
 MOVETO:-3:-3
 LINETO:3:-3
@@ -30,29 +40,63 @@ LINETO:4:-4
 SYMBOL:MARKER
 ARC:0:0:2:0:360
 
-SYMBOL:RPS1
+//History dot
+SYMBOL:HISTORY
+FILLARC:0:0:1:0:0
+
+//Radar position symbol for PSR tracks
+SYMBOL:PRIMARY
+FILLARC:0:0:3:0:0
+
+//Radar position symbol for diverging PSR tracks
+SYMBOL:PRIMARY_DIV
+FILLARC:0:0:3:0:0
+ARC:0:0:10:0:0
+
+//Radar position symbol for SSR(A) tracks
+SYMBOL:NODAPS
 MOVETO:-4:0
 LINETO:0:-4
 LINETO:4:0
 LINETO:0:4
 LINETO:-4:0
 
-SYMBOL:RPS2
-ARC:0:0:5:0:360
-ARC:0:0:4:0:360
+//Radar position symbol for diverging SSR(A) tracks
+SYMBOL:NODAPS_DIV
+MOVETO:-4:0
+LINETO:0:-4
+LINETO:4:0
+LINETO:0:4
+LINETO:-4:0
 
-SYMBOL:RPS3
-POLYGON:-4:-4:-4:4:4:4:4:-4
+//Radar position symbol for SSR(A) tracks
+SYMBOL:DAPS
+MOVETO:-4:0
+LINETO:0:-4
+LINETO:4:0
+LINETO:0:4
+LINETO:-4:0
 
-SYMBOL:RPSH
-MOVETO:0:0
-LINETO:0:1
-LINETO:1:1
-LINETO:1:0
-LINETO:0:0
+//Radar position symbol for SSR(A) tracks
+SYMBOL:DAPS_DIV
+MOVETO:-4:0
+LINETO:0:-4
+LINETO:4:0
+LINETO:0:4
+LINETO:-4:0
 
-SYMBOL:RPSC
-MOVETO:-6:-6
-LINETO:-6:6
-LINETO:6:6
-LINETO:6:-7
+//Radar position symbol for SSR(A) tracks
+SYMBOL:DAPS
+MOVETO:-4:0
+LINETO:0:-4
+LINETO:4:0
+LINETO:0:4
+LINETO:-4:0
+
+//Radar position symbol for ADSB tracks
+SYMBOL:DAPS_DIV
+MOVETO:-4:0
+LINETO:0:-4
+LINETO:4:0
+LINETO:0:4
+LINETO:-4:0
