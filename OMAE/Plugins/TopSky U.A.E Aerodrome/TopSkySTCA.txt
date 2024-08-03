@@ -1,20 +1,52 @@
-// File created for the Arabian vACC - Doha FIR (OTDF)
-// Developed and maintained by Chriss Klosowski (1306415)
+// File created for the Arabian vACC - U.A.E FIR (OMAE)
+// Developed and maintained by the Arabian vACC Operations Department
 //
 // Version 1.0.0
 //
-// Last Change by Chriss Klosowski
-//
-// Changelog:
-// 17/04/2024 - Initial Release
-//
 // To be used on the VATSIM Network only
 
-FINALAPP:OTHH:16L
-FINALAPP:OTHH:16R
+// Abu Dhabi
+FINALAPP:OMAA:31L
+FINALAPP:OMAA:31R
+FINALAPP:OMAA:13L
+FINALAPP:OMAA:13R
 
-FINALAPP:OTHH:34L
-FINALAPP:OTHH:34R
+SOIR:OMAA:31L:31R
+SOIR:OMAA:13L:13R
 
-FINALAPP:OTBD:15
-FINALAPP:OTBD:33
+// Al Bateen
+FINALAPP:OMAD:31
+FINALAPP:OMAD:13
+
+// Al Ain
+FINALAPP:OMAL:01
+FINALAPP:OMAL:19
+
+// Dubai
+FINALAPP:OMDB:30L
+FINALAPP:OMDB:30R
+FINALAPP:OMDB:12L
+FINALAPP:OMDB:12R
+
+SOIR:OMDB:30L:30R:10:0.1:0.3
+
+// Al-Maktoum
+FINALAPP:OMDW:30
+FINALAPP:OMDW:12
+FINALAPP:OMDW:31
+FINALAPP:OMDW:13
+
+SOIR:OMDW:31:30
+SOIR:OMDW:12:13
+
+// Fujairah
+FINALAPP:OMFJ:29L
+FINALAPP:OMFJ:11R
+
+// Ras Al Khaimah
+FINALAPP:OMRK:34
+FINALAPP:OMRK:16
+
+// Sharjah
+FINALAPP:OMSJ:30
+FINALAPP:OMSJ:12

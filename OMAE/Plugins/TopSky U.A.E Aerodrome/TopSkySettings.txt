@@ -1,12 +1,7 @@
-// File created for the Arabian vACC - Doha FIR (OTDF)
-// Developed and maintained by Chriss Klosowski (1306415)
+// File created for the Arabian vACC - U.A.E FIR (OMAE)
+// Developed and maintained by the Arabian vACC Operations Department
 //
 // Version 1.0.0
-//
-// Last Change by Chriss Klosowski
-//
-// Changelog:
-// 19/04/2024 - Initial Release
 //
 // To be used on the VATSIM Network only
 
@@ -91,11 +86,10 @@ Malrt_Misap=MAPP
 Malrt_Inbound_EST=EST
 Malrt_Irregular=IRR
 
-Airspace_P_Flag=EIDW
+Airspace_P_Flag=OMDB
 Airspace_No_DUPE_Codes=7000,2000,2200,1200,2655,0401
-Airspace_SIGMET_Areas=OTDF
-Airspace_NOTAM_Add=OTDF,OBBB
-Airspace_NOTAM_Remove=OBBI
+Airspace_SIGMET_Areas=OMAE
+Airspace_NOTAM_Add=OMAE
 Airspace_ASSR_Type=2
 Airspace_ASSR_AutoAssign_Type=0
 
