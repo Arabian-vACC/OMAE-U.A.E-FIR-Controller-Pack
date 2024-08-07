@@ -1,10 +1,5 @@
 //File created for the Arabian vACC - U.A.E FIR (OMAE)
-//Developed and maintained by Chriss Klosowski (1306415) and Suprojit Paul (1351391)
-//
-//Last Change by Suprojit Paul (1351391)
-//
-//Changelog:
-//01/07/2024 - Initial Release
+//Developed and maintained by the Arabian vACC Operations Department
 //
 //To be used on the VATSIM Network only
 COLORDEF:ASP_ACC:0:105:205
