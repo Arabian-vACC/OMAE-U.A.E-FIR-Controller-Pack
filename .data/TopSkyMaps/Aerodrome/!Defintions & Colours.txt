@@ -1,8 +1,6 @@
 //&preserve File created for the Arabian vACC - U.A.E FIR (OMAE)
 //&preserve Developed and maintained by the Arabian vACC Operations Department
 //&preserve
-//&preserve Version 1.0.0
-//&preserve
 //&preserve To be used on the VATSIM Network only
 
 // Color Definitions

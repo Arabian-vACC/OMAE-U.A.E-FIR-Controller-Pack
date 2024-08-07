@@ -1,10 +1,5 @@
 //&preserve File created for the Arabian vACC - U.A.E FIR (OMAE)
-//&preserve Developed and maintained by Chriss Klosowski (1306415) and Suprojit Paul (1351391)
-//&preserve
-//&preserve Last Change by Suprojit Paul (1351391)
-//&preserve
-//&preserve Changelog:
-//&preserve 01/07/2024 - Initial Release
+//&preserve Developed and maintained by the Arabian vACC Operations Department
 //&preserve
 //&preserve To be used on the VATSIM Network only
 
