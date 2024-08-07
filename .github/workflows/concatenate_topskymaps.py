@@ -8,7 +8,13 @@ def concatenate_files(source_directory, output_file):
                 with open(file_path, 'r') as infile:
                     for line in infile:
                         stripped_line = line.strip()
-                        if stripped_line and (not stripped_line.startswith('//') or stripped_line.startswith('//&preserve')):
+                        if stripped_line:
+                            if stripped_line.startswith('//&preserve'):
+                                # Remove the //&preserve prefix but keep the // and the rest of the line
+                                stripped_line = '//' + stripped_line[len('//&preserve'):].strip()
+                            elif stripped_line.startswith('//'):
+                                # Skip lines starting with // that don't start with //&preserve
+                                continue
                             outfile.write(stripped_line + '\n')  # Write the cleaned line
 
 def main():
