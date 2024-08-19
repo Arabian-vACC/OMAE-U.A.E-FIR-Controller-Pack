@@ -30,7 +30,6 @@ ASRFastKeys	1	\OMAE\ASR\Aerodrome\Dubai AIR Dynamic.asr
 ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
 RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Dubai AIR Dynamic.asr
 RecentFiles	Recent2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
-RecentFiles	Recent3	\OMAE\ASR\Aerodrome\Doha Aerodrome - Dynamic.asr
 TeamSpeakVccs	TsVccsMiniControlX	1458
 TeamSpeakVccs	TsVccsMiniControlY	133
 TeamSpeakVccs	Ts3DialogLeft	0
@@ -60,7 +59,7 @@ Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin4	\OMAE\Plugins\TopSky U.A.E Aerodrome\TopSky.dll
+Plugins	Plugin4	\OMAE\Plugins\TopSky Aerodrome\TopSky.dll
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
