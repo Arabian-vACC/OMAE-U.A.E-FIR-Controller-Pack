@@ -1,0 +1,85 @@
+Settings	sector	\OMAE-Developer_20240819080014-240801-0001.sct
+Settings	Settingsfile	\OMAE\Settings\General_ACC.txt
+Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Symbology_ACC.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Voice_ACC.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Profiles_ACC.txt
+Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
+Settings	SettingsfileSIL	\OMAE\Settings\Sector_inbound_list.txt
+Settings	SettingsfileSEL	\OMAE\Settings\Sector_exit_list.txt
+Settings	SettingsfileDEP	\OMAE\Settings\Departure_list.txt
+Settings	SettingsfileARR	\OMAE\Settings\Arrival_list.txt
+Settings	SettingsfileFP	\OMAE\Settings\Flightplan_list.txt
+Settings	SettingsfileCONFLICT	\OMAE\Settings\Conflict_list.txt
+Settings	SettingsfilePILOTING	\OMAE\Settings\Pilot_list.txt
+Settings	SettingsfilePLUGINS	\OMAE\Settings\Plugins.txt
+Settings	SettingsfileSCREEN	\OMAE\Settings\Screen.txt
+Settings	AtisFolder	\OMAE\ATIS\atisfiles.txt
+Settings	alias	\OMAE\Alias\alias.txt
+Settings	SettingsfileVCCS	\OMAE\Settings\VCCS.txt
+Settings	airlines	\OMAE\ICAO\ICAO_Airlines.txt
+Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
+Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
+Settings	airways	\OMAE\NavData\airway.txt
+Settings	airportcoords	\OMAE\NavData\icao.txt
+Plugins	Plugin0	\OMAE\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1	\OMAE\Plugins\Topsky Enroute\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin2	\OMAE\Plugins\AFV\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin4	\OMAE\Plugins\vSMR\vSMR.dll
+Plugins	Plugin4Display0	SMR radar display
+Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
+Plugins	Plugin5Display0	SMR radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
+RecentFiles	Recent1	\OMAE\ASR\Enroute\UAE ACC Bandbox.asr
+RecentFiles	Recent2	\OMAE\ASR\Dubai SMGCS.asr
+RecentFiles	Recent3	\OMAE\ASR\Abu Dhabi GMC.asr
+RecentFiles	Recent4	\OMAE\ASR\Ras Al-Khaimah GMC.asr
+RecentFiles	Recent5	\OMAE\ASR\Fujairah GMC.asr
+RecentFiles	Recent6	\OMAE\ASR\Al-Bateen Executive GMC.asr
+RecentFiles	Recent7	\OMAE\ASR\Sharjah GMC.asr
+RecentFiles	Recent8	\OMAE\ASR\Al-Maktoum GMC.asr
+RecentFiles	Recent9	\OMAE\ASR\Enroute\UAE ACC Upper.asr
+ASRFastKeys	1	\OMAE\ASR\Enroute\UAE ACC Bandbox.asr
+ASRFastKeys	2	\OMAE\ASR\Enroute\UAE ACC Upper.asr
+ASRFastKeys	3	\OMAE\ASR\Aerodrome\SMGCS\Dubai SMGCS.asr
+ASRFastKeys	4	\OMAE\ASR\Abu Dhabi GMC.asr
+ASRFastKeys	5	\OMAE\ASR\Al-Maktoum GMC.asr
+ASRFastKeys	6	\OMAE\ASR\Sharjah GMC.asr
+ASRFastKeys	7	\OMAE\ASR\Al-Bateen Executive GMC.asr
+ASRFastKeys	8	\OMAE\ASR\Fujairah GMC.asr
+ASRFastKeys	9	\OMAE\ASR\Ras Al-Khaimah GMC.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	callsign	<Initials>_OBS
+LastSession	atis2	U.A.E Observer
+LastSession	atis4	Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/me/feedback
+LastSession	range	275
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound0	\OMAE\Sounds\handoff_request.wav
+Sounds	Sound1	\OMAE\Sounds\handoff_accept.wav
+Sounds	Sound2	\OMAE\Sounds\conflict_alert.wav
+Sounds	Sound3	\OMAE\Sounds\radio_message.wav
+Sounds	Sound4	\OMAE\Sounds\private_message.wav
+Sounds	Sound5	\OMAE\Sounds\atc_message.wav
+Sounds	Sound6	\OMAE\Sounds\broadcast_message.wav
+Sounds	Sound7	\OMAE\Sounds\landline_request.wav
+Sounds	Sound8	\OMAE\Sounds\supervisor_message.wav
+Sounds	Sound9	\OMAE\Sounds\connected.wav
+Sounds	Sound10	\OMAE\Sounds\disconnected.wav
+Sounds	Sound11	\OMAE\Sounds\ongoing_request.wav
+Sounds	Sound12	\OMAE\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\OMAE\Sounds\ongoing_refused.wav
+Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
+Sounds	Sound15	\OMAE\Sounds\new_atis.wav
+Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
+Sounds	Sound17	\OMAE\Sounds\pointout.wav
+Sounds	Sound18	\OMAE\Sounds\startup.wav
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
