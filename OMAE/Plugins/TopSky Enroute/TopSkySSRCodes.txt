@@ -1,3 +1,10 @@
+// File created for the Arabian vACC - U.A.E FIR (OMAE)
+// Developed and maintained by the Arabian vACC Operations Department
+//
+// Version 1.0.0
+//
+// To be used on the VATSIM Network only
+
 // 0501 to 0577: Dubai & Maktoum Primary + OMAL
 // 6201 to 6277: Dubai & Maktoum Secondary + OMRK + OMAL
 

@@ -1,56 +1,9 @@
-// File created for the Arabian vACC - U.A.E. FIR (OMAE)
-// Developed and maintained by Chriss Klosowski (1306415) and Suprojit Paul (1351391)
+// File created for the Arabian vACC - U.A.E FIR (OMAE)
+// Developed and maintained by the Arabian vACC Operations Department
 //
-// Last Change by Suprojit Paul
-//
-// Changelog:
-// 14/04/2024 - Initial Release
+// Version 1.0.0
 //
 // To be used on the VATSIM Network only
-
-SYMBOL:AIRPORT
-MOVETO:-4:2
-LINETO:-2:4
-LINETO:2:4
-LINETO:4:2
-LINETO:4:-2
-LINETO:2:-4
-LINETO:-2:-4
-LINETO:-4:-2
-LINETO:-4:2
-MOVETO:0:-4
-LINETO:0:-8
-MOVETO:0:4
-LINETO:0:8
-MOVETO:-4:0
-LINETO:-8:0
-MOVETO:4:0
-LINETO:8:0
-MOVETO:5:9
-
-SYMBOL:NDB
-MOVETO:-2:-4
-LINETO:-6:0
-LINETO:-2:4
-LINETO:2:4
-LINETO:6:0
-LINETO:2:-4
-LINETO:-2:-4
-
-SYMBOL:VOR
-MOVETO:-2:-4
-LINETO:-6:0
-LINETO:-2:4
-LINETO:2:4
-LINETO:6:0
-LINETO:2:-4
-LINETO:-2:-4
-
-SYMBOL:FIX
-MOVETO:-5:4
-LINETO:0:-4
-LINETO:4:4
-LINETO:-5:4
 
 //Coasting track symbol
 SYMBOL:COASTED
@@ -59,7 +12,7 @@ LINETO:-6:6
 LINETO:6:6
 LINETO:6:-7
 
-//History dot
+//Hystory dot
 SYMBOL:HISTORY
 FILLARC:0:0:1:0:0
 
@@ -83,12 +36,12 @@ ARC:0:0:3:0:360
 ARC:0:0:2:0:360
 ARC:0:0:10:0:0
 
+
 //Radar position symbol for SSR(A) tracks
 SYMBOL:DAPS
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
 
-//Radar position symbol for diverging SSR(A) tracks
 SYMBOL:DAPS_DIV
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
@@ -99,7 +52,6 @@ SYMBOL:ADSB
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360
 
-//Radar position symbol for diverging ADSB tracks
 SYMBOL:ADSB_DIV
 ARC:0:0:3:0:360
 ARC:0:0:2:0:360

@@ -1,11 +1,7 @@
-// File created for the Arabian vACC - UAE FIR (OMAE) sector File
-// Developed and maintained by Chriss Klosowski (1306415)
+// File created for the Arabian vACC - U.A.E FIR (OMAE)
+// Developed and maintained by the Arabian vACC Operations Department
 //
-// Last Change by Suprojit Paul (1351391)
-//
-// Changelog:
-// 04/07/2024 - Initial Release.
-// 11/07/2024 - Fixed stand coordinate definitions, added missing airline codes
+// Version 1.0.0
 //
 // To be used on the VATSIM Network only
 
