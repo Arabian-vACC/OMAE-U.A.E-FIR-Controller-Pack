@@ -1,131 +1,12 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\VATSIM - Euroscope Sector Files\[OMAE] U.A.E FIR Developer\OMAE-Developer_20240616214340-240601-0001.sct
-SECTORTITLE:OMAE-Developer_20240616214340-240601-0001.sct
-ARTCC boundary:MRVA OMDB:
-ARTCC high boundary:OMAE ACC West:
-ARTCC high boundary:OMAE ACC Yankee:
-ARTCC low boundary:OMAE MBZ - Jumeirah:
-ARTCC low boundary:TMA OMDW Al-Maktoum:
-ARTCC low boundary:Tower CTR OMDB:
-ARTCC low boundary:Tower CTR OMDW:
-ARTCC low boundary:Tower CTR OMSJ:
-Fixes:ALSIL:name
-Fixes:ALSIL:symbol
-Fixes:ANVIX:name
-Fixes:ANVIX:symbol
-Fixes:DAPAD:name
-Fixes:DAPAD:symbol
-Fixes:DATOB:name
-Fixes:DATOB:symbol
-Fixes:DAVMO:name
-Fixes:DAVMO:symbol
-Fixes:EMERU:name
-Fixes:EMERU:symbol
-Fixes:GETID:name
-Fixes:GETID:symbol
-Fixes:GIDIS:name
-Fixes:GIDIS:symbol
-Fixes:GONVI:name
-Fixes:GONVI:symbol
-Fixes:IMPED:name
-Fixes:IMPED:symbol
-Fixes:IVURO:name
-Fixes:IVURO:symbol
-Fixes:KUTLI:name
-Fixes:KUTLI:symbol
-Fixes:LORID:name
-Fixes:LORID:symbol
-Fixes:MIROT:name
-Fixes:MIROT:symbol
-Fixes:NABIX:name
-Fixes:NABIX:symbol
-Fixes:NOLSU:name
-Fixes:NOLSU:symbol
-Fixes:ORLAD:name
-Fixes:ORLAD:symbol
-Fixes:PUVAL:name
-Fixes:PUVAL:symbol
-Fixes:REVUL:name
-Fixes:REVUL:symbol
-Fixes:RIDAP:name
-Fixes:RIDAP:symbol
-Fixes:SENPA:name
-Fixes:SENPA:symbol
-Fixes:ULDOT:name
-Fixes:ULDOT:symbol
-Fixes:UMAMI:name
-Fixes:UMAMI:symbol
-Fixes:VUTEB:name
-Fixes:VUTEB:symbol
-Geo:OMAE SAS Al Nakhl Tower - Class G:
-Runways:OMDB 12L-30R:centerline
-Runways:OMDB 12L-30R:extended centerline 1
-Runways:OMDB 12L-30R:extended centerline 1 left ticks
-Runways:OMDB 12L-30R:extended centerline 1 right ticks
-Runways:OMDB 12R-30L:centerline
-Runways:OMDB 12R-30L:extended centerline 2
-Runways:OMDB 12R-30L:extended centerline 2 left ticks
-Runways:OMDB 12R-30L:extended centerline 2 right ticks
-Runways:OMDW 12-30:centerline
-Runways:OMDW 12-30:extended centerline 1
-Runways:OMDW 12-30:extended centerline 1 left ticks
-Runways:OMDW 12-30:extended centerline 1 right ticks
-Runways:OMDW 12-30:extended centerline 2
-Runways:OMDW 12-30:extended centerline 2 left ticks
-Runways:OMDW 12-30:extended centerline 2 right ticks
-Runways:OMDW 13-31:centerline
-Runways:OMSJ 12-30:centerline
-Runways:OMSJ 12-30:extended centerline 1
-Runways:OMSJ 12-30:extended centerline 1 left ticks
-Runways:OMSJ 12-30:extended centerline 1 right ticks
-Runways:OMSJ 12-30:extended centerline 2
-Runways:OMSJ 12-30:extended centerline 2 left ticks
-Runways:OMSJ 12-30:extended centerline 2 right ticks
-Sids:OMDB SID 30R ANVIX7F:
-Sids:OMDB SID 30R DAVMO4F:
-Sids:OMDB SID 30R EMERU2F:
-Sids:OMDB SID 30R IVURO1F:
-Sids:OMDB SID 30R KUTLI4F:
-Sids:OMDB SID 30R MIROT3F:
-Sids:OMDB SID 30R NABIX3F:
-Sids:OMDB SID 30R RIDAP2F:
-Sids:OMDB SID 30R SENPA2F:
-Sids:OMSJ SID 30 ANVIX5R:
-Sids:OMSJ SID 30 DAVMO3R:
-Sids:OMSJ SID 30 EMERU1R:
-Sids:OMSJ SID 30 IVURO1R:
-Sids:OMSJ SID 30 KUTLI3R:
-Sids:OMSJ SID 30 MIROT2R:
-Sids:OMSJ SID 30 NABIX2R:
-Sids:OMSJ SID 30 RIDAP2R:
-Sids:OMSJ SID 30 SENPA2R:
-Stars:OMDB STAR 30L IMPED3C:
-Stars:OMDB STAR 30L LORID3C:
-Stars:OMDB STAR 30L LORID4D:
-Stars:OMDB STAR 30L PUVAL2D:
-Stars:OMDB STAR 30L PUVAL5C:
-Stars:OMDB STAR 30L VUTEB3C:
-Stars:OMDB STAR 30L VUTEB3D:
-Stars:OMDW STAR 30 DATOB5Z:
-Stars:OMDW STAR 30 ELOVU3Z:
-Stars:OMDW STAR 30 GERUL3Z:
-Stars:OMDW STAR 30 GIDIS5Z:
-Stars:OMDW STAR 30 GONVI5Z:
-Stars:OMDW STAR 30 LORID3Z:
-Stars:OMDW STAR 30 PUVAL6Z:
-Stars:OMDW STAR 30 UMAMI4Z:
-Stars:OMSJ STAR 30 GONVI4M:
-Stars:OMSJ STAR 30 LORID4M:
-Stars:OMSJ STAR 30 NOLSU2M:
-Stars:OMSJ STAR 30 PUVAL6M:
 SHOWC:1
 SHOWSB:0
 BELOW:200
-ABOVE:12500
-LEADER:4
-SHOWLEADER:0
+ABOVE:18500
+LEADER:-1
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
@@ -133,7 +14,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_UAE_APP_RECAT
-WINDOWAREA:24.404513:53.625826:26.078693:57.065116
+WINDOWAREA:24.640614:53.884631:25.979958:56.683373
 PLUGIN:Controller Pack ARBvACC:Timerbottom:834
 PLUGIN:Controller Pack ARBvACC:Timerleft:12
 PLUGIN:Controller Pack ARBvACC:Timerright:212

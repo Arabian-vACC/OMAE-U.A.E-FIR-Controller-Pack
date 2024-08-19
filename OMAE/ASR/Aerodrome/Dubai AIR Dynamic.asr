@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:Y:\VATSIMLibrary\Euroscope Sector Files\[OMAE] U.A.E FIR Developer\OMAE-Developer_20240616214340-240601-0001.sct
-SECTORTITLE:OMAE-Developer_20240616214340-240601-0001.sct
 Airports:OMDB:symbol
 ARTCC low boundary:OMAE MBZ - Jumeirah:
 ARTCC low boundary:Tower CTR OMDB:

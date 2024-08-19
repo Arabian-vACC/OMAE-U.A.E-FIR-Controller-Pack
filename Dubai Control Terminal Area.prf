@@ -1,4 +1,3 @@
-Settings	sector	\OMAE-DeveloperAlpha_20240819121627-240801-0003.sct
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Voice.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Profiles.txt
@@ -28,6 +27,9 @@ Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
 ASRFastKeys	1	\OMAE\ASR\Terminal\Dubai TMA Dynamic.asr
 ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
+ASRFastKeys	3	\OMAE\ASR\SMGCS\Sharjah SMGCS.asr
+ASRFastKeys	4	\OMAE\ASR\SMGCS\Al Maktoum SMGCS.asr
+ASRFastKeys	5	\OMAE\ASR\SMGCS\Minhad SMGCS.asr
 RecentFiles	Recent1	\OMAE\ASR\Terminal\Dubai TMA Dynamic.asr
 RecentFiles	Recent2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
 TeamSpeakVccs	TsVccsMiniControlX	1458

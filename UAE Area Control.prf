@@ -1,4 +1,3 @@
-Settings	sector	\OMAE-DeveloperAlpha_20240819121627-240801-0003.sct
 Settings	Settingsfile	\OMAE\Settings\Enroute\General.txt
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Enroute\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Enroute\Voice.txt
@@ -34,24 +33,16 @@ Plugins	Plugin5Display0	SMR radar display
 Plugins	Plugin5Display1	Standard ES radar screen
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
-RecentFiles	Recent1	\OMAE\ASR\Enroute\UAE ACC Bandbox.asr
-RecentFiles	Recent2	\OMAE\ASR\Dubai SMGCS.asr
-RecentFiles	Recent3	\OMAE\ASR\Abu Dhabi GMC.asr
-RecentFiles	Recent4	\OMAE\ASR\Ras Al-Khaimah GMC.asr
-RecentFiles	Recent5	\OMAE\ASR\Fujairah GMC.asr
-RecentFiles	Recent6	\OMAE\ASR\Al-Bateen Executive GMC.asr
-RecentFiles	Recent7	\OMAE\ASR\Sharjah GMC.asr
-RecentFiles	Recent8	\OMAE\ASR\Al-Maktoum GMC.asr
-RecentFiles	Recent9	\OMAE\ASR\Enroute\UAE ACC Upper.asr
-ASRFastKeys	1	\OMAE\ASR\Enroute\UAE ACC Bandbox.asr
-ASRFastKeys	2	\OMAE\ASR\Enroute\UAE ACC Upper.asr
-ASRFastKeys	3	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
-ASRFastKeys	4	\OMAE\ASR\Abu Dhabi GMC.asr
-ASRFastKeys	5	\OMAE\ASR\Al-Maktoum GMC.asr
-ASRFastKeys	6	\OMAE\ASR\Sharjah GMC.asr
-ASRFastKeys	7	\OMAE\ASR\Al-Bateen Executive GMC.asr
-ASRFastKeys	8	\OMAE\ASR\Fujairah GMC.asr
-ASRFastKeys	9	\OMAE\ASR\Ras Al-Khaimah GMC.asr
+RecentFiles	Recent1	\OMAE\ASR\Enroute\UAE ACC.asr
+ASRFastKeys	1	\OMAE\ASR\Enroute\UAE ACC.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
+ASRFastKeys	3	\OMAE\ASR\SMGCS\Abu Dhabi SMGCS.asr
+ASRFastKeys	4	\OMAE\ASR\SMGCS\Sharjah SMGCS.asr
+ASRFastKeys	5	\OMAE\ASR\SMGCS\Al Maktoum SMGCS.asr
+ASRFastKeys	6	\OMAE\ASR\SMGCS\Al Ain SMGCS.asr
+ASRFastKeys	7	\OMAE\ASR\SMGCS\Al Bateen SMGCS.asr
+ASRFastKeys	8	\OMAE\ASR\SMGCS\Fujairah SMGCS.asr
+ASRFastKeys	9	\OMAE\ASR\SMGCS\Ras Al Khaimah SMGCS.asr
 LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
