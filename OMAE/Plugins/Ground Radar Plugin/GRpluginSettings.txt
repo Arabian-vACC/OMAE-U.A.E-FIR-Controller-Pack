@@ -147,6 +147,11 @@ Window_APP_Scale=40
 Window_APP_Extensions=0
 Window_APP_AltFilter=13000
 
+Airport_Runway_End=30R:N025.14.46.657:E055.23.00.487
+Airport_Runway_End=30L:N025.14.05.640:E055.23.48.120
+Airport_Runway_End=12R:N025.15.22.284:E055.21.29.847
+Airport_Runway_End=12L:N025.16.00.269:E055.20.47.682
+
 [OMDW]
 
 [OMFJ]
