@@ -124,7 +124,7 @@ List_Departure_Items=30
 Airport-LVP=1
 
 Airport_Elevation=62
-Airport_Radius=2
+Airport_Radius=2.5
 
 Airport_Runway_Buffer_LVP=12L:145
 Airport_Runway_Buffer_LVP=12R:145
