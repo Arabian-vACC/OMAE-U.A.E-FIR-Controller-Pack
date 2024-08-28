@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
 Free Text:OMSJ Ground Freetext\10:freetext
 Free Text:OMSJ Ground Freetext\11:freetext
 Free Text:OMSJ Ground Freetext\13:freetext

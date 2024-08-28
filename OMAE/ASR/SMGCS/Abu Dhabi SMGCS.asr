@@ -1,6 +1,364 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+Free Text:OMAA Stands\101:freetext
+Free Text:OMAA Stands\101:freetext
+Free Text:OMAA Stands\102:freetext
+Free Text:OMAA Stands\111:freetext
+Free Text:OMAA Stands\112:freetext
+Free Text:OMAA Stands\113:freetext
+Free Text:OMAA Stands\121:freetext
+Free Text:OMAA Stands\122:freetext
+Free Text:OMAA Stands\123:freetext
+Free Text:OMAA Stands\131:freetext
+Free Text:OMAA Stands\132:freetext
+Free Text:OMAA Stands\133:freetext
+Free Text:OMAA Stands\134:freetext
+Free Text:OMAA Stands\136:freetext
+Free Text:OMAA Stands\201:freetext
+Free Text:OMAA Stands\202:freetext
+Free Text:OMAA Stands\203:freetext
+Free Text:OMAA Stands\204:freetext
+Free Text:OMAA Stands\205:freetext
+Free Text:OMAA Stands\206:freetext
+Free Text:OMAA Stands\207:freetext
+Free Text:OMAA Stands\208:freetext
+Free Text:OMAA Stands\209:freetext
+Free Text:OMAA Stands\221:freetext
+Free Text:OMAA Stands\222:freetext
+Free Text:OMAA Stands\301:freetext
+Free Text:OMAA Stands\302:freetext
+Free Text:OMAA Stands\303:freetext
+Free Text:OMAA Stands\304:freetext
+Free Text:OMAA Stands\305:freetext
+Free Text:OMAA Stands\306:freetext
+Free Text:OMAA Stands\307:freetext
+Free Text:OMAA Stands\308:freetext
+Free Text:OMAA Stands\309:freetext
+Free Text:OMAA Stands\401:freetext
+Free Text:OMAA Stands\402:freetext
+Free Text:OMAA Stands\403:freetext
+Free Text:OMAA Stands\404:freetext
+Free Text:OMAA Stands\405:freetext
+Free Text:OMAA Stands\406:freetext
+Free Text:OMAA Stands\407:freetext
+Free Text:OMAA Stands\408:freetext
+Free Text:OMAA Stands\409:freetext
+Free Text:OMAA Stands\410:freetext
+Free Text:OMAA Stands\411:freetext
+Free Text:OMAA Stands\412:freetext
+Free Text:OMAA Stands\413:freetext
+Free Text:OMAA Stands\414:freetext
+Free Text:OMAA Stands\415:freetext
+Free Text:OMAA Stands\416:freetext
+Free Text:OMAA Stands\417:freetext
+Free Text:OMAA Stands\418:freetext
+Free Text:OMAA Stands\419:freetext
+Free Text:OMAA Stands\508:freetext
+Free Text:OMAA Stands\509:freetext
+Free Text:OMAA Stands\510:freetext
+Free Text:OMAA Stands\511:freetext
+Free Text:OMAA Stands\512:freetext
+Free Text:OMAA Stands\513:freetext
+Free Text:OMAA Stands\514:freetext
+Free Text:OMAA Stands\515:freetext
+Free Text:OMAA Stands\516:freetext
+Free Text:OMAA Stands\601:freetext
+Free Text:OMAA Stands\602C:freetext
+Free Text:OMAA Stands\602L:freetext
+Free Text:OMAA Stands\602R:freetext
+Free Text:OMAA Stands\603:freetext
+Free Text:OMAA Stands\604:freetext
+Free Text:OMAA Stands\605C:freetext
+Free Text:OMAA Stands\605L:freetext
+Free Text:OMAA Stands\605R:freetext
+Free Text:OMAA Stands\606:freetext
+Free Text:OMAA Stands\607:freetext
+Free Text:OMAA Stands\608:freetext
+Free Text:OMAA Stands\609:freetext
+Free Text:OMAA Stands\610:freetext
+Free Text:OMAA Stands\611:freetext
+Free Text:OMAA Stands\612:freetext
+Free Text:OMAA Stands\613:freetext
+Free Text:OMAA Stands\614:freetext
+Free Text:OMAA Stands\615:freetext
+Free Text:OMAA Stands\616L:freetext
+Free Text:OMAA Stands\616R:freetext
+Free Text:OMAA Stands\617L:freetext
+Free Text:OMAA Stands\617R:freetext
+Free Text:OMAA Stands\618C:freetext
+Free Text:OMAA Stands\618L:freetext
+Free Text:OMAA Stands\618R:freetext
+Free Text:OMAA Stands\619C:freetext
+Free Text:OMAA Stands\619L:freetext
+Free Text:OMAA Stands\619R:freetext
+Free Text:OMAA Stands\620:freetext
+Free Text:OMAA Stands\621:freetext
+Free Text:OMAA Stands\622:freetext
+Free Text:OMAA Stands\623:freetext
+Free Text:OMAA Stands\624:freetext
+Free Text:OMAA Stands\629:freetext
+Free Text:OMAA Stands\630:freetext
+Free Text:OMAA Stands\631C:freetext
+Free Text:OMAA Stands\631L:freetext
+Free Text:OMAA Stands\631R:freetext
+Free Text:OMAA Stands\632C:freetext
+Free Text:OMAA Stands\632L:freetext
+Free Text:OMAA Stands\632R:freetext
+Free Text:OMAA Stands\633C:freetext
+Free Text:OMAA Stands\633L:freetext
+Free Text:OMAA Stands\633R:freetext
+Free Text:OMAA Stands\634C:freetext
+Free Text:OMAA Stands\634L:freetext
+Free Text:OMAA Stands\634R:freetext
+Free Text:OMAA Stands\635C:freetext
+Free Text:OMAA Stands\635L:freetext
+Free Text:OMAA Stands\635R:freetext
+Free Text:OMAA Stands\636:freetext
+Free Text:OMAA Stands\637:freetext
+Free Text:OMAA Stands\638:freetext
+Free Text:OMAA Stands\639:freetext
+Free Text:OMAA Stands\640:freetext
+Free Text:OMAA Stands\641C:freetext
+Free Text:OMAA Stands\641L:freetext
+Free Text:OMAA Stands\641R:freetext
+Free Text:OMAA Stands\642C:freetext
+Free Text:OMAA Stands\642L:freetext
+Free Text:OMAA Stands\642R:freetext
+Free Text:OMAA Stands\643C:freetext
+Free Text:OMAA Stands\643L:freetext
+Free Text:OMAA Stands\643R:freetext
+Free Text:OMAA Stands\644C:freetext
+Free Text:OMAA Stands\644L:freetext
+Free Text:OMAA Stands\644R:freetext
+Free Text:OMAA Stands\645:freetext
+Free Text:OMAA Stands\646C:freetext
+Free Text:OMAA Stands\646L:freetext
+Free Text:OMAA Stands\646R:freetext
+Free Text:OMAA Stands\647:freetext
+Free Text:OMAA Stands\648:freetext
+Free Text:OMAA Stands\649:freetext
+Free Text:OMAA Stands\670:freetext
+Free Text:OMAA Stands\671:freetext
+Free Text:OMAA Stands\672:freetext
+Free Text:OMAA Stands\673:freetext
+Free Text:OMAA Stands\674:freetext
+Free Text:OMAA Stands\675:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A:freetext
+Free Text:OMAA Taxiways\A1:freetext
+Free Text:OMAA Taxiways\A10:freetext
+Free Text:OMAA Taxiways\A11:freetext
+Free Text:OMAA Taxiways\A13:freetext
+Free Text:OMAA Taxiways\A14:freetext
+Free Text:OMAA Taxiways\A16:freetext
+Free Text:OMAA Taxiways\A17:freetext
+Free Text:OMAA Taxiways\A18:freetext
+Free Text:OMAA Taxiways\A2:freetext
+Free Text:OMAA Taxiways\A3:freetext
+Free Text:OMAA Taxiways\A5:freetext
+Free Text:OMAA Taxiways\A6:freetext
+Free Text:OMAA Taxiways\A8:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\B:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\C:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D:freetext
+Free Text:OMAA Taxiways\D1:freetext
+Free Text:OMAA Taxiways\D10:freetext
+Free Text:OMAA Taxiways\D11:freetext
+Free Text:OMAA Taxiways\D2:freetext
+Free Text:OMAA Taxiways\D3:freetext
+Free Text:OMAA Taxiways\D4:freetext
+Free Text:OMAA Taxiways\D5:freetext
+Free Text:OMAA Taxiways\D6:freetext
+Free Text:OMAA Taxiways\D7:freetext
+Free Text:OMAA Taxiways\D8:freetext
+Free Text:OMAA Taxiways\D9:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E:freetext
+Free Text:OMAA Taxiways\E10:freetext
+Free Text:OMAA Taxiways\E11:freetext
+Free Text:OMAA Taxiways\E11:freetext
+Free Text:OMAA Taxiways\E12:freetext
+Free Text:OMAA Taxiways\E13:freetext
+Free Text:OMAA Taxiways\E13:freetext
+Free Text:OMAA Taxiways\E14:freetext
+Free Text:OMAA Taxiways\E14:freetext
+Free Text:OMAA Taxiways\E14:freetext
+Free Text:OMAA Taxiways\E15:freetext
+Free Text:OMAA Taxiways\E15:freetext
+Free Text:OMAA Taxiways\E2:freetext
+Free Text:OMAA Taxiways\E3:freetext
+Free Text:OMAA Taxiways\E3:freetext
+Free Text:OMAA Taxiways\E3A:freetext
+Free Text:OMAA Taxiways\E3B:freetext
+Free Text:OMAA Taxiways\E4:freetext
+Free Text:OMAA Taxiways\E4:freetext
+Free Text:OMAA Taxiways\E4N:freetext
+Free Text:OMAA Taxiways\E4S:freetext
+Free Text:OMAA Taxiways\E6:freetext
+Free Text:OMAA Taxiways\E6:freetext
+Free Text:OMAA Taxiways\E7:freetext
+Free Text:OMAA Taxiways\E8:freetext
+Free Text:OMAA Taxiways\E9:freetext
+Free Text:OMAA Taxiways\E9:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F:freetext
+Free Text:OMAA Taxiways\F1:freetext
+Free Text:OMAA Taxiways\F2:freetext
+Free Text:OMAA Taxiways\F3:freetext
+Free Text:OMAA Taxiways\F4:freetext
+Free Text:OMAA Taxiways\F5:freetext
+Free Text:OMAA Taxiways\F6:freetext
+Free Text:OMAA Taxiways\G:freetext
+Free Text:OMAA Taxiways\G:freetext
+Free Text:OMAA Taxiways\G:freetext
+Free Text:OMAA Taxiways\G:freetext
+Free Text:OMAA Taxiways\G:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\H:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K:freetext
+Free Text:OMAA Taxiways\K1:freetext
+Free Text:OMAA Taxiways\K2:freetext
+Free Text:OMAA Taxiways\K3:freetext
+Free Text:OMAA Taxiways\K4:freetext
+Free Text:OMAA Taxiways\K5:freetext
+Free Text:OMAA Taxiways\L:freetext
+Free Text:OMAA Taxiways\L:freetext
+Free Text:OMAA Taxiways\L:freetext
+Free Text:OMAA Taxiways\L:freetext
+Free Text:OMAA Taxiways\L1:freetext
+Free Text:OMAA Taxiways\L2:freetext
+Free Text:OMAA Taxiways\L2:freetext
+Free Text:OMAA Taxiways\L2:freetext
+Free Text:OMAA Taxiways\L3:freetext
+Free Text:OMAA Taxiways\L3:freetext
+Free Text:OMAA Taxiways\L3:freetext
+Free Text:OMAA Taxiways\L4:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M:freetext
+Free Text:OMAA Taxiways\M1:freetext
+Free Text:OMAA Taxiways\M2:freetext
+Free Text:OMAA Taxiways\M3:freetext
+Free Text:OMAA Taxiways\M6:freetext
+Free Text:OMAA Taxiways\S:freetext
+Free Text:OMAA Taxiways\S:freetext
+Free Text:OMAA Taxiways\T:freetext
+Free Text:OMAA Taxiways\T:freetext
+Free Text:OMAA Taxiways\T:freetext
+Free Text:OMAA Taxiways\Z:freetext
+Free Text:OMAA Taxiways\Z:freetext
+Free Text:OMAA Taxiways\Z1:freetext
+Free Text:OMAA Taxiways\Z2:freetext
+Free Text:OMAA Taxiways\Z3:freetext
+Free Text:OMAA Tug Release Points\TUG 1:freetext
+Free Text:OMAA Tug Release Points\TUG 10A:freetext
+Free Text:OMAA Tug Release Points\TUG 10B:freetext
+Free Text:OMAA Tug Release Points\TUG 11:freetext
+Free Text:OMAA Tug Release Points\TUG 12:freetext
+Free Text:OMAA Tug Release Points\TUG 13:freetext
+Free Text:OMAA Tug Release Points\TUG 14:freetext
+Free Text:OMAA Tug Release Points\TUG 15:freetext
+Free Text:OMAA Tug Release Points\TUG 16:freetext
+Free Text:OMAA Tug Release Points\TUG 17:freetext
+Free Text:OMAA Tug Release Points\TUG 18:freetext
+Free Text:OMAA Tug Release Points\TUG 19:freetext
+Free Text:OMAA Tug Release Points\TUG 2:freetext
+Free Text:OMAA Tug Release Points\TUG 20:freetext
+Free Text:OMAA Tug Release Points\TUG 21A:freetext
+Free Text:OMAA Tug Release Points\TUG 21B:freetext
+Free Text:OMAA Tug Release Points\TUG 22:freetext
+Free Text:OMAA Tug Release Points\TUG 23:freetext
+Free Text:OMAA Tug Release Points\TUG 24:freetext
+Free Text:OMAA Tug Release Points\TUG 25:freetext
+Free Text:OMAA Tug Release Points\TUG 26:freetext
+Free Text:OMAA Tug Release Points\TUG 27A:freetext
+Free Text:OMAA Tug Release Points\TUG 27B:freetext
+Free Text:OMAA Tug Release Points\TUG 28:freetext
+Free Text:OMAA Tug Release Points\TUG 29:freetext
+Free Text:OMAA Tug Release Points\TUG 3:freetext
+Free Text:OMAA Tug Release Points\TUG 4:freetext
+Free Text:OMAA Tug Release Points\TUG 5:freetext
+Free Text:OMAA Tug Release Points\TUG 6:freetext
+Free Text:OMAA Tug Release Points\TUG 7:freetext
+Free Text:OMAA Tug Release Points\TUG 8:freetext
+Free Text:OMAA Tug Release Points\TUG 9:freetext
+Geo:OMAA Groundlayout Line Data:
+Regions:OMAA Ground Region Data:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -12,9 +370,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:329.00000
+DisplayRotation:322.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:25.234210:55.318367:25.281177:55.416512
+WINDOWAREA:24.418604:54.603838:24.465571:54.701983
 PLUGIN:Ground Radar plugin:AirportElevation:83
 PLUGIN:Ground Radar plugin:AirportRadius:4.0
 PLUGIN:Ground Radar plugin:GroundMode:OMAA
