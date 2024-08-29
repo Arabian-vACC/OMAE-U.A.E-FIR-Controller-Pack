@@ -1558,13 +1558,155 @@ CALLSIGN:UAE
 PRIORITY:-3
 
 
+// =======================================================================================================================================
+//                                                         Al Maktoum - OMDW
+// =======================================================================================================================================
+
+// =======================================================================================================================================
+//                                                      Al Maktoum Group Definitions
+// =======================================================================================================================================
+
+// =======================================================================================================================================
+//                                                          Apron S2 and S3 West
+// =======================================================================================================================================
+
+STAND:OMDW:S289:N024.53.46.202:E055.08.44.929:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S290:N024.53.44.035:E055.08.43.498:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S291:N024.53.41.657:E055.08.41.927:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S292:N024.53.39.099:E055.08.40.236:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S293:N024.53.36.590:E055.08.38.533:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S294:N024.53.34.014:E055.08.36.875:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S295:N024.53.31.598:E055.08.35.278:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S296:N024.53.29.426:E055.08.33.843:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S297:N024.53.27.198:E055.08.32.393:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S298:N024.53.25.066:E055.08.30.996:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S299:N024.53.22.929:E055.08.29.597:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S300:N024.53.20.777:E055.08.28.139:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S301:N024.53.40.461:E055.08.52.775:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S302:N024.53.38.337:E055.08.51.326:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S303:N024.53.36.381:E055.08.50.032:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S304:N024.53.34.387:E055.08.48.692:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S305:N024.53.32.235:E055.08.47.289:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S306:N024.53.29.797:E055.08.45.723:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S307:N024.53.27.537:E055.08.44.227:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S308:N024.53.25.487:E055.08.42.873:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S309:N024.53.23.380:E055.08.41.434:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S310:N024.53.21.004:E055.08.39.833:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S311:N024.53.18.513:E055.08.38.239:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S312:N024.53.16.361:E055.08.36.835:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+STAND:OMDW:S313:N024.53.14.423:E055.08.35.592:35
+USE:A
+CODE:C:F
+CALLSIGN:UAE
+
+
 
 // =======================================================================================================================================
 //                                                          Sharjah - OMSJ
 // =======================================================================================================================================
 
 // =======================================================================================================================================
-//                                                      Passenger Apron - Contact Stands
+//                                                      Sharjah Group Definitions
+// =======================================================================================================================================
+
+// =======================================================================================================================================
+//                                                  Passenger Apron - Contact Stands
 // =======================================================================================================================================
 
 STAND:OMSJ:2:N025.19.18.540:E055.31.21.064:35
@@ -1602,14 +1744,17 @@ CODE:C:D
 STAND:OMSJ:1A:N025.19.18.784:E055.31.25.671:15
 USE:A
 CODE:C:C
+PRIORITY:-1
 
 STAND:OMSJ:1B:N025.19.17.551:E055.31.24.751:15
 USE:A
 CODE:C:C
+PRIORITY:-1
 
 STAND:OMSJ:1C:N025.19.16.375:E055.31.23.906:15
 USE:A
 CODE:C:C
+PRIORITY:-1
 
 STAND:OMSJ:9:N025.19.30.081:E055.31.05.870:15
 USE:A
@@ -1618,10 +1763,12 @@ CODE:C:C
 STAND:OMSJ:10:N025.19.28.857:E055.31.05.010:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:11:N025.19.27.625:E055.31.04.164:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:13:N025.19.31.459:E055.31.03.386:15
 USE:A
@@ -1638,14 +1785,17 @@ CODE:C:C
 STAND:OMSJ:16:N025.19.32.277:E055.30.59.080:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:17:N025.19.29.076:E055.31.01.730:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:18:N025.19.31.082:E055.30.58.259:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:21:N025.19.34.967:E055.30.57.330:15
 USE:A
@@ -1654,6 +1804,7 @@ CODE:C:C
 STAND:OMSJ:22:N025.19.36.923:E055.30.53.950:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:23:N025.19.33.751:E055.30.56.457:15
 USE:A
@@ -1662,6 +1813,7 @@ CODE:C:C
 STAND:OMSJ:24:N025.19.35.700:E055.30.53.147:15
 USE:A
 CODE:C:C
+LENGTH:40.0
 
 STAND:OMSJ:25:N025.19.32.536:E055.30.55.640:15
 USE:A
@@ -1676,54 +1828,142 @@ CODE:C:C
 // =======================================================================================================================================
 
 STAND:OMSJ:50:N025.19.36.220:E055.30.42.872:35
-USE:AC
-CODE:C:E
+USE:C
+CODE:C:F
+LIMITS:52:F:C
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:51:N025.19.39.459:E055.30.37.731:35
-USE:AC
-CODE:C:E
+USE:C
+CODE:C:F
+LIMITS:53:F:C
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:52:N025.19.34.274:E055.30.41.558:35
-USE:AC
-CODE:C:E
+STAND:OMSJ:52:N025.19.34.274:E055.30.41.558:32
+USE:C
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:53:N025.19.37.340:E055.30.36.275:35
-USE:AC
+USE:C
 CODE:C:E
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:54:N025.19.32.626:E055.30.40.542:35
-USE:AC
-CODE:C:E
+STAND:OMSJ:54:N025.19.32.626:E055.30.40.542:32
+USE:C
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:55:N025.19.35.267:E055.30.34.850:35
-USE:AC
+USE:C
 CODE:C:E
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:56:N025.19.30.959:E055.30.39.373:35
-USE:AC
-CODE:C:E
+STAND:OMSJ:56:N025.19.30.959:E055.30.39.373:32
+USE:C
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:57:N025.19.33.382:E055.30.33.392:35
-USE:AC
+USE:C
 CODE:C:E
+WINGSPAN:61.0
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:58:N025.19.29.370:E055.30.38.141:35
-USE:AC
-CODE:C:E
+STAND:OMSJ:58:N025.19.29.370:E055.30.38.141:32
+USE:C
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:59:N025.19.31.337:E055.30.32.064:35
-USE:AC
+USE:C
 CODE:C:E
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:60:N025.19.27.723:E055.30.37.040:35
-USE:AC
-CODE:C:E
+STAND:OMSJ:60:N025.19.27.723:E055.30.37.040:32
+USE:C
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
 
 STAND:OMSJ:61:N025.19.29.401:E055.30.30.673:35
-USE:AC
+USE:C
 CODE:C:E
+COPY
+USE:A
+PRIORITY:-1
 
-STAND:OMSJ:62:N025.19.26.061:E055.30.35.882:35
+STAND:OMSJ:62:N025.19.26.061:E055.30.35.882:32
+USE:AC
+CODE:C:D
+COPY
+USE:A
+PRIORITY:-1
+
+// =======================================================================================================================================
+//                                                      Maintenance Apron
+// =======================================================================================================================================
+
+STAND:OMSJ:F1:N025.20.02.066:E055.29.48.829:35
+USE:AC
+CODE:C:F
+PRIORITY:-3
+
+STAND:OMSJ:F2:N025.20.00.555:E055.29.51.451:35
+USE:AC
+CODE:C:F
+PRIORITY:-3
+
+STAND:OMSJ:80:N025.20.12.319:E055.29.51.113:30
+USE:AC
+CODE:C:F
+PRIORITY:-3
+
+STAND:OMSJ:81:N025.20.13.718:E055.29.48.680:30
 USE:AC
 CODE:C:E
+PRIORITY:-3
+
+STAND:OMSJ:81A:N025.20.13.895:E055.29.48.368:35
+USE:AC
+CODE:C:F
+BLOCKS:82:F
+PRIORITY:-3
+
+STAND:OMSJ:82:N025.20.14.858:E055.29.46.704:30
+USE:AC
+CODE:C:D
+PRIORITY:-3
+
+STAND:OMSJ:83:N025.20.15.887:E055.29.44.893:30
+USE:AC
+CODE:C:F
+LIMITS:82,84:F:C
+PRIORITY:-3
+
+STAND:OMSJ:84:N025.20.16.916:E055.29.43.082:30
+USE:AC
+CODE:C:D
+PRIORITY:-3
 
