@@ -36,7 +36,7 @@ AppLabel_Font=EuroScope
 AppLabel_FontSize=13
 AppLabel_Transparency_Bg=85
 
-RawVideo_Brightness=70
+RawVideo_Brightness=90
 RawVideo_Afterglow=70
 RawVideo_MaxHistory=0
 
@@ -117,7 +117,6 @@ List_Departure_TYPE=1
 List_Departure_SID=1
 List_Departure_STAND=1
 List_Departure_EOBT=1
-List_Departure_WTG=1
 List_Departure_WTC=1
 List_Departure_Items=30
 
@@ -155,9 +154,6 @@ System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
 System_CMAC_NoContact_Distance_Info=3.0
 
-Window_APP=1,0,41,1920,205
-Window_APP_Scale=40
-Window_APP_Extensions=0
 Window_APP_AltFilter=13000
 
 Airport_Runway_End=30R:N025.14.46.657:E055.23.00.487
@@ -208,9 +204,6 @@ System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
 System_CMAC_NoContact_Distance_Info=3.0
 
-Window_APP=1,0,41,1920,205
-Window_APP_Scale=40
-Window_APP_Extensions=0
 Window_APP_AltFilter=13000
 
 Label=GND:ARR:0:ALRT,0,0:COMM,0,1
@@ -258,9 +251,6 @@ System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
 System_CMAC_NoContact_Distance_Info=3.0
 
-Window_APP=1,0,41,1920,205
-Window_APP_Scale=40
-Window_APP_Extensions=0
 Window_APP_AltFilter=13000
 
 Airport_Runway_End=30:N025.19.14.411:E055.32.08.351
