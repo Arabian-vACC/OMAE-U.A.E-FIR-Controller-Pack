@@ -31,7 +31,7 @@ TopSky plugin:ACList/PREACTIVATION LIST/m_Column_9::1:0:65:25:0:1:::
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_10:COPN:6:0:10004:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_11:  RFL:6:0:10006:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_12:ADES:4:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/SECTOR LIST/m_Visible:1
+TopSky plugin:ACList/SECTOR LIST/m_Visible:0
 TopSky plugin:ACList/SECTOR LIST/m_X:7
 TopSky plugin:ACList/SECTOR LIST/m_Y:55
 TopSky plugin:ACList/SECTOR LIST/m_LineNumber:20
