@@ -32,9 +32,11 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add 'OMAE/Plugins/TopSky Aerodrome/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'
         git add 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky TMA/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky TMA Abu Dhabi/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky TMA Dubai/TopSkyMaps.txt'
         git commit -m 'Update TopSkyMaps files'
         git push
 
@@ -43,6 +45,9 @@ jobs:
       with:
         name: Upload cleaned files
         path: |
-          OMAE/Plugins/TopSky Aerodrome/TopSkyMaps.txt
+          OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt
+          OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt
           OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt
-          OMAE/Plugins/TopSky TMA/TopSkyMaps.txt
+          OMAE/Plugins/TopSky TMA Abu Dhabi/TopSkyMaps.txt
+          OMAE/Plugins/TopSky TMA Dubai/TopSkyMaps.txt
+          
