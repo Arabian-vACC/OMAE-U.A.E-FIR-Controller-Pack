@@ -1,7 +1,7 @@
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Voice.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Profiles.txt
-Settings	SettingsfileTAGS	\OMAE\Settings\Terminal\Tags.txt
+Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Terminal\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Terminal\Lists.txt
 Settings	SettingsfileDEP	\OMAE\Settings\Terminal\Lists.txt

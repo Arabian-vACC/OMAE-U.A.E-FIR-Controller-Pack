@@ -2,7 +2,7 @@ Settings	Settingsfile	\OMAE\Settings\Enroute\General.txt
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Enroute\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Enroute\Voice.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Enroute\Profiles.txt
-Settings	SettingsfileTAGS	\OMAE\Settings\Enroute\Tags.txt
+Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Enroute\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Enroute\Lists.txt
 Settings	SettingsfileDEP	\OMAE\Settings\Enroute\Lists.txt

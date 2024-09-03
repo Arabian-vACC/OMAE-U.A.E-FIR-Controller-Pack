@@ -1,7 +1,7 @@
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Aerodrome\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Aerodrome\Voice.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Aerodrome\Profiles.txt
-Settings	SettingsfileTAGS	\OMAE\Settings\Aerodrome\Tags.txt
+Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Aerodrome\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Aerodrome\Lists.txt
 Settings	SettingsfileDEP	\OMAE\Settings\Aerodrome\Lists.txt
