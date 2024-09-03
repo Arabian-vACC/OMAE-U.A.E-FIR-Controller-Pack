@@ -20,7 +20,7 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airways	\OMAE\NavData\airway.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
-Plugins	Plugin0	\OMAE\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin0	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin1	\OMAE\Plugins\Topsky Enroute\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	SMR radar display
