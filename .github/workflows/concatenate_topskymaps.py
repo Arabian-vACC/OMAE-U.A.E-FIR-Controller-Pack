@@ -20,9 +20,11 @@ def concatenate_files(source_directory, output_file):
 def main():
     base_dir = '.data/TopSkyMaps'
     targets = [
-        ('Aerodrome', 'OMAE/Plugins/TopSky Aerodrome/TopSkyMaps.txt'),
+        ('Aerodrome North', 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'),
+        ('Aerodrome South', 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'),
         ('Enroute', 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'),
-        ('TMA', 'OMAE/Plugins/TopSky TMA/TopSkyMaps.txt'),
+        ('TMA Abu Dhabi', 'OMAE/Plugins/TopSky TMA Abu Dhabi/TopSkyMaps.txt'),
+        ('TMA Dubai', 'OMAE/Plugins/TopSky TMA Dubai/TopSkyMaps.txt'),
     ]
 
     for source_subdir, target_file in targets:
