@@ -26,13 +26,11 @@ Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin2	\OMAE\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin4	\OMAE\Plugins\vSMR\vSMR.dll
-Plugins	Plugin4Display0	SMR radar display
+Plugins	Plugin4	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
-Plugins	Plugin5Display0	SMR radar display
-Plugins	Plugin5Display1	Standard ES radar screen
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
+Plugins	Plugin8	\OMAE\Plugins\MAESTRO\MAESTRO.dll
 RecentFiles	Recent1	\OMAE\ASR\Enroute\UAE ACC.asr
 ASRFastKeys	1	\OMAE\ASR\Enroute\UAE ACC.asr
 ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
