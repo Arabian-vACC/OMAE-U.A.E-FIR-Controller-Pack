@@ -35,8 +35,8 @@ jobs:
         git add 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'
         git add 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'
         git add 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky TMA Abu Dhabi/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky TMA Dubai/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'
         git commit -m 'Update TopSkyMaps files'
         git push
 
@@ -48,6 +48,6 @@ jobs:
           OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt
           OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt
           OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt
-          OMAE/Plugins/TopSky TMA Abu Dhabi/TopSkyMaps.txt
-          OMAE/Plugins/TopSky TMA Dubai/TopSkyMaps.txt
+          OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt
+          OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt
           
