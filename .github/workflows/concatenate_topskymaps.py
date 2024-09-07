@@ -23,8 +23,8 @@ def main():
         ('Aerodrome North', 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'),
         ('Aerodrome South', 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'),
         ('Enroute', 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'),
-        ('TMA Abu Dhabi', 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
-        ('TMA Dubai', 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'),
+        ('CTA Abu Dhabi', 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
+        ('CTA Dubai', 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'),
     ]
 
     for source_subdir, target_file in targets:
