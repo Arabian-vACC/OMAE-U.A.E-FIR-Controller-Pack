@@ -352,5 +352,105 @@
             }
          ]
       }
+   },
+   {"icao": "OMAA",
+      "sids": {
+         "DAXIB": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "Q563"
+               ]
+            }
+         ],
+         "BOSEV": [
+            {
+               "direction": "EVEN",
+               "max_fl": 260,
+               "destinations": [
+                  "OBBI"
+               ],
+               "airways": [
+                  "N563"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "OEDF"
+               ],
+               "airways": [
+                  "N563"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "N563"
+               ]
+            }
+         ],
+         "MEKRI": [
+            {
+               "direction": "EVEN",
+               "max_fl": 260,
+               "destinations": [
+                  "OTHH",
+                  "OTBD"
+               ],
+               "airways": [
+                  "P899"
+               ]
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "P899"
+               ]
+            }
+         ],
+         "ORNEL": [
+            {
+               "direction": "ODD",
+               "max_fl": 210,
+               "destinations": [
+                  "OOMS"
+               ],
+               "airways": [
+                  "N685"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "T560"
+               ]
+            }
+         ],
+         "ATUDO": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "M318"
+               ]
+            }
+         ],
+         "KANIP": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "N318"
+               ]
+            }
+         ],
+         "TULON": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "N318"
+               ]
+            }
+         ]
+      }
    }
 ]
