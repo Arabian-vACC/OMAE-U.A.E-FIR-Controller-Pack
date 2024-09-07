@@ -92,6 +92,7 @@ Airspace_SIGMET_Areas=OMAE
 Airspace_NOTAM_Add=OMAE
 Airspace_ASSR_Type=2
 Airspace_ASSR_AutoAssign_Type=0
+Airspace_AOR_Airports=OM
 
 System_TrueColorMode=1
 System_UseReportedGS=1
