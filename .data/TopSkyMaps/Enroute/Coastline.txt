@@ -1,4 +1,4 @@
-// U.A.E FIR //
+// U.A.E FIR
 // Coastline
 MAP: Coastline Outline
 FOLDER:ASP COASTLINE
