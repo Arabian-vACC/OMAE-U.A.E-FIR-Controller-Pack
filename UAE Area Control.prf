@@ -20,13 +20,16 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airways	\OMAE\NavData\airway.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
-Plugins	Plugin0	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
-Plugins	Plugin1	\OMAE\Plugins\Topsky Enroute\TopSky.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin1Display1	SMR radar display
-Plugins	Plugin2	\OMAE\Plugins\AFV\AfvEuroScopeBridge.dll
+Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin2	\OMAE\Plugins\Topsky Enroute\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
 Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	DelHel
 Plugins	Plugin4	\OMAE\Plugins\Delivery Helper\DelHel.dll
+Plugins	Plugin4Display0	DelHel
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
