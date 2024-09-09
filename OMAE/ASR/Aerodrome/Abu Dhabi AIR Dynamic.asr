@@ -1,13 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:OMDB:symbol
-ARTCC low boundary:OMAE MBZ - Jumeirah:
-ARTCC low boundary:Tower CTR OMDB:
-ARTCC low boundary:Tower CTR OMDW:
-ARTCC low boundary:Tower CTR OMSJ:
+ARTCC low boundary:Tower CTR OMAA:
+ARTCC low boundary:Tower CTR OMAD:
+ARTCC low boundary:Tower CTR OMAL:
 Geo:OMAE Landmark Coastline:
-Geo:OMAE SAS Al Nakhl Tower - Class G:
 Runways:OMSJ 12-30:centerline
 Runways:OMSJ 12-30:extended centerline 1
 Runways:OMSJ 12-30:extended centerline 1 left ticks
@@ -28,7 +28,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky_UAE_TWR
-WINDOWAREA:25.012304:54.865009:25.503009:55.873071
+WINDOWAREA:24.187703:54.138413:24.678408:55.163808
 PLUGIN:Controller Pack ARBvACC:Timerbottom:834
 PLUGIN:Controller Pack ARBvACC:Timerleft:12
 PLUGIN:Controller Pack ARBvACC:Timerright:212

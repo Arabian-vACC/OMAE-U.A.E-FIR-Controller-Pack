@@ -25,8 +25,8 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Aerodrome\Dubai AIR Dynamic.asr
-ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
+ASRFastKeys	1	\OMAE\ASR\Aerodrome\Abu Dhabi AIR Dynamic.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\Abu Dhabi SMGCS.asr
 RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Abu Dhabi AIR Dynamic.asr
 RecentFiles	Recent2	\OMAE\ASR\SMGCS\Abu Dhabi SMGCS.asr
 TeamSpeakVccs	TsVccsMiniControlX	1458
