@@ -1,0 +1,74 @@
+PROFILE
+PROFILE:OMDB_1_TWR:50:4
+ATIS2:"Dubai Tower" | PDC Logon OMDB
+ATIS3:Monitor ATIS on 131.700 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_2_TWR:50:4
+ATIS2:"Dubai Tower" | PDC Logon OMDB
+ATIS3:Monitor ATIS on 131.700 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_1_GND:20:3
+ATIS2:"Dubai Ground"  | PDC Logon OMDB
+ATIS3:Covering all aprons when GMC 2 offline | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_2_GND:20:3
+ATIS2:"Dubai Ground"
+ATIS3:Covering aprons C, E, Q, S | Monitor ATIS on 131.700
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_DEL:20:2
+ATIS2:"Dubai Delivery" | PDC Logon OMDB
+ATIS3:Clearance 10 minutes before departure | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDW_TWR:50:4
+ATIS2:"Al-Maktoum Tower" | PDC Logon OMDW
+ATIS3:Monitor ATIS on 126.475 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDW_GND:20:3
+ATIS2:"Al-Maktoum Ground"
+ATIS3:PDC Logon OMDW | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMSJ_TWR:50:4
+ATIS2:"Sharjah Tower" | PDC Logon OMSJ
+ATIS3:Monitor ATIS on 122.400 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMSJ_GND:20:3
+ATIS2:"Sharjah Ground"
+ATIS3:PDC Logon OMSJ | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMRK_TWR:50:4
+ATIS2:"Ras-Al-Khaimah Tower"
+ATIS3:Monitor ATIS on 126.075 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMRK_GND:20:3
+ATIS2:"Ras-Al-Khaimah Ground"
+ATIS3: Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMFJ_TWR:50:4
+ATIS2:"Fujairah Tower"
+ATIS3:Monitor ATIS on 126.650 | Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMFJ_GND:20:3
+ATIS2:"Fujairah Ground"
+ATIS3:Request PDC via Private Message or Datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:<Initials>_OBS:275:0
+ATIS2:U.A.E Observer
+ATIS3:
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_I_TWR:50:4
+ATIS2:"Dubai Tower"
+ATIS3:Monitor ATIS on 131.700 | VFR aircraft to establish contact before entering CTR
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDW_A_TWR:50:4
+ATIS2:"Academy Tower" | EFTA Tower
+ATIS3:VFR aircraft to establish two-way communicating before entering control zone
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDW_I_GND:20:3
+ATIS2:"Academy Ground Information" | EFTA Ground
+ATIS3:Monitor ATIS on 126.475 
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMDB_P_TWR:50:4
+ATIS2:Dubai Aerodrome Planner
+ATIS3:Request PDC by private message or datalink
+ATIS4:We love feedback! vats.im/me/uaefeedback | Visit us at arabian-vacc.com
+END
