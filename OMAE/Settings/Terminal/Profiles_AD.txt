@@ -1,34 +1,30 @@
 PROFILE
-PROFILE:OMDW_APP:150:5
-ATIS2:"Al-Maktoum Radar" | PDC Logon OMDW
-ATIS3:Approach radar service for OMDW only | Request PDC via Private Message or Datalink
+PROFILE:OMAA_F_APP:150:5
+ATIS2:"Abu Dhabi Director"
+ATIS3:Report Callsign & Runway Designation on Initial Contact.
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMRK_APP:150:5
-ATIS2:"Ras-Al-Khaimah Approach"
-ATIS3: Request PDC via Private Message or Datalink
-ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMFJ_APP:150:5
-ATIS2:"Fujairah Approach"
-ATIS3: Request PDC via Private Message or Datalink
-ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:<Initials>_OBS:275:0
+PROFILE:<Initials>_OBS:500:0
 ATIS2:U.A.E Observer
 ATIS3:
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMDB_1_DEP:150:5
-ATIS2:"Dubai Departures" | PDC Logon OMDD
-ATIS3:Covering OMDB, OMDW, OMSJ. | Request PDC via Private Message or Datalink
+PROFILE:OMAA_C_APP:150:5
+ATIS2:"Abu Dhabi Radar Central" | PDC Logon OMAA
+ATIS3:Covering OMAA, OMAD and OMAL when East offline. | Request PDC via Private Message or Datalink
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMDB_2_DEP:150:5
-ATIS2:"Dubai Departures" | PDC Logon OMDD
-ATIS3:Covering OMDB, OMDW, OMSJ. | Request PDC via Private Message or Datalink
+PROFILE:OMAA_E_APP:150:5
+ATIS2:"Abu Dhabi Radar East" | PDC Logon OMAA
+ATIS3:Covering OMAL. | Request PDC via Private Message or Datalink
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMDB_F_APP:150:5
-ATIS2:"Dubai Director"
-ATIS3:Report callsign only on initial contact, eg. "Dubai director, UAE572"
+PROFILE:OMAA_G_APP:150:5
+ATIS2:"Abu Dhabi Director"
+ATIS3:Report Callsign & Runway Designation on Initial Contact.
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
-PROFILE:OMDB_APP:150:5
-ATIS2:"Dubai Arrivals" | PDC Logon OMDA
-ATIS3:Covering OMDB, OMDW, OMSJ. | Request PDC via Private Message or Datalink 
+PROFILE:OMAA_W_APP:150:5
+ATIS2:"Abu Dhabi Radar West" | PDC Logon OMAA
+ATIS3:Covering OMAA, OMAD. | Request PDC via Private Message or Datalink
+ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
+PROFILE:OMAA_I_APP:150:5
+ATIS2:"Abu Dhabi Information"
+ATIS3:Monitor ATIS on 119.675
 ATIS4:Getting rerouted? Check out vats.im/uaerm | We love feedback! vats.im/uaefeedback | Visit us at arabian-vacc.com
 END
