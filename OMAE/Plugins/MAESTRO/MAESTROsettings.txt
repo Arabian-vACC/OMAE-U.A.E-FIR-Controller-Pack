@@ -8,11 +8,12 @@ System_LoadInterval_Web=30
 System_SaveInterval_Web=30
 System_Web_Auth_DL=1
 System_Web_Auth_UL=1
+System_Timeline_PixPerMin=20
 
 [OMAA]
 System_Version=1
-System_Time_Stable=12
-System_Time_SuperStable=8
+System_Time_Stable=8
+System_Time_SuperStable=4
 FEEDER:UKILI:UI:OMAA
 FEEDER:ROVOS:RS:OMAA
 FEEDER:NOBTO:NO:OMAA
@@ -26,10 +27,10 @@ RUNWAY:OMAA:31R:105:*:*
 
 [OMDB]
 System_Version=1
-System_Time_Stable=12
-System_Time_SuperStable=8
-FEEDER:VUTEB:VB:OMDB:VUTEB
-FEEDER:IMPED:IM:OMDB:IMPED
+System_Time_Stable=8
+System_Time_SuperStable=4
+FEEDER:VUTEB:VB:OMDB:LOVOK,IVUTI
+FEEDER:IMPED:IM:OMDB:DB520
 FEEDER:LORID:LR:OMDB:LORID
 FEEDER:PUVAL:PV:OMDB:PUVAL
 RUNWAY:OMDB:12L:105:*:*
