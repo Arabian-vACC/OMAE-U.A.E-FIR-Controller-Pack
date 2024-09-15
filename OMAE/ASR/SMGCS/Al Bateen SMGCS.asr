@@ -1,6 +1,26 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:OMAD Ground Freetext\Apron A:freetext
+Free Text:OMAD Ground Freetext\Apron B:freetext
+Free Text:OMAD Ground Freetext\Apron C:freetext
+Free Text:OMAD Ground Freetext\Apron D:freetext
+Free Text:OMAD Ground Freetext\Apron E:freetext
+Free Text:OMAD Ground Freetext\T:freetext
+Free Text:OMAD Ground Freetext\T:freetext
+Free Text:OMAD Ground Freetext\T:freetext
+Free Text:OMAD Ground Freetext\T:freetext
+Free Text:OMAD Ground Freetext\T1:freetext
+Free Text:OMAD Ground Freetext\T2:freetext
+Free Text:OMAD Ground Freetext\T3:freetext
+Free Text:OMAD Ground Freetext\T4:freetext
+Free Text:OMAD Ground Freetext\T5:freetext
+Free Text:OMAD Ground Freetext\T6:freetext
+Free Text:OMAD Ground Freetext\Terminal:freetext
+Geo:OMAD Groundlayout Line Data:
+Regions:OMAD Ground Region Data:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -12,9 +32,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:329.00000
+DisplayRotation:322.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:24.404849:54.408983:24.451817:54.507128
+WINDOWAREA:24.421291:54.436961:24.440529:54.477161
 PLUGIN:Ground Radar plugin:AirportElevation:18
 PLUGIN:Ground Radar plugin:AirportRadius:2.0
 PLUGIN:Ground Radar plugin:GroundMode:OMAD
