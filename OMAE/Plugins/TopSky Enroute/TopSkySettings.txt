@@ -234,4 +234,4 @@ Label_Alt_Digits=3
 Label_ASP_Digits=3
 Label_COP_MaxChars=3
 Label_FCOP_MaxChars=5
-Label_ADES_MaxChars=2
+Label_ADES_MaxChars=4
