@@ -13,6 +13,8 @@
 //                                                        Abu Dhabi Group Definitions
 // =======================================================================================================================================
 
+GROUP:AUHTerminalAOpr:AEE:AFL:ABY:ADY:KZR:AIC:AXB:ABQ:AKJ:BDR:BRU:BBC:BAW:SAW:MSR:ETD:KNE:GFA:CHH:HIM:IGO:IAW:JZR:KMF:KAC:MEA:OMA:PIA:PGT:PBD:QTR:RJA:OMS:SVA:TVS:ALK:SXS:SYR:THY:TUA:UBG:VTI:WAZ:WZZ
+GROUP:EYCargoCS:
 
 //:====:====:=============================================================================================================================
 //                                                    Terminal A Contact Stands (Apron 6)
@@ -454,6 +456,95 @@ USE:A
 CODE:C:E
 CALLSIGN:Group_AUHTerminalAOpr
 
+//:====:====:=============================================================================================================================
+//                                                    Terminal A Remote Stands (Apron 6)
+// =======================================================================================================================================
+
+STAND:OMAA:670:N024.26.47.817:E054.38.19.379:35
+USE:A
+CODE:B:E
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:671:N024.26.48.829:E054.38.22.014:35
+USE:A
+CODE:B:E
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:672:N024.26.50.516:E054.38.24.186:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:673:N024.26.49.595:E054.38.25.483:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:674:N024.26.40.529:E054.38.29.465:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:675:N024.26.39.173:E054.38.30.162:15
+USE:A
+CODE:C:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:685:N024.27.10.780:E054.38.55.686:15
+USE:A
+CODE:C:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:686:N024.27.12.178:E054.38.53.075:35
+USE:A
+CODE:B:E
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:687:N024.27.12.780:E054.38.50.430:35
+USE:A
+CODE:B:E
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:688:N024.27.13.211:E054.38.47.640:35
+USE:A
+CODE:B:E
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:689:N024.27.13.641:E054.38.44.722:40
+USE:A
+CODE:B:F
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:690:N024.27.21.235:E054.38.38.247:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:691:N024.27.22.645:E054.38.37.660:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+STAND:OMAA:692:N024.27.24.009:E054.38.37.253:15
+USE:A
+CODE:B:C
+CALLSIGN:Group_AUHTerminalAOpr
+PRIORITY:-1
+
+
 
 // =======================================================================================================================================
 //                                                             Dubai - OMDB
@@ -463,7 +554,7 @@ CALLSIGN:Group_AUHTerminalAOpr
 //                                                        Dubai Group Definitions
 // =======================================================================================================================================
 
-GROUP:DXBTerminal1Opr:ABQ:AEE:AFL:AFR:AHY:AIC:AIZ:ALK:APK:AUI:BAW:BBC:BRU:BTI:CCA:CES:CPA:CSC:CSN:CYP:DAH:DAL:DLH:DTA:ELY:ETH:EWG:FAD:FBA:FIA:FIN:GFA:GOW:IGO:IRA:IRM:ISR:IYE:JAI:JZR:KAC:KAL:KLM:KNE:KQA:KZR:LAA:LGL:LOT:MAS:MEA:MSR:NAX:NCH:OMA:PAL:PIA:PTI:QTR:RAM:RBA:RJA:ROT:SIA:SBI:SEJ:SEP:SFW:SIF:SVA:SVR:SWR:SXS:SYR:TAR:THA:THY:TVF:UBG:UGD:UZB:VIR:VTI
+GROUP:DXBTerminal1Opr:ABQ:AEE:AFL:AFR:AHY:AIC:AIZ:ALK:APK:AUI:BAW:BBC:BRU:BTI:CCA:CES:CHH:CPA:CSC:CSN:CYP:DAH:DAL:DLH:DTA:ELY:ETH:EWG:FAD:FBA:FIA:FIN:GFA:GOW:IGO:IRA:IRM:ISR:IYE:JAI:JZR:KAC:KAL:KLM:KNE:KQA:KZR:LAA:LGL:LOT:MAS:MEA:MSR:NAX:NCH:OMA:PAL:PIA:PTI:QTR:RAM:RBA:RJA:ROT:SIA:SBI:SEJ:SEP:SFW:SIF:SVA:SVR:SWR:SXS:SYR:TAR:THA:THY:TVF:UBG:UGD:UZB:VIR:VTI
 GROUP:DXBTerminal2Opr:ERT:AFG:IRC:IAW:PGT:AXB:DAO:FDB:KIS:QSM:RWD:TBN:TUA:UBD:IRG:KMF:TRA:TVS:TYA:JBW:SMR:TBM:OMS:CPN:WZZ:EXV:MMA:TUA:HIM:RNA:AZO:UTA:BDR:SDM:TQQ
 GROUP:DXBTerminal3Opr:UAE:QFA:ACA:UAL
 GROUP:DXBCargoOpr:BOX:CLX:DHX:DHL:FDX:GEC:MFX:UPS
