@@ -2,7 +2,7 @@
 [![topsky-version](https://img.shields.io/badge/TopSky-2.5.14-blue.svg)](https://forum.vatsim-scandinavia.org/d/80-topsky-plugin-25-beta-14)
 [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://vats.im/GRplugin)
 [![vacdm-version](https://img.shields.io/badge/vACDM-1.3.2-blue.svg)](https://github.com/vACDM)
-[![vch-version](https://img.shields.io/badge/Virtual-Controller-Helper-0.8.4-blue.svg)](https://github.com/DrFreas/VCH)
+[![vch-version](https://img.shields.io/badge/Virtual%20Controller%20Helper-0.8.4-blue.svg)](https://github.com/DrFreas/VCH)
 [![afv-version](https://img.shields.io/badge/AFV-1.2.1-blue.svg)](https://audio.vatsim.net/docs/2.0/atc/euroscope)
 
 # U.A.E FIR (OMAE) Controller Pack
