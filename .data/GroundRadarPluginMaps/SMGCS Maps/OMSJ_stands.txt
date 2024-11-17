@@ -1,4 +1,4 @@
-/// OMSJ - Sharjah DATA - Passenger Apron - Contact Stands
+/// OMSJ - SHARJAH STANDS - Passenger Apron - Contact Stands
 ///STAND:OMSJ:2:N025.19.18.540:E055.31.21.064:35
 ///USE:A
 ///CODE:C:C
@@ -55,7 +55,7 @@ COPY
 NOTCALLSIGN:GROUP_SHJJetwayOpr,GROUP_SHJRemoteOpr,GROUP_CargoOpr
 PRIORITY:+1
 
-/// OMSJ - Sharjah DATA - Passenger Apron - Remote Stands
+/// OMSJ - SHARJAH STANDS - Passenger Apron - Remote Stands
 STAND:OMSJ:1A:N025.19.18.784:E055.31.25.671:15
 USE:A
 CODE:C:C
@@ -225,7 +225,7 @@ CODE:C:C
 LENGTH:40.0
 CALLSIGN:GROUP_SHJRemoteOpr,ABY
 
-/// OMSJ - Sharjah DATA - Cargo Apron
+/// OMSJ - SHARJAH STANDS - Cargo Apron
 STAND:OMSJ:50:N025.19.36.220:E055.30.42.872:35
 USE:C
 CODE:C:F
@@ -333,7 +333,7 @@ COPY
 USE:A
 PRIORITY:-1
 
-/// OMSJ - Sharjah DATA - Maintenance Apron
+/// OMSJ - SHARJAH STANDS - Maintenance Apron
 STAND:OMSJ:F1:N025.20.02.066:E055.29.48.829:35
 USE:AC
 CODE:C:F
