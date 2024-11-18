@@ -1,8 +1,9 @@
 import os
 
-def concatenate_files(source_directory, output_file):
-    with open(output_file, 'w') as outfile:
-        for filename in sorted(os.listdir(source_directory)):
+def concatenate_files(source_directory, output_file, file_order):
+    """Concatenate files in a specific order from a given directory."""
+    with open(output_file, 'a') as outfile:  # Append mode to add each airfield's content sequentially
+        for filename in file_order:
             file_path = os.path.join(source_directory, filename)
             if os.path.isfile(file_path):
                 with open(file_path, 'r') as infile:
@@ -20,14 +21,28 @@ def concatenate_files(source_directory, output_file):
 def main():
     base_dir = '.data/GroundRadarPluginMaps'
     targets = [
-        ('Maps', 'OMAE/Plugins/Ground Radar Plugin/GRpluginMaps.txt'),
-        ('Stands', 'OMAE/Plugins/Ground Radar Plugin/GRpluginStands.txt'),
+        ('Maps', 'OMAE/Plugins/Ground Radar Plugin/GRpluginMaps.txt', ['regions.txt', 'geo.txt', 'freetext.txt', 'nets.txt']),
+        ('Stands', 'OMAE/Plugins/Ground Radar Plugin/GRpluginStands.txt', ['stands.txt']),
     ]
 
-    for source_subdir, target_file in targets:
+    for source_subdir, target_file, file_order in targets:
         source_directory = os.path.join(base_dir, source_subdir)
+        # Discover airfields in the directory
+        airfields = sorted(
+            [d for d in os.listdir(source_directory) if os.path.isdir(os.path.join(source_directory, d))]
+        )
+        
         print(f'Building {target_file} from {source_directory}')
-        concatenate_files(source_directory, target_file)
+        # Ensure the output file starts empty
+        with open(target_file, 'w') as final_output:
+            pass
+
+        # Process each airfield directory
+        for airfield in airfields:
+            airfield_dir = os.path.join(source_directory, airfield)
+            print(f'Processing airfield: {airfield}')
+            concatenate_files(airfield_dir, target_file, file_order)
+
         print(f'{target_file} built successfully.')
 
 if __name__ == '__main__':
