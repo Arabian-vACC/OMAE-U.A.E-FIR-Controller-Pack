@@ -26,7 +26,7 @@ jobs:
 
     - name: Concatenate and clean files
       run: |
-        python .github/workflows/concatenate_topskymaps.py
+        python .github/workflows/concatenate_GRmaps.py
 
     - name: Commit changes
       run: |
