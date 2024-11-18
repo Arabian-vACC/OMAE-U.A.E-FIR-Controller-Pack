@@ -17,24 +17,29 @@ def concatenate_files(source_directory, output_file, file_order):
                                 # Skip lines starting with // that don't start with //&preserve
                                 continue
                             outfile.write(stripped_line + '\n')  # Write the cleaned line
+                outfile.write('\n')  # Ensure a new line after each file's content
 
 def add_colours_and_definitions(source_directory, output_file):
     """Add all colours & definitions files in the Maps directory root to the output file."""
-    for filename in sorted(os.listdir(source_directory)):
-        file_path = os.path.join(source_directory, filename)
-        if os.path.isfile(file_path):  # Consider only files, not directories
-            with open(file_path, 'r') as infile, open(output_file, 'a') as outfile:
-                for line in infile:
-                    outfile.write(line)
+    with open(output_file, 'a') as outfile:
+        for filename in sorted(os.listdir(source_directory)):
+            file_path = os.path.join(source_directory, filename)
+            if os.path.isfile(file_path):  # Consider only files, not directories
+                with open(file_path, 'r') as infile:
+                    for line in infile:
+                        outfile.write(line)
+                outfile.write('\n')  # Ensure a new line after each file's content
 
 def add_stand_groups(source_directory, output_file):
     """Add all stand group files in the Stands directory root to the output file."""
-    for filename in sorted(os.listdir(source_directory)):
-        file_path = os.path.join(source_directory, filename)
-        if os.path.isfile(file_path):  # Consider only files, not directories
-            with open(file_path, 'r') as infile, open(output_file, 'a') as outfile:
-                for line in infile:
-                    outfile.write(line)
+    with open(output_file, 'a') as outfile:
+        for filename in sorted(os.listdir(source_directory)):
+            file_path = os.path.join(source_directory, filename)
+            if os.path.isfile(file_path):  # Consider only files, not directories
+                with open(file_path, 'r') as infile:
+                    for line in infile:
+                        outfile.write(line)
+                outfile.write('\n')  # Ensure a new line after each file's content
 
 def main():
     base_dir = '.data/GroundRadarPluginMaps'
