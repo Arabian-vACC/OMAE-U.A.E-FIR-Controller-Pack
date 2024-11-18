@@ -18,14 +18,32 @@ def concatenate_files(source_directory, output_file, file_order):
                                 continue
                             outfile.write(stripped_line + '\n')  # Write the cleaned line
 
+def add_colours_and_definitions(source_directory, output_file):
+    """Add all colours & definitions files in the Maps directory root to the output file."""
+    for filename in sorted(os.listdir(source_directory)):
+        file_path = os.path.join(source_directory, filename)
+        if os.path.isfile(file_path):  # Consider only files, not directories
+            with open(file_path, 'r') as infile, open(output_file, 'a') as outfile:
+                for line in infile:
+                    outfile.write(line)
+
+def add_stand_groups(source_directory, output_file):
+    """Add all stand group files in the Stands directory root to the output file."""
+    for filename in sorted(os.listdir(source_directory)):
+        file_path = os.path.join(source_directory, filename)
+        if os.path.isfile(file_path):  # Consider only files, not directories
+            with open(file_path, 'r') as infile, open(output_file, 'a') as outfile:
+                for line in infile:
+                    outfile.write(line)
+
 def main():
     base_dir = '.data/GroundRadarPluginMaps'
     targets = [
-        ('Maps', 'OMAE/Plugins/Ground Radar Plugin/GRpluginMaps.txt', ['regions.txt', 'geo.txt', 'freetext.txt', 'nets.txt']),
-        ('Stands', 'OMAE/Plugins/Ground Radar Plugin/GRpluginStands.txt', ['stands.txt']),
+        ('Maps', 'OMAE/Plugins/Ground Radar Plugin/GRpluginMaps.txt', ['regions.txt', 'geo.txt', 'freetext.txt', 'nets.txt'], add_colours_and_definitions),
+        ('Stands', 'OMAE/Plugins/Ground Radar Plugin/GRpluginStands.txt', ['stands.txt'], add_stand_groups),
     ]
 
-    for source_subdir, target_file, file_order in targets:
+    for source_subdir, target_file, file_order, root_file_handler in targets:
         source_directory = os.path.join(base_dir, source_subdir)
         # Discover airfields in the directory
         airfields = sorted(
@@ -36,6 +54,10 @@ def main():
         # Ensure the output file starts empty
         with open(target_file, 'w') as final_output:
             pass
+
+        # Add root-level files (colours & definitions or stand groups)
+        print(f'Adding colours, defintions & stand group files from {source_directory}')
+        root_file_handler(source_directory, target_file)
 
         # Process each airfield directory
         for airfield in airfields:
