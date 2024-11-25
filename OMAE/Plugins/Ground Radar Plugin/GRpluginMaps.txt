@@ -1,3 +1,8 @@
+//&preserve File created for the Arabian vACC - U.A.E FIR (OMAE)
+//&preserve Developed and maintained by the Arabian vACC Operations Department
+//&preserve
+//&preserve To be used on the VATSIM Network only
+
 // SMGCS REGIONS + GEO COLOR DEFINITIONS
 COLORDEF:SMGCS_DUBBACKGROUND:2:6:10
 COLORDEF:SMGCS_DUBAPRON:33:30:32

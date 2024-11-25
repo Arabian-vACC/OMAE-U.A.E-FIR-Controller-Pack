@@ -1,3 +1,8 @@
+//&preserve File created for the Arabian vACC - U.A.E FIR (OMAE)
+//&preserve Developed and maintained by the Arabian vACC Operations Department
+//&preserve
+//&preserve To be used on the VATSIM Network only
+
 /// OMAA - ABU DHABI GROUPS
 GROUP:AUHTerminalAOpr:ABQ:ABY:ADY:AEE:AFL:AIC:AKJ:ALK:AXB:BAW:BBC:BDR:BRU:CHH:ETD:GFA:HIM:IAW:IGO:JZR:KAC:KMF:KNE:KZR:MEA:MSR:OMA:OMS:PBD:PGT:PIA:QTR:RJA:SAW:SVA:SXS:SYR:THY:TUA:TVS:UBG:VTI:WAZ:WZZ
 
