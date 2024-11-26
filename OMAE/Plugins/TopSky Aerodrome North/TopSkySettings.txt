@@ -104,7 +104,7 @@ System_QNHTL_ForceMetarSourceVATSIM=1
 Maps_NOTAM_Activation=1
 
 Track_HistoryDots=5
-Track_PredictionLine=1
+Track_PredictionLine=0
 
 RwyAppLines_Auto=0
 
@@ -128,7 +128,7 @@ Color_CARD_Mark_All=212,128,44
 Color_CARD_Mark_Own=212,128,44
 Color_CARD_Min_Sep=61,61,61
 Color_CARD_Time_Vector=170,231,197
-Color_Concerned=110,153,110
+Color_Concerned=230,230,230
 Color_Coordination=150,215,150
 Color_CPDLC_Controller_Late=212,128,44
 Color_CPDLC_Discarded=128,128,128
@@ -156,7 +156,7 @@ Color_Inactive_Sector=67,73,76
 Color_Info_Coord=1,255,255
 Color_Information=40,210,40
 Color_Information_FL=41,245,41
-Color_Informed=0,255,0
+Color_Informed=230,230,230
 Color_Map_1=80,95,80
 Color_Map_2=44,44,44
 Color_Map_3=100,108,111
@@ -202,7 +202,7 @@ Color_TSA_Active=93,138,195
 Color_TSA_Border_Highlight=0,0,0
 Color_TSA_Filter=0,0,255
 Color_TSA_Preactive=132,142,139
-Color_Unconcerned=84,188,143
+Color_Unconcerned=230,230,230
 Color_Unknown=239,224,42
 Color_Urgency=225,25,25
 Color_Urgency_FL=225,25,25
