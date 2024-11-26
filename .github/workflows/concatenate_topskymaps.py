@@ -22,6 +22,7 @@ def main():
     targets = [
         ('Aerodrome North', 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'),
         ('Aerodrome South', 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'),
+        ('Aerodrome Maktoum', 'OMAE/Plugins/TopSky Aerodrome Maktoum/TopSkyMaps.txt'),
         ('Enroute', 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'),
         ('CTA Abu Dhabi', 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
         ('CTA Dubai', 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'),
