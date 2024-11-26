@@ -1,0 +1,42 @@
+PROFILE
+PROFILE:<INITIALS>_OBS:275:0
+ATIS2:Arabian vACC Observer
+ATIS3:vACC Information - arabian-vacc.com
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_1_APP:150:5
+ATIS2:"Abu Dhabi Radar Central" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_1X_APP:150:5
+ATIS2:"Abu Dhabi Radar Central" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_2_APP:150:5
+ATIS2:"Abu Dhabi Radar West" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_3_APP:150:5
+ATIS2:"Abu Dhabi Radar North" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_3X_APP:150:5
+ATIS2:"Abu Dhabi Radar North" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_4_APP:150:5
+ATIS2:"Abu Dhabi Radar East" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_F1_APP:150:5
+ATIS2:"Abu Dhabi Director"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_F2_APP:150:5
+ATIS2:"Abu Dhabi Director"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_I_APP:150:5
+ATIS2:"Abu Dhabi Information"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+END
