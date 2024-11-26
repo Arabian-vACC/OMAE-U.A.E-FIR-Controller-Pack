@@ -3,28 +3,44 @@ PROFILE:<INITIALS>_OBS:275:0
 ATIS2:Arabian vACC Observer
 ATIS3:vACC Information - arabian-vacc.com
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-
-
 PROFILE:OMAA_1_TWR:50:4
-ATIS2:"Abu Dhabi Tower" | PDC Logon OMAA
-ATIS3:Monitor ATIS on 131.700 | Request PDC via Private Message or Datalink
+ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_1X_TWR:50:4
+ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAA_2_TWR:50:4
-ATIS2:"Abu Dhabi Tower" | PDC Logon OMAA
-ATIS3:Monitor ATIS on 131.700 | Request PDC via Private Message or Datalink
+ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-
+PROFILE:OMAA_AIR_FMP:50:4
+ATIS2:"Abu Dhabi Tower Flow Manager" - DO NOT CONTACT ME!
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAA_1_GND:20:3
-ATIS2:"Abu Dhabi Ground"  | PDC Logon OMAA
-ATIS3:Covering all aprons when GMC 2 offline | Request PDC via Private Message or Datalink
+ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_1X_GND:20:3
+ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAA_2_GND:20:3
-ATIS2:"Abu Dhabi Ground"
-ATIS3:Covering aprons C, E, Q, S | Monitor ATIS on 131.700
+ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-
+PROFILE:OMAA_GMP_FMP:20:3
+ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAA_DEL:20:2
-ATIS2:"Abu Dhabi Delivery" | PDC Logon OMAA
-ATIS3:Clearance 10 minutes before departure | Request PDC via Private Message or Datalink
+ATIS2:"Abu Dhabi Delivery" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAA_GMP_FMP:20:2
+ATIS2:"Abu Dhabi Delivery" - DCL [OMAA]
+ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 END
