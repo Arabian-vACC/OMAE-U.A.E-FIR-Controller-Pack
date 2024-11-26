@@ -26,6 +26,7 @@ def main():
         ('Enroute', 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'),
         ('CTA Abu Dhabi', 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
         ('CTA Dubai', 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'),
+        ('CTA Military', 'OMAE/Plugins/TopSky CTA Military/TopSkyMaps.txt'),
     ]
 
     for source_subdir, target_file in targets:
