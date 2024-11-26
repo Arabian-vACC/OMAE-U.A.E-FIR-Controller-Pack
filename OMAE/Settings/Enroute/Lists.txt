@@ -67,7 +67,7 @@ m_Column:CS:8:0:10021:6:4:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:AC:5:1:10028:7:1001:1:TopSky plugin::TopSky plugin:0:0.0
 m_Column:TC:3:1:10032:104:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:TG:3:1:10081:106:0:1:TopSky plugin:TopSky plugin::0:0.0
-m_Column:POS:3:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:POS:6:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:TOBT:5:1:2:6:0:0:vACDM:vACDM::0:0.0
 m_Column:TSAT:5:1:3:8:9:0:vACDM:vACDM:vACDM:0:0.0
 m_Column:AORT:5:1:10:11:17:0:vACDM:vACDM:vACDM:0:0.0
