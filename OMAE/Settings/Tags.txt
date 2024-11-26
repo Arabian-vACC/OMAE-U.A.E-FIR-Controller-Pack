@@ -1,5 +1,5 @@
 TAGS
-TAGFAMILY:TopSky Aerodome
+TAGFAMILY:TopSky UAE Aerodome
 TAGTYPE:0:0:0
 TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
@@ -451,7 +451,7 @@ TAGITEM:16::0:1:0:0::0:1:::1
 TAGTYPE:23:0:0
 TAGITEM:81::1:0:0:0::0:1:::0
 TAGITEM:16::0:1:0:0::0:1:::1
-TAGFAMILY:TopSky_UAE_APP_RECAT
+TAGFAMILY:TopSky UAE Terminal RECAT
 TAGTYPE:0:0:0
 TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
@@ -942,7 +942,7 @@ TAGITEM:16::0:1:0:0::0:1:::1
 TAGTYPE:23:0:0
 TAGITEM:81::1:0:0:0::0:1:::0
 TAGITEM:16::0:1:0:0::0:1:::1
-TAGFAMILY:TopSky_UAE_ACC
+TAGFAMILY:TopSky UAE Enroute
 TAGTYPE:0:0:0
 TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
@@ -1441,7 +1441,7 @@ TAGITEM:16::0:1:0:0::0:1:::1
 TAGTYPE:23:0:0
 TAGITEM:81::1:0:0:0::0:1:::0
 TAGITEM:16::0:1:0:0::0:1:::1
-TAGFAMILY:TopSky_UAE_APP
+TAGFAMILY:TopSky UAE Terminal
 TAGTYPE:0:0:0
 TAGITEM:22::1:0:6:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:66::0:1:0:0:TopSky plugin:0:1:::1
