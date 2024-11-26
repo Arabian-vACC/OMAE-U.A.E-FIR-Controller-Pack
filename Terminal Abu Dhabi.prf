@@ -72,8 +72,9 @@ LastSession	facility	0
 LastSession	rating	0
 LastSession	tovatsim	1
 LastSession	callsign	<Initials>_OBS
-LastSession	atis2	U.A.E Observer
-LastSession	atis4	For charts visit vats.im/OMAE | We love feedback! vats.im/me/feedback
+LastSession	atis2	Arabian vACC Observer
+LastSession	atis3	vACC Information - arabian-vacc.com
+LastSession	atis4	Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0

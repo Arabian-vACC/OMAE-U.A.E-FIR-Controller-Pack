@@ -1,6 +1,6 @@
-Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Symbology.txt
-Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Voice.txt
-Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Profiles.txt
+Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Dubai\Symbology.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Dubai\Voice.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Dubai\Profiles.txt
 Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Terminal\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Terminal\Lists.txt
@@ -25,13 +25,16 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Terminal\Dubai CTA Dynamic.asr
-ASRFastKeys	2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
-ASRFastKeys	3	\OMAE\ASR\SMGCS\Sharjah SMGCS.asr
-ASRFastKeys	4	\OMAE\ASR\SMGCS\Al Maktoum SMGCS.asr
-ASRFastKeys	5	\OMAE\ASR\SMGCS\Minhad SMGCS.asr
-RecentFiles	Recent1	\OMAE\ASR\Terminal\Dubai CTA Dynamic.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\Dubai SMGCS.asr
+ASRFastKeys	1	\OMAE\ASR\Terminal\CTA Dubai.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
+ASRFastKeys	3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
+ASRFastKeys	4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
+ASRFastKeys	5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
+RecentFiles	Recent1	\OMAE\ASR\Terminal\CTA Dubai.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
+RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
+RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
+RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
 TeamSpeakVccs	TsVccsMiniControlX	1458
 TeamSpeakVccs	TsVccsMiniControlY	133
 TeamSpeakVccs	Ts3DialogLeft	0
@@ -73,8 +76,9 @@ LastSession	facility	0
 LastSession	rating	0
 LastSession	tovatsim	1
 LastSession	callsign	<Initials>_OBS
-LastSession	atis2	U.A.E Observer
-LastSession	atis4	For charts visit vats.im/OMAE | We love feedback! vats.im/me/feedback
+LastSession	atis2	Arabian vACC Observer
+LastSession	atis3	vACC Information - arabian-vacc.com
+LastSession	atis4	Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
