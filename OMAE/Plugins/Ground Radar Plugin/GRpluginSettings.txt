@@ -357,26 +357,6 @@ Airport_Runway_End=12R:N025.15.22.284:E055.21.29.847
 Airport_Runway_End=12L:N025.16.00.269:E055.20.47.682
 
 [OMDL]
-Airport_LVP=0
-
-Airport_Elevation=20
-Airport_Radius=2.5
-
-Airport_Runway_MaxCode=17:B
-Airport_Runway_MaxCode=35:B
-
-Airport_TransAlt=13000
-
-List_Outbound=*,1,100,800
-
-System_CMAC_HighSpeed_Info=30
-System_CMAC_HighSpeed=35
-System_CMAC_NoContact_Distance_Info=3.0
-
-Window_APP_AltFilter=13000
-
-Airport_Runway_End=17:N024.31.15.637:E052.20.02.575
-Airport_Runway_End=35:N024.29.55.577:E052.20.11.171
 
 [OMDM]
 Airport_LVP=1
