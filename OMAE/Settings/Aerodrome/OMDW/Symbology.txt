@@ -24,7 +24,7 @@ Runways:centerline:8026746:3.5:0:3:7
 Runways:extended centerline:8026746:3.5:0:1:7
 Runways:name:8421504:3.5:0:0:7
 Datablock:non concerned:12500670:3.5:0:0:7
-Datablock:notified:15461355:3.5:0:0:7
+Datablock:notified:16777215:3.5:0:0:7
 Datablock:assumed:3731224:3.5:0:0:7
 Datablock:transfer to me initiated:3731224:3.5:0:0:7
 Datablock:redundant:9680338:3.5:0:0:7
@@ -84,6 +84,7 @@ Other:manual taxi line:16777215:5.0:0:3:2
 Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
 Other:predefined taxi line:65280:5.0:0:3:2
 Other:terminal taxi line:255:5.0:0:3:2
+Other:list title bar:16777215:0.0:0:0:7
 Other:list header:16777215:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
@@ -97,8 +98,8 @@ Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:16777215:4.0:0:1:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:526344:3.5:0:0:7
-Sector:inactive sector background:526344:3.5:0:0:7
+Sector:active sector background:3419952:3.5:0:0:7
+Sector:inactive sector background:2368548:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:POLYGON 2 4 2 8 -2 8 -2 4
 SYMBOLITEM:POLYGON -2 -4 -2 -8 2 -8 2 -4
