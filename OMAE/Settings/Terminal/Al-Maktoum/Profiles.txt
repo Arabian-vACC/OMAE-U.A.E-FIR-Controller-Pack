@@ -3,28 +3,16 @@ PROFILE:<INITIALS>_OBS:275:0
 ATIS2:Arabian vACC Observer
 ATIS3:vACC Information - arabian-vacc.com
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_APP:150:5
-ATIS2:"Dubai Arrivals" - DCL [OMDA]
+PROFILE:OMDW_APP:150:5
+ATIS2:"Al-Maktoum Radar"
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_X_APP:150:5
-ATIS2:"Dubai Arrivals" - DCL [OMDA]
+PROFILE:OMDW_X_APP:150:5
+ATIS2:"Al-Maktoum Radar"
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_1_DEP:150:5
-ATIS2:"Dubai Departures" - DCL [OMDD]
+PROFILE:OMDW_S_APP:150:5
+ATIS2:"Dubai South Radar"
 ATIS3:Airport Information - vats.im/arb/airports
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_2_DEP:150:5
-ATIS2:"Dubai Departures" - DCL [OMDD]
-ATIS3:Airport Information - vats.im/arb/airports
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_F_APP:150:5
-ATIS2:"Dubai Director" - TURN THAN RESPOND!
-ATIS3:Report callsign only on initial contact, eg. "Dubai Director, UAE572"
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDB_FX_APP:150:5
-ATIS2:"Dubai Director" - TURN THAN RESPOND!
-ATIS3:Report callsign only on initial contact, eg. "Dubai Director, UAE572"
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 END

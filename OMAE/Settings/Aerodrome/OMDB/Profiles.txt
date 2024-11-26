@@ -41,7 +41,7 @@ ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMDB_DEL:20:2
 ATIS2:"Dubai Delivery" - DCL [OMDB]
-ATIS3:Airport Information - vats.im/arb/airports
+ATIS3:Request clearance 10 minutes before departure. A-CDM: vacdm.vatsim.me/
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMDB_GMP_FMP:20:2
 ATIS2:"Dubai Delivery" - DCL [OMDB]
