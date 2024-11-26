@@ -1,26 +1,7 @@
 // File created for the Arabian vACC - U.A.E FIR (OMAE)
 // Developed and maintained by the Arabian vACC Operations Department
 //
-// Version 1.0.0
-//
 // To be used on the VATSIM Network only
-
-// Abu Dhabi
-FINALAPP:OMAA:31L
-FINALAPP:OMAA:31R
-FINALAPP:OMAA:13L
-FINALAPP:OMAA:13R
-
-SOIR:OMAA:31L:31R
-SOIR:OMAA:13L:13R
-
-// Al Bateen
-FINALAPP:OMAD:31
-FINALAPP:OMAD:13
-
-// Al Ain
-FINALAPP:OMAL:01
-FINALAPP:OMAL:19
 
 // Dubai
 FINALAPP:OMDB:30L

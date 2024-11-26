@@ -1,8 +1,6 @@
 // File created for the Arabian vACC - U.A.E FIR (OMAE)
 // Developed and maintained by the Arabian vACC Operations Department
 //
-// Version 1.0.0
-//
 // To be used on the VATSIM Network only
 
 // Abu Dhabi & Sharjah Departure Squawk
@@ -34,12 +32,3 @@ NOTADES:OM
 RANGE:0601:0677
 ADEP:OMDB:OMDW:OMRK:OMAL
 ADES:OM
-
-// Area Control Center Arrivals
-RANGE:6001:6077
-ADES:OM
-
-// Area Control Center Transit
-RANGE:1701:1777
-NOTADEP:OM
-NOTADES:OM
