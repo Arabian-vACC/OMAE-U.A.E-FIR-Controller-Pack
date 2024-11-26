@@ -1,3 +1,4 @@
+Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Symbology_AD.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Voice_AD.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Profiles_AD.txt
@@ -37,7 +38,6 @@ TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	0
 TeamSpeakVccs	Ts3DialogRight	896
 TeamSpeakVccs	Ts3DialogBottom	561
-Sounds	Sound18	\OMAE\Sounds\startup.wav
 Sounds	Sound0	\OMAE\Sounds\handoff_request.wav
 Sounds	Sound1	\OMAE\Sounds\handoff_accept.wav
 Sounds	Sound2	\OMAE\Sounds\conflict_alert.wav
@@ -56,6 +56,7 @@ Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
 Sounds	Sound15	\OMAE\Sounds\new_atis.wav
 Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
 Sounds	Sound17	\OMAE\Sounds\pointout.wav
+Sounds	Sound18	\OMAE\Sounds\startup.wav
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll

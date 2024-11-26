@@ -1,3 +1,4 @@
+Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Dubai\Symbology.txt
 Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Dubai\Voice.txt
 Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Dubai\Profiles.txt
@@ -31,17 +32,16 @@ ASRFastKeys	3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
 ASRFastKeys	4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
 ASRFastKeys	5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
 RecentFiles	Recent1	\OMAE\ASR\Terminal\CTA Dubai.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
-RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
-RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
-RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
+RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
+RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
+RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
 TeamSpeakVccs	TsVccsMiniControlX	1458
 TeamSpeakVccs	TsVccsMiniControlY	133
 TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	0
 TeamSpeakVccs	Ts3DialogRight	896
 TeamSpeakVccs	Ts3DialogBottom	561
-Sounds	Sound18	\OMAE\Sounds\startup.wav
 Sounds	Sound0	\OMAE\Sounds\handoff_request.wav
 Sounds	Sound1	\OMAE\Sounds\handoff_accept.wav
 Sounds	Sound2	\OMAE\Sounds\conflict_alert.wav
@@ -60,6 +60,7 @@ Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
 Sounds	Sound15	\OMAE\Sounds\new_atis.wav
 Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
 Sounds	Sound17	\OMAE\Sounds\pointout.wav
+Sounds	Sound18	\OMAE\Sounds\startup_dxbtma.wav
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
@@ -82,3 +83,4 @@ LastSession	atis4	Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+LastSession	atis_freq4	118000
