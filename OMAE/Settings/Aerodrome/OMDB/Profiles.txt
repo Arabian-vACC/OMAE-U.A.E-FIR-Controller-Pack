@@ -3,48 +3,48 @@ PROFILE:<INITIALS>_OBS:275:0
 ATIS2:Arabian vACC Observer
 ATIS3:vACC Information - arabian-vacc.com
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_1_TWR:50:4
-ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+PROFILE:OMDB_1_TWR:50:4
+ATIS2:"Dubai Tower" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_1X_TWR:50:4
-ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+PROFILE:OMDB_1X_TWR:50:4
+ATIS2:"Dubai Tower" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_2_TWR:50:4
-ATIS2:"Abu Dhabi Tower" - DCL [OMAA]
+PROFILE:OMDB_2_TWR:50:4
+ATIS2:"Dubai Tower" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_AIR_FMP:50:4
-ATIS2:"Abu Dhabi Tower Flow Manager" - DO NOT CONTACT ME!
+PROFILE:OMDB_I_TWR:50:4
+ATIS2:"Dubai Tower" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_1_GND:20:3
-ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+PROFILE:OMDB_AIR_FMP:50:4
+ATIS2:"Dubai Tower Flow Manager" - DO NOT CONTACT ME!
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_1X_GND:20:3
-ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+PROFILE:OMDB_1_GND:20:3
+ATIS2:"Dubai Ground" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_2_GND:20:3
-ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+PROFILE:OMDB_1X_GND:20:3
+ATIS2:"Dubai Ground" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_3_GND:20:3
-ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+PROFILE:OMDB_2_GND:20:3
+ATIS2:"Dubai Ground" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_GMC_FMP:20:3
-ATIS2:"Abu Dhabi Ground" - DCL [OMAA]
+PROFILE:OMDB_GMC_FMP:20:3
+ATIS2:"Dubai Ground" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_DEL:20:2
-ATIS2:"Abu Dhabi Delivery" - DCL [OMAA]
+PROFILE:OMDB_DEL:20:2
+ATIS2:"Dubai Delivery" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAA_GMP_FMP:20:2
-ATIS2:"Abu Dhabi Delivery" - DCL [OMAA]
+PROFILE:OMDB_GMP_FMP:20:2
+ATIS2:"Dubai Delivery" - DCL [OMDB]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 END
