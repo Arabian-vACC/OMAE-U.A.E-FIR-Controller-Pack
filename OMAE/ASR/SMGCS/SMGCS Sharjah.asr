@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:Y:\VATSIMLibrary\Euroscope Sector Files\[OMAE] U.A.E FIR AIRAC 2411 DEV\OMAE-Install_20241104160449-241101-0004.sct
+SECTORTITLE:OMAE-Install_20241104160449-241101-0004.sct
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -14,7 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:328.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:25.310273:55.484917:25.340849:55.547729
+WINDOWAREA:25.312505:55.486397:25.343091:55.549209
 PLUGIN:Ground Radar plugin:AirportElevation:118
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:OMSJ
