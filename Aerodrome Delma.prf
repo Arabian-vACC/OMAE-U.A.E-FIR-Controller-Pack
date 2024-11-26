@@ -1,7 +1,7 @@
 Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
 Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Aerodrome\Symbology_AUH.txt
-Settings	SettingsfileVOICE	\OMAE\Settings\Aerodrome\OMAL\Voice.txt
-Settings	SettingsfilePROFILE	\OMAE\Settings\Aerodrome\OMAL\Profiles.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Aerodrome\OMDL\Voice.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Aerodrome\OMDL\Profiles.txt
 Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Aerodrome\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Aerodrome\Lists.txt
@@ -26,10 +26,10 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Aerodrome\Aerodrome Al-Ain.asr
-ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
-RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Aerodrome Al-Ain.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
+ASRFastKeys	1	\OMAE\ASR\Aerodrome\Aerodrome Delma.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Delma.asr
+RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Aerodrome Delma.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Delma.asr
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll

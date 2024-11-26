@@ -1,7 +1,7 @@
 Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
-Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Aerodrome\Symbology_AUH.txt
-Settings	SettingsfileVOICE	\OMAE\Settings\Aerodrome\OMAL\Voice.txt
-Settings	SettingsfilePROFILE	\OMAE\Settings\Aerodrome\OMAL\Profiles.txt
+Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Aerodrome\Symbology_DUB.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Aerodrome\OMDB\Voice.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Aerodrome\OMDB\Profiles.txt
 Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
 Settings	SettingsfileSIL	\OMAE\Settings\Aerodrome\Lists.txt
 Settings	SettingsfileSEL	\OMAE\Settings\Aerodrome\Lists.txt
@@ -12,7 +12,7 @@ Settings	SettingsfileCONFLICT	\OMAE\Settings\Aerodrome\Lists.txt
 Settings	SettingsfilePLUGINS	\OMAE\Settings\Aerodrome\Plugins.txt
 Settings	Settingsfile	\OMAE\Settings\Aerodrome\General.txt
 Settings	SettingsfileSCREEN	\OMAE\Settings\Aerodrome\Screen.txt
-Settings	SettingsfileVCCS	\OMAE\Settings\Aerodrome\VCCS_AUH.txt
+Settings	SettingsfileVCCS	\OMAE\Settings\Aerodrome\VCCS_DUB.txt
 Settings	SettingsfilePILOTING	\OMAE\Settings\Aerodrome\General.txt
 Settings	SettingsfileORIGPLANE	\OMAE\Settings\Aerodrome\General.txt
 Settings	SettingsfileSTUP	\OMAE\Settings\Aerodrome\General.txt
@@ -26,15 +26,15 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Aerodrome\Aerodrome Al-Ain.asr
-ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
-RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Aerodrome Al-Ain.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
+ASRFastKeys	1	\OMAE\ASR\Aerodrome\Aerodrome Dubai.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
+RecentFiles	Recent1	\OMAE\ASR\Aerodrome\Aerodrome Dubai.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
-Plugins	Plugin4	\OMAE\Plugins\TopSky Aerodrome South\TopSky.dll
+Plugins	Plugin4	\OMAE\Plugins\TopSky Aerodrome North\TopSky.dll
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
@@ -61,7 +61,7 @@ Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
 Sounds	Sound15	\OMAE\Sounds\new_atis.wav
 Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
 Sounds	Sound17	\OMAE\Sounds\pointout.wav
-Sounds	Sound18	\OMAE\Sounds\startup.wav
+Sounds	Sound18	\OMAE\Sounds\startup_dxbair.wav
 TeamSpeakVccs	TsVccsMiniControlX	1959
 TeamSpeakVccs	TsVccsMiniControlY	520
 TeamSpeakVccs	Ts3DialogLeft	0
