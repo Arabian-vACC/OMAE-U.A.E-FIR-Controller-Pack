@@ -19,10 +19,6 @@ PROFILE:OMDW_AX_TWR:50:4
 ATIS2:"Academy Tower"
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDW_AIR_FMP:50:4
-ATIS2:"Al-Maktoum Tower Flow Manager" - DO NOT CONTACT ME!
-ATIS3:Airport Information - vats.im/arb/airports
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMDW_GND:20:3
 ATIS2:"Al-Maktoum Ground" - DCL [OMDW]
 ATIS3:Airport Information - vats.im/arb/airports
@@ -33,10 +29,6 @@ ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMDW_I_GND:20:3
 ATIS2:"Academy Apron Information" - DCL [OMDW]
-ATIS3:Airport Information - vats.im/arb/airports
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMDW_GMC_FMP:20:3
-ATIS2:"Al-Maktoum Ground" - DCL [OMDW]
 ATIS3:Airport Information - vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 END
