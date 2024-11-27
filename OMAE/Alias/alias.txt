@@ -72,19 +72,19 @@
 .bpb Behind $1 passing $2, pushback approved, face $4 BEHIND?
 
 ;*** 07 Taxi ***
-.rrt Report ready for taxi. 
-.rft Are you ready for taxi?
-.tv Taxi via $1. 
-.tts Taxi to stand $1 via $2. 
-.ttc Taxi to a parking position of your choice. 
-.hst Hold short of taxiway $1. 
-.ths Taxi via $1, holding point $2. 
-.hs Hold short of runway $1. 
-.xr Cross runway $1.
-.xrt Taxiway $uc($1), cross runway $2.
+.rrt report ready for taxi. 
+.rft are you ready for taxi?
+.tv taxi via $1. 
+.tts taxi to stand $1 via $2. 
+.ttc taxi to a parking position of your choice. 
+.hst hold short of taxiway $1. 
+.ths taxi via $1, holding point $2. 
+.hs hold short of runway $1. 
+.xr cross runway $1.
+.xrt taxiway $uc($1), cross runway $2.
 .hp hold position. 
-.gw Give way to $1. 
-.wcc When clear of $1 continue taxi.
+.gw give way to $1. 
+.wcc when clear of $1 continue taxi.
 
 ;*** 08 Line up and Departure ***
 .lu line up and wait runway $deprwy.
