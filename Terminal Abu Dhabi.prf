@@ -12,7 +12,7 @@ Settings	SettingsfilePLUGINS	\OMAE\Settings\Terminal\Plugins.txt
 Settings	Settingsfile	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileSCREEN	\OMAE\Settings\Terminal\Screen.txt
 Settings	SettingsfileCONFLICT	\OMAE\Settings\Terminal\Lists.txt
-Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS.txt
+Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS_AUH.txt
 Settings	SettingsfilePILOTING	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileORIGPLANE	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileSTUP	\OMAE\Settings\Terminal\General.txt

@@ -12,7 +12,7 @@ Settings	SettingsfilePLUGINS	\OMAE\Settings\Terminal\Plugins.txt
 Settings	Settingsfile	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileSCREEN	\OMAE\Settings\Terminal\Screen.txt
 Settings	SettingsfileCONFLICT	\OMAE\Settings\Terminal\Lists.txt
-Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS.txt
+Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS_DUB.txt
 Settings	SettingsfilePILOTING	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileORIGPLANE	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileSTUP	\OMAE\Settings\Terminal\General.txt
@@ -32,10 +32,10 @@ ASRFastKeys	3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
 ASRFastKeys	4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
 ASRFastKeys	5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
 RecentFiles	Recent1	\OMAE\ASR\Terminal\CTA Dubai.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
-RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
-RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
-RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
+RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
+RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Al-Maktoum.asr
+RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Minhad.asr
 TeamSpeakVccs	TsVccsMiniControlX	2014
 TeamSpeakVccs	TsVccsMiniControlY	515
 TeamSpeakVccs	Ts3DialogLeft	0
