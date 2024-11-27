@@ -2,24 +2,23 @@
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 
 .cp .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1).
 .cpl .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1) at FL $2.
+.deg .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing DEGSO at FL310.
+.itr .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ITRAX at FL160.
+.ors .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ORSAR at FL250.
+.pas .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PASOV at FL230.
+.pat .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PATAT at FL200.
+.res .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing RESAR at FL350.
+.sod .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing SODEX at FL160.
+.tap .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TAPRA at FL240.
+.tom .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TOMSO at FL310.
 .ct .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq at time $1 UTC.
 .ci .msg $aircraft No movement without permission, please! $radioname is providing top-down service for $dep. Hold position and contact me on $freq
 .cnow .msg $aircraft Hello. Please contact me on $freq as soon as possible.
-.ors Reach ORSAR FL250 maintaining 
-.deg Reach DEGSO FL310 maintaining
-.tom Reach TOMSO FL310 maintaining 
-.pat Reach PATAT FL200 maintaining 
-.itr Reach ITRAX FL160 maintaining 
-.tap Reach TAPRA FL240 maintaining 
-.sod Reach SODEX FL160 maintaining 
-.itrax Reach ITRAX FL160 maintaining 
-.res Reach RESAR FL350 maintaining 
-.pas Reach PASOV FL230 maintaining
 
 ;*** 02 Initial Contact ***
 .h $radioname, hello. 
 .gm  $radioname, good morning.
-.ga  $radioname, good afternoon.
+.gaf  $radioname, good afternoon.
 .ge  $radioname, good evening.
 .gd $radioname, good day. 
 .id identified. 
