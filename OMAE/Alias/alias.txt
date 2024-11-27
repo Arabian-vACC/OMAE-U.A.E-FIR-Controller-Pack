@@ -172,20 +172,20 @@
 .exp expect ILS approach runway $arrrwy information $, QNH $altim($arr)
 .ev expect vectors for $1 approach runway $arrrwy. QNH $altim($arr).
 .v vectors for $1 approach runway $arrrwy.
-.ils Cleared ILS approach runway $arrrwy. Report established.
-.autoclearedils Cleared ILS approach runway $1. Report established.
-.rnav Cleared RNAV approach runway $arrrwy. Report established.
-.rnavy Cleared RNAV-Y approach runway $arrrwy. Report established.
-.rnavz Cleared RNAV-Z approach runway $arrrwy. Report established.
-.vor Cleared VOR/DME approach runway $arrrwy. Report established.
-.vi Cleared Visual approach runway $arrrwy. Report runway in sight.
-.autoclearedvisual Cleared Visual approach runway $1. Report runway in sight.
-.cpla Continue approach, vacate at $1.
-.coa Continue approach, wind $winds($arr).
-.llc Continue approach, expect late landing clearance, wind $winds($arr).
+.ils cleared ILS approach runway $arrrwy. Report established.
+.rnav cleared RNAV approach runway $arrrwy. Report established.
+.rnavy cleared RNAV-Y approach runway $arrrwy. Report established.
+.rnavz cleared RNAV-Z approach runway $arrrwy. Report established.
+.vor cleared VOR/DME approach runway $arrrwy. Report established.
+.vi cleared Visual approach runway $arrrwy. Report runway in sight.
+.cpla continue approach, vacate at $1.
+.coa continue approach, wind $winds($arr).
+.llc continue approach, expect late landing clearance, wind $winds($arr).
 .tm $1 track miles to touchdown.
-.ris Report runway in sight.
+.ris report runway in sight.
 .wc wind $winds($arr)
+.autoclearedils cleared ILS approach runway $1. Report established.
+.autoclearedvisual cleared Visual approach runway $1. Report runway in sight.
 
 ;*** 13 Speed Control ***
 .rs report indicated airspeed.
@@ -197,6 +197,9 @@
 .mc reduce to minimum clean speed.
 .mcr reduce to minimum clean speed and report.
 .ma reduce to minimum approach speed.
+.160 speed 160kts till 4 DME.
+.190 speed 190kts till 10 DME.
+.169 speed 190kts until 10 DME, and 160kts until 4 DME.
 .nsr no speed restrictions.
 .rns resume normal speed.
 .autonospeed no speed restrictions.
