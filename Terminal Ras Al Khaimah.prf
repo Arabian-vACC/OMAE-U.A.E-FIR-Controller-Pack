@@ -1,0 +1,80 @@
+Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
+Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Ras Al Khaimah\Symbology.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Ras Al Khaimah\Voice.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Ras Al Khaimah\Profiles.txt
+Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
+Settings	SettingsfileSIL	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileSEL	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileDEP	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileARR	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileFP	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfilePLUGINS	\OMAE\Settings\Terminal\Plugins.txt
+Settings	Settingsfile	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileSCREEN	\OMAE\Settings\Terminal\Screen.txt
+Settings	SettingsfileCONFLICT	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS.txt
+Settings	SettingsfilePILOTING	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileORIGPLANE	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileSTUP	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileTAXIOUT	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileTAKEOFF	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileADCS	\OMAE\Settings\Terminal\General.txt
+Settings	SettingsfileTAXIIN	\OMAE\Settings\Terminal\General.txt
+Settings	alias	\OMAE\Alias\alias.txt
+Settings	airlines	\OMAE\ICAO\ICAO_Airlines.txt
+Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
+Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\OMAE\NavData\icao.txt
+Settings	airways	\OMAE\NavData\airway.txt
+ASRFastKeys	1	\OMAE\ASR\Terminal\CTA Ras Al Khaimah.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Ras Al Khaimah.asr
+RecentFiles	Recent1	\OMAE\ASR\Terminal\CTA Ras Al Khaimah.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Ras Al Khaimah.asr
+TeamSpeakVccs	TsVccsMiniControlX	2014
+TeamSpeakVccs	TsVccsMiniControlY	515
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	896
+TeamSpeakVccs	Ts3DialogBottom	561
+Sounds	Sound0	\OMAE\Sounds\handoff_request.wav
+Sounds	Sound1	\OMAE\Sounds\handoff_accept.wav
+Sounds	Sound2	\OMAE\Sounds\conflict_alert.wav
+Sounds	Sound3	\OMAE\Sounds\radio_message.wav
+Sounds	Sound4	\OMAE\Sounds\private_message.wav
+Sounds	Sound5	\OMAE\Sounds\atc_message.wav
+Sounds	Sound6	\OMAE\Sounds\broadcast_message.wav
+Sounds	Sound7	\OMAE\Sounds\landline_request.wav
+Sounds	Sound8	\OMAE\Sounds\supervisorcall.wav
+Sounds	Sound9	\OMAE\Sounds\connected.wav
+Sounds	Sound10	\OMAE\Sounds\disconnected.wav
+Sounds	Sound11	\OMAE\Sounds\ongoing_request.wav
+Sounds	Sound12	\OMAE\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\OMAE\Sounds\ongoing_refused.wav
+Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
+Sounds	Sound15	\OMAE\Sounds\new_atis.wav
+Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
+Sounds	Sound17	\OMAE\Sounds\pointout.wav
+Sounds	Sound18	\OMAE\Sounds\startup.wav
+Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
+Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin4	\OMAE\Plugins\TopSky CTA\TopSky.dll
+Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
+Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	callsign	<Initials>_OBS
+LastSession	atis2	Arabian vACC Observer
+LastSession	atis3	vACC Information - arabian-vacc.com
+LastSession	atis4	Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+LastSession	range	275
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_freq4	118000
