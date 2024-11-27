@@ -219,6 +219,7 @@
 
 ;*** 15 Landing ***
 .ctl wind $winds($arr), runway $arrrwy, cleared to land.
+.ctlr traffic is a $1 vacating ahead, wind $winds($arr), runway $arrrwy, cleared to land.
 .ctg wind $winds($arr), runway $arrrwy, cleared touch and go.
 .csg wind $winds($arr), runway $arrrwy, cleared for stop and go.
 .clp wind $winds($arr), cleared low pass runway $arrrwy.
