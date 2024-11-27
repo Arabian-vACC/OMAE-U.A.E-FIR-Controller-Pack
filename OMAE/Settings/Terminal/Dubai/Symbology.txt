@@ -92,7 +92,7 @@ Transitions:transition grid:8881798:3.0:0:0:7
 Chat:text:16777215:3.5:0:0:7
 Chat:background:6381921:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
-Chat:name unread:9885590:3.5:0:0:7
+Chat:name unread:33023:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
