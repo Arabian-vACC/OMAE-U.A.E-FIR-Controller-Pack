@@ -5,6 +5,16 @@
 .ct .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq at time $1 UTC.
 .ci .msg $aircraft No movement without permission, please! $radioname is providing top-down service for $dep. Hold position and contact me on $freq
 .cnow .msg $aircraft Hello. Please contact me on $freq as soon as possible.
+.ors Reach ORSAR FL250 maintaining 
+.deg Reach DEGSO FL310 maintaining
+.tom Reach TOMSO FL310 maintaining 
+.pat Reach PATAT FL200 maintaining 
+.itr Reach ITRAX FL160 maintaining 
+.tap Reach TAPRA FL240 maintaining 
+.sod Reach SODEX FL160 maintaining 
+.itrax Reach ITRAX FL160 maintaining 
+.res Reach RESAR FL350 maintaining 
+.pas Reach PASOV FL230 maintaining
 
 ;*** 02 Initial Contact ***
 .h $radioname, hello. 
@@ -31,31 +41,22 @@
 .sqi Squawk ident.
 
 ;*** 05 Clearance ***
-.pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $1 ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
-.pdco .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA OMNIDERCTIONAL DEPARTURE ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $1 ... INITIAL ALTITUDE IS $temp. REPORT READY FOR PUSH $com // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $1 ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com [END OF ACARS MESSAGE NO READ-BACK REQUIRED]
+.pdco .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA OMNIDERCTIONAL DEPARTURE ... SQUAWK $asquawk ... ADT $ftime(20) ... NO CTOT ... ATIS $1 ... INITIAL ALTITUDE IS $temp. REPORT READY FOR PUSH $com [END OF ACARS MESSAGE NO READ-BACK REQUIRED]
 .nopdc .msg $aircraft PDC UNAVAILABLE. REVERT TO VOICE PROCEDURES ON $com
-.rrc Clearance available, report ready to copy.
-.ico Information $atiscode correct. 
-.icu Information $atiscode current. 
-.cl  Cleared to $arr via $sid departure, maintain altitude $temp, squawk $squawk.
-.cla Cleared to $arr via $sid departure, runway $deprwy, maintain altitude $temp, squawk $squawk.
-.cll Cleared to $arr via $sid departure, runway $deprwy, climb to FL $temp, squawk $squawk.
-.clo Cleared to $arr via omnidirectional departure runway $deprwy. After departure climb to $1 ft and maintain runway heading, squawk $squawk.
-.clrv Cleared to $arr, expect radar vectors after departure. After departure climb to $1 ft, squawk $squawk.
+.rrc clearance available, report ready to copy.
+.cl  cleared to $arr via $sid departure, maintain altitude $temp, squawk $squawk.
+.cla cleared to $arr via $sid departure, runway $deprwy, maintain altitude $temp, squawk $squawk.
+.cll cleared to $arr via $sid departure, runway $deprwy, climb to FL $temp, squawk $squawk.
+.clo cleared to $arr via omnidirectional departure runway $deprwy. After departure climb to $1 ft and maintain runway heading, squawk $squawk.
+.clrv cleared to $arr, expect radar vectors after departure. After departure climb to $1 ft, squawk $squawk.
 .sid? Are you able to fly the $sid departure?
-.invalfl Hello, it looks like you have an invalid flight level, your new cruise level is $1.
-.route Hello, it looks like you have an invalid route, your route is modified as follows: // $1 , flight planned route. // Please re-file your flight plan and amend the route accordingly in your FMC. When ready, request clearance as normal. To avoid getting rerouted in future you can take a look at vats.im/uaerm
-.routefull  Hello, it looks like you have an invalid route, expect a full reroute as follows: // $1  // Please re-file your flight plan and amend the route accordingly in your FMC. When ready, request clearance as normal. To avoid getting rerouted in future you can take a look at vats.im/uaerm
-.ors Reach ORSAR FL250 maintaining 
-.deg Reach DEGSO FL310 maintaining
-.tom Reach TOMSO FL310 maintaining 
-.pat Reach PATAT FL200 maintaining 
-.itr Reach ITRAX FL160 maintaining 
-.tap Reach TAPRA FL240 maintaining 
-.sod Reach SODEX FL160 maintaining 
-.itrax Reach ITRAX FL160 maintaining 
-.res Reach RESAR FL350 maintaining 
-.pas Reach PASOV FL230 maintaining
+.ico information $atiscode correct. 
+.icu information $atiscode current. 
+.ifl Hello, it appears you have an invalid flight level. According to the semicircular rule, flight levels are assigned based on the direction of flight, with odd levels (e.g., FL 310, FL 330) used for flights heading east (0° to 179°), and even levels (e.g., FL 300, FL 320) used for flights heading west (180° to 359°). Your new cruise level has been changed to FL$1 to comply with this rule.
+.rte .msg $aircraft Hello, it seems your route is invalid. Please select a route highlighted in purple on SimBrief (User Preferred Route) if available, or a blue EuroControl validated route if applicable. Routes in purple are added to the SimBrief database by our operations team. Kindly re-file your flight plan and update your FMC with the correct route. Once ready, request clearance as usual. To avoid future rerouting, please visit library.arabian-vacc.com for more information.
+.rtep .msg $aircraft Hello, it appears that your route is invalid. The route has been modified as follows: [$1], flight-planned route. Please re-file your flight plan and update your FMC with the corrected route. Once you're ready, request clearance as usual. To avoid future rerouting, please refer to library.arabian-vacc.com for more information.
+.rtef  .msg $aircraft Hello, it seems you have an invalid route. You can expect a full reroute as follows: // $1. Please re-file your flight plan and update your FMC with the revised route. Once you're ready, request clearance as usual. To prevent future rerouting, please visit library.arabian-vacc.com for more information.
 
 ;*** 06 Startup / Pushback ***
 .rb readback correct.
