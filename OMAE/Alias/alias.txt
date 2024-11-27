@@ -87,40 +87,41 @@
 .wcc When clear of $1 continue taxi.
 
 ;*** 08 Line up and Departure ***
-.lu Line up and wait runway $deprwy.
-.lubl Behind landing $1, line up and wait runway $deprwy behind.
-.lubd Behind departing $1, line up and wait runway $deprwy behind.
-.bt Line up and backtrack runway $deprwy.
-.rrd Report ready for departure.
-.rfd Are you ready for departure?
-.rfid Are you ready for immediate departure?
-.afid Are you able for departure from intersection $1?
-.cto Wind $winds($dep), runway $deprwy, cleared for take-off.
-.ctoi Wind $winds($dep), runway $deprwy, intersection $1, cleared for take-off.
-.cito Wind $winds($dep), runway $deprwy, cleared for immediate take-off.
-.toc Hold position, CANCEL take-off, I say again, CANCEL take-off.
+.lu line up and wait runway $deprwy.
+.lubl behind landing $1, line up and wait runway $deprwy behind.
+.lubd behind departing $1, line up and wait runway $deprwy behind.
+.bt line up and backtrack runway $deprwy.
+.rrd report ready for departure.
+.rfd are you ready for departure?
+.rfid are you ready for immediate departure?
+.afid are you able for departure from intersection $1?
+.cto wind $winds($dep), runway $deprwy, cleared for take-off.
+.ctor traffic is a $1 departing ahead, wind $winds($dep), runway $deprwy, cleared for take-off.
+.ctoi wind $winds($dep), runway $deprwy, intersection $1, cleared for take-off.
+.cito wind $winds($dep), runway $deprwy, cleared for immediate take-off.
+.toc hold position, CANCEL take-off, I say again, CANCEL take-off.
 .stop STOP immediately, $aircraft, STOP immediately.
 
 ;*** 10 Lateral Navigation ***
-.tl Turn left heading $1.
-.tr Turn right heading $1.
-.tld Turn left direct $1.
-.trd Turn right direct $1.
-.fh Fly heading $1.
-.lh Leave $1 heading $2
-.rh Report heading.
-.tlb Turn left by $1 degrees. 
-.trb Turn right by $1 degrees. 
-.rnh Report new heading.
-.pd Proceed direct $1.
-.autoproceed Proceed direct $1.
-.cot Clear of traffic. 
-.rcw Report clear of weather.
-.ron Resume own navigation direct $uc($1), magnetic track $bear($1) distance $dist($1) miles.
-.cph Continue present heading.
-.cphr Continue present heading and report.
-.os Proceed offset $1 nm $2 of $3.
-.oc Cancel offset.
+.tl turn left heading $1.
+.tr turn right heading $1.
+.tld turn left direct $1.
+.trd turn right direct $1.
+.fh fly heading $1.
+.lh leave $1 heading $2
+.rh report heading.
+.tlb turn left by $1 degrees. 
+.trb turn right by $1 degrees. 
+.rnh report new heading.
+.pd proceed direct $1.
+.cot clear of traffic. 
+.rcw report clear of weather.
+.ron resume own navigation direct $uc($1), magnetic track $bear($1) distance $dist($1) miles.
+.cph continue present heading.
+.cphr continue present heading and report.
+.os proceed offset $1 nm $2 of $3.
+.oc cancel offset.
+.autoproceed proceed direct $1.
 
 ;*** 11 Vertical Navigation ***
 .c climb to FL $1.
