@@ -1,57 +1,57 @@
 PROFILE
-PROFILE:OMAE_E_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the East sector up to FL275
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_2_CTR:400:6
-ATIS2:"U.A.E Radar" | PDC Logon OMAE
-ATIS3:Covering the Southern U.A.E. | Request PDC via Private Message or Datalink
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:<Initials>_OBS:275:0
-ATIS2:U.A.E Observer
-ATIS3:
+PROFILE:<INITIALS>_OBS:275:0
+ATIS2:Arabian vACC Observer
+ATIS3:vACC Information - arabian-vacc.com
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_1_CTR:400:6
-ATIS2:"U.A.E Radar" | PDC Logon OMAE
-ATIS3:Covering the entire U.A.E when local ATC offline | Request PDC via Private Message or Datalink
+ATIS2:"U.A.E Radar" - DCL [OMAE]
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_D_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Delta sector up to FL255
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_R_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Romeo sector up to FL255 + ITLAP holding stack
+PROFILE:OMAE_2_CTR:400:6
+ATIS2:"U.A.E Radar" - DCL [OMAE]
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_3_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Central sector above FL255
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_W_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the West sector up to FL255 + VUTEB holding stack
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_L_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Lima sector up to FL255 + ROVOS holding stack
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_H_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Hotel sector up to FL275
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_Y_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Yankee sector up to FL195 + IMPED holding stack
-ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_G_CTR:400:6
-ATIS2:"U.A.E Radar"
-ATIS3:Covering the Golf sector up to FL255 + ALNEV holding stack
+ATIS2:"U.A.E Radar" - DCL [OMAE]
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_4_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Covering the Mike sector above FL275
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
-PROFILE:OMAE_TMU_CTR:400:6
+PROFILE:OMAE_D_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_E_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_G_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_H_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_L_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_R_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_W_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_Y_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_ENR_FMP:400:6
 ATIS2:UAE Traffic Managment Unit
 ATIS3:No listening watch maintained on this frequency! Contact the appropriate sector as directed.
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
