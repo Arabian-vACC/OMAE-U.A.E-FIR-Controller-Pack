@@ -3,7 +3,7 @@
 //
 // To be used on the VATSIM Network only
 
-Equip_ProMode=1
+Equip_ProMode=0
 RawVideo=1
 Track_Heading_Line=0
 Track_HistoryDots_GND=3
@@ -26,6 +26,7 @@ Window_APP=1,1960,46,600,460
 Maps_FontSize=10
 GroundLabel_Font=EuroScope
 GroundLabel_FontSize=13
+GroundLabel_Filter_Stby=1
 GroundLabel_Filter_NoState=1
 Color_SelectedLabelBorder_Gnd=5,6,7
 GroundLabel_Transparency_Bd=165
