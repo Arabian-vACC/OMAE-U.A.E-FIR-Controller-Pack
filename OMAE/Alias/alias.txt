@@ -214,13 +214,13 @@
 .vuteb Hold at VUTEB, inbound course 107�, right turns.
 
 ;*** 15 Landing ***
-.ctl Wind $winds($arr), runway $arrrwy, cleared to land.
-.ctg Wind $winds($arr), runway $arrrwy, cleared touch and go.
-.csg Wind $winds($arr), runway $arrrwy, cleared for stop and go.
-.clp Wind $winds($arr), cleared low pass runway $arrrwy.
-.ss Side step to runway $1.
-.ga Go around, I say again, go around.
-.cvm Climb to $ ft via standard missed approach
+.ctl wind $winds($arr), runway $arrrwy, cleared to land.
+.ctg wind $winds($arr), runway $arrrwy, cleared touch and go.
+.csg wind $winds($arr), runway $arrrwy, cleared for stop and go.
+.clp wind $winds($arr), cleared low pass runway $arrrwy.
+.ss side step to runway $1.
+.ga go around, I say again, go around acknowledge.
+.cvm climb to $ ft via standard missed approach
 
 ;*** 16 After Landing ***
 .vv vacate via $1. 
