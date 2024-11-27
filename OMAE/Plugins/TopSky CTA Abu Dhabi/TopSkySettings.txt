@@ -115,7 +115,7 @@ RwyAppLines_Auto=0
 
 // Colors
 Color_Active_Map=181,20,20
-Color_Active_Map_Type_1=87,87,164
+Color_Active_Map_Type_1=197,207,134
 Color_Active_Map_Type_2=80,162,74
 Color_Active_Map_Type_3=179,180,180
 Color_Active_Map_Type_4=200,53,18
