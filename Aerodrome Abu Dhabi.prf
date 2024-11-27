@@ -64,10 +64,10 @@ Sounds	Sound17	\OMAE\Sounds\pointout.wav
 Sounds	Sound18	\OMAE\Sounds\startup_auhair.wav
 TeamSpeakVccs	TsVccsMiniControlX	1959
 TeamSpeakVccs	TsVccsMiniControlY	520
-TeamSpeakVccs	Ts3DialogLeft	0
-TeamSpeakVccs	Ts3DialogTop	0
-TeamSpeakVccs	Ts3DialogRight	896
-TeamSpeakVccs	Ts3DialogBottom	561
+TeamSpeakVccs	Ts3DialogLeft	646
+TeamSpeakVccs	Ts3DialogTop	397
+TeamSpeakVccs	Ts3DialogRight	1542
+TeamSpeakVccs	Ts3DialogBottom	962
 LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
@@ -80,3 +80,8 @@ LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	atis_freq4	118000
+TeamSpeakVccs	Ts3NickName	1306415
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Speakers (Logitech PRO X Gaming Headset)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Microphone (4- HD Pro Webcam C920)

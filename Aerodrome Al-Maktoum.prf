@@ -38,7 +38,6 @@ Plugins	Plugin4	\OMAE\Plugins\TopSky Aerodrome Maktoum\TopSky.dll
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
-Plugins	Plugin1Display0	DelHel
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
@@ -80,3 +79,4 @@ LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	atis_freq4	118000
+Plugins	Plugin1Display0	DelHel
