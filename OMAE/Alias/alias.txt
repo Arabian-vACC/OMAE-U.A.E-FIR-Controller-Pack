@@ -223,24 +223,36 @@
 .cvm Climb to $ ft via standard missed approach
 
 ;*** 16 After Landing ***
-.vr Vacate runway to the RIGHT on $1.
-.vl Vacate runway to the LEFT on $1.
-.vv Vacate via $1. 
+.vv vacate via $1. 
+.vl vacate runway to the LEFT on $1.
+.vr vacate runway to the RIGHT on $1.
+.k6 continue approach Runway 30L, vacate LEFT on K6
+.k8 continue approach Runway 30L, vacate LEFT on K8
+.k9 continue approach Runway 30L, vacate LEFT on K9
+.m12b continue approach Runway 30L, vacate RIGHT on M12B
+.m11 continue approach Runway 30L, vacate RIGHT on M11
+.m8 continue approach Runway 30L, vacate RIGHT on M8
+.n5 continue approach Runway 30R, vacate RIGHT on N5
+.n3a continue approach Runway 30R, vacate RIGHT on N3A
+.n3 continue approach Runway 30R, vacate RIGHT on N3
+.m6 continue approach Runway 30R, vacate LEFT on M6
+.m3a continue approach Runway 30R, vacate LEFT on M3A
+.m3 continue approach Runway 30R, vacate LEFT on M3
+.a11 continue approach Runway 13L, vacate RIGHT on A11
+.a13 continue approach Runway 13L, vacate RIGHT on A13
+.a10 continue approach Runway 31R, vacate LEFT on A10
+.a8 continue approach Runway 31R, vacate LEFT on A8
+.a6 continue approach Runway 31R, vacate LEFT on A6
+.d7 continue approach Runway 13R, vacate LEFT on D7
+.d8 continue approach Runway 13R, vacate LEFT on D8
+.e7 continue approach Runway 13R, vacate RIGHT on E7
+.e10 continue approach Runway 13R, vacate RIGHT on E10
+.e12 continue approach Runway 31L, vacate LEFT on E12
+.e8 continue approach Runway 31L, vacate LEFT on E8
+.d6 continue approach Runway 31L, vacate RIGHT on D6
+.d5 continue approach Runway 31L, vacate RIGHT on D5
 .wel Welcome to $arr. 
-.bye Thanks for coming to $arr, good bye and see you next time.
-.k6 Continue approach Runway 30L, vacate K6
-.k8 Continue approach Runway 30L, vacate K8
-.k9 Continue approach Runway 30L, vacate K9
-.m6 Continue approach Runway 30R, vacate M6
-.n5 Continue approach Runway 30R, vacate N5
-.m7a Continue approach Runway 12L, vacate M7A
-.m9 Continue approach Runway 12L, vacate M9
-.m12a Continue approach Runway 12L, vacate M12A
-.n6 Continue approach Runway 12L, vacate N6
-.m16 Continue approach Runway 12R, vacate M16
-.k13 Continue approach Runway 12R, vacate K13
-.e8 Continue approach Runway 31L, vacate E8
-.e10 Continue approach Runway 13R, vacate E10
+.bye Thanks for coming to $arr, good bye!
 
 ;*** 17 VFR ***
 .in Enter control zone via $1. 
@@ -264,7 +276,7 @@
 ;*** 18 Pilot Infos ***
 .cr .msg $aircraft Please make a correct readback so that I see that you've understood my instructions correctly. A readback is made by repeating the instructions of the controller. 
 .po .msg $aircraft Hello, the position you are standing is already occupied by another aircraft. Please choose another one, thank you!
-.fp .msg $aircraft Hello. Your IFR flight plan is not valid. Please check for a valid route at vats.im/uaerm, thank you!
+.fp .msg $aircraft Hello. Your IFR flight plan is not valid. Your flight plan likely doesn't comply with Middle Eastern routing restrictions. For more information, check out library.arabian-vacc.com or email whyamigettingrerouted@vatsim.me.
 .rp .msg $aircraft Startup does NOT include pushback. This first movement needs a separate clearance. Always request pushback, please. Thank you!
 .cf .msg $aircraft The facing indicates the direction your nose should point to after the pushback is completed.
 .exs .msg $aircraft Hello, expect Stand $1, Happy Landing!
