@@ -1,55 +1,55 @@
 PROFILE
 PROFILE:<INITIALS>_OBS:275:0
 ATIS2:Arabian vACC Observer
-ATIS3:vACC Information - arabian-vacc.com
+ATIS3:vACC Info - arabian-vacc.com
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_1_CTR:400:6
 ATIS2:"U.A.E Radar" - DCL [OMAE]
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_2_CTR:400:6
 ATIS2:"U.A.E Radar" - DCL [OMAE]
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_3_CTR:400:6
 ATIS2:"U.A.E Radar" - DCL [OMAE]
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_4_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_D_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_E_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_G_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_H_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_L_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_R_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_W_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_Y_CTR:400:6
 ATIS2:"U.A.E Radar"
-ATIS3:Sector Information: vatglasses.uk - Airport Information: vats.im/arb/airports
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_ENR_FMP:400:6
 ATIS2:UAE Traffic Managment Unit
