@@ -287,21 +287,13 @@
 .on / Salam, $radioname is online.
 .off / $radioname is now closed. Masalama!
 .offmin / $radioname is closing in $1 minutes.
-.subaa .msg OMAA_ATIS subscribe
-.subad .msg OMAD_ATIS subscribe
-.subal .msg OMAL_ATIS subscribe
-.subdb .msg OMDB_ATIS subscribe
-.subdw .msg OMDW_ATIS subscribe
-.subfj .msg OMFJ_ATIS subscribe
-.subrk .msg OMRK_ATIS subscribe
-.subsj .msg OMSJ_ATIS subscribe
-.mic Stuck microphone, you are blocking the frequency. Please let go of the transmit button immediately.
-.why Getting rerouted? You will find that your route does not comply with the routing restrictions in the Middle East. To know more, send an email to whyamigettingrerouted@vatsim.me
-.vfrcharts Please familiarise yourself with VFR charts available here: https://vats.im/dubaivfr
-.noob It seems you don't know how to correctly operate your aircraft. Please consider learning offline to become proficient before joining the VATSIM network, or flying an aircraft that you are familiar with
-.charts It seems you are not familiar with the aerodrome, please ensure that you are using the latest charts that are available here https://chartfox.org/
+.mic You have a stuck microphone and are blocking the frequency. Please release the transmit button immediately.
+.loudmic Your microphone level is too high, causing excessive volume on the frequency. Please adjust your mic settings in your pilot client to ensure your voice stays within the green band when transmitting.
+.why Being rerouted? Your flight plan likely doesn't comply with Middle Eastern routing restrictions. For more information, check out library.arabian-vacc.com or email whyamigettingrerouted@vatsim.me.
+.noob It appears that you might be unfamiliar with the correct operation of your aircraft. To ensure a smooth experience for yourself and others on the VATSIM network, we recommend taking some time to practice offline and gain proficiency. This will help you become more confident in handling your aircraft. Alternatively, consider flying an aircraft you are more comfortable and experienced with until you build your skills further.
+.charts It appears you may be unfamiliar with the aerodrome. Please ensure you're using the latest charts, which you can find at chartfox.org or explore additional chart resources at vats.im/arb/airports.
+.chartsvfr It seems you might not be familiar with VFR procedures in the United Arab Emirates. You can find more information about these procedures at vats.im/arb/airports.
 
 ;*** 20 AIRAC ***
 .csr .msg $aircraft At the moment, your callsign is not listed in our database. Please register your airline on gng.aero-nav.com/AERONAV/icao_request_airlines. If you continue to fly in our region, your callsign may be included in our controller files.
 .csv .msg $aircraft At the moment, your callsign is not listed in our database. Please register your VA on gng.aero-nav.com/AERONAV/icao_request_vairlines. If you continue to fly in our region, your callsign may be included in our controller files.
-
