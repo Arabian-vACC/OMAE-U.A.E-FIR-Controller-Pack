@@ -204,14 +204,15 @@
 .rns Resume normal speed.
 
 ;*** 14 Holdings ***
-.pho Proceed to $1. Hold as published.
-.phod Proceed to $1. Hold as published. Expect onward clearance at $2z.
-.ho Hold at $1.
-.hor Hold at $1, inbound course $2�, right turns.
-.hol Hold at $1, inbound course $2�, left turns.
-.itlap Hold at ITLAP, inbound course 204�, left turns.
-.imped Hold at IMPED, inbound course 298�, right turns.
-.vuteb Hold at VUTEB, inbound course 107�, right turns.
+.pho proceed to $1. Hold as published.
+.phod proceed to $1. Hold as published. Expect onward clearance at $2z.
+.ho hold at $1.
+.hor hold at $1, inbound course $2°, right turns.
+.hol hold at $1, inbound course $2°, left turns.
+.alnev hold at ALNEV, inbound course 117°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
+.itlap hold at ITLAP, inbound course 204°, with left turns. This published hold is available in the LOW IFR section on Navigraph.
+.imped hold at IMPED, inbound course 298°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
+.vuteb hold at VUTEB, inbound course 107°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
 
 ;*** 15 Landing ***
 .ctl wind $winds($arr), runway $arrrwy, cleared to land.
