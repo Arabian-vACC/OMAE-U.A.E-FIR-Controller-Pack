@@ -58,18 +58,18 @@
 .pas Reach PASOV FL230 maintaining
 
 ;*** 06 Startup / Pushback ***
-.rb Readback correct.
-.rbp Readback correct, information $atiscode, QNH $altim($dep), Report ready for pushback.
-.rrs Report ready for startup.
-.rrp Report ready for pushback. 
-.sa Startup approved. 
-.pa Pushback and start-up approved.
-.pf Pushback and start-up approved, facing $1.
-.pn Pushback and start-up approved, facing north.
-.pe Pushback and start-up approved, facing east.
-.ps Pushback and start-up approved, facing south.
-.pw Pushback and start-up approved, facing west.
-.bpb Behind $1 passing $2, pushback approved, face $4 BEHIND?
+.rb readback correct.
+.rbp readback correct, information $atiscode, QNH $altim($dep), Report ready for pushback.
+.rrs report ready for startup.
+.rrp report ready for pushback. 
+.sa startup approved. 
+.pa pushback and start-up approved.
+.pf pushback and start-up approved, facing $1.
+.pn pushback and start-up approved, facing north.
+.pe pushback and start-up approved, facing east.
+.ps pushback and start-up approved, facing south.
+.pw pushback and start-up approved, facing west.
+.bpb behind $1 passing $2, pushback approved, face $4 BEHIND
 
 ;*** 07 Taxi ***
 .rrt report ready for taxi. 
