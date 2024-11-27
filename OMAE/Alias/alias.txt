@@ -188,20 +188,20 @@
 .wc wind $winds($arr)
 
 ;*** 13 Speed Control ***
-.rs Report indicated airspeed.
-.s Maintain speed $1 knots 
-.autospeed Maintain speed $1 knots 
-.sr Reduce speed to $1 knots.
-.si Increase speed to $1 knots.
-.rm Report mach number.
-.m Maintain mach $1 
-.automach Maintain mach number $1 
-.mc Reduce to minimum clean speed.
-.mcr Reduce to minimum clean speed and report.
-.ma Reduce to minimum approach speed.
-.nsr No speed restrictions.
-.autonospeed No speed restrictions.
-.rns Resume normal speed.
+.rs report indicated airspeed.
+.s maintain speed $1 knots 
+.sr reduce speed to $1 knots.
+.si increase speed to $1 knots.
+.rm report mach number.
+.m maintain mach $1 
+.mc reduce to minimum clean speed.
+.mcr reduce to minimum clean speed and report.
+.ma reduce to minimum approach speed.
+.nsr no speed restrictions.
+.rns resume normal speed.
+.autonospeed no speed restrictions.
+.autospeed maintain speed $1 knots 
+.automach maintain mach number $1 
 
 ;*** 14 Holdings ***
 .pho proceed to $1. Hold as published.
