@@ -61,7 +61,7 @@ Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
 Sounds	Sound15	\OMAE\Sounds\new_atis.wav
 Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
 Sounds	Sound17	\OMAE\Sounds\pointout.wav
-Sounds	Sound18	\OMAE\Sounds\startup_auhair.wav
+Sounds	Sound18	\OMAE\Sounds\startup.wav
 TeamSpeakVccs	TsVccsMiniControlX	1959
 TeamSpeakVccs	TsVccsMiniControlY	520
 TeamSpeakVccs	Ts3DialogLeft	646
