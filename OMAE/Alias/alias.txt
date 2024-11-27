@@ -123,47 +123,47 @@
 .oc Cancel offset.
 
 ;*** 11 Vertical Navigation ***
-.c Climb to FL $1.
-.autoclimblevel Climb to FL $1.
-.ca Climb to $1 ft.
-.caq Climb to $1 ft, QNH $altim($dep).
-.caqq Climb to $1 ft, QNH $2.
-.autoclimbaltitude Climb to $1 ft, QNH $altim($dep).
-.d Descend to FL $1.
-.autodescendlevel Descend to FL $1.
-.da Descend to $1 ft.
-.daq Descend to $1 ft, QNH $altim($arr).
-.daqq Descend to $1 ft, QNH $2.
-.autodescendaltitude Descend to $1 ft, QNH $altim($arr).
-.mf Maintain $1 feet.
-.ml Maintain FL $1.
-.rpa Report passing altitude.
-.rrl Report requested level.
-.rd Report ready for descent.
-.tod Report top of descent.
-.rl Report level.
-.wrd When ready, descend to FL $1.
-.wrdr When ready, descend to FL $1 to reach level at $2.
-.cas Check QNH setting and confirm level. You are indicating $calt.
-.sas Set standard pressure (1013.25 hPa).
-.rla Reach level at $1.
-.xl Cross $1 at $2 
-.xa Cross $1 at $2 or above.
-.xb Cross $1 at $2 or below.
+.c climb to FL $1.
+.ca climb to $1 ft.
+.caq climb to $1 ft, QNH $altim($dep).
+.caqq climb to $1 ft, QNH $2.
+.d descend to FL $1.
+.da descend to $1 ft.
+.daq descend to $1 ft, QNH $altim($arr).
+.daqq descend to $1 ft, QNH $2.
+.mf maintain $1 feet.
+.ml maintain FL $1.
+.rpa report passing altitude.
+.rrl report requested level.
+.rd report ready for descent.
+.tod report top of descent.
+.rl report level.
+.wrd when ready, descend to FL $1.
+.wrdr when ready, descend to FL $1 to reach level at $2.
+.cas check QNH setting and confirm level. You are indicating $calt.
+.sas set standard pressure (1013.25 hPa).
+.rla reach level at $1.
+.xl cross $1 at $2 
+.xa cross $1 at $2 or above.
+.xb cross $1 at $2 or below.
 .ob or before.
 .ola or later.
-.le Currently only EVEN levels available. Do you prefer FL $1 or FL $2?
-.lo Currently only ODD levels available. Do you prefer FL $1 or FL $2?
-.roc Climb at $1 feet per minute 
-.rod Descend at $1 feet per minute 
+.le currently only EVEN levels available. Do you prefer FL $1 or FL $2?
+.lo currently only ODD levels available. Do you prefer FL $1 or FL $2?
+.roc climb at $1 feet per minute 
+.rod descend at $1 feet per minute 
 .og or greater.
 .om or greater.
 .ol or less.
-.rroc Report rate of climb.
-.rrod Report rate of descent.
-.dvsa Descend via the STAR, altitude $1.
-.cvsa Climb via the SID altitude $1.
-.cvsfl Climb via the SID FL $1.
+.rroc report rate of climb.
+.rrod report rate of descent.
+.dvsa descend via the STAR, altitude $1.
+.cvsa climb via the SID altitude $1.
+.cvsfl climb via the SID FL $1.
+.autoclimbaltitude climb to $1 ft, QNH $altim($dep).
+.autoclimblevel climb to FL $1.
+.autodescendaltitude descend to $1 ft, QNH $altim($arr).
+.autodescendlevel descend to FL $1.
 
 ;*** 12 Approach ***
 .arr? confirm able $star arrival?
