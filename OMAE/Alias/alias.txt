@@ -25,14 +25,14 @@
 .pym Pass your message.
 
 ;*** 03 Handoff ***
-.co Contact $radioname($1) $freq($1), good bye.
-.autocontact Contact $1 $2, good bye.
-.rst Radar service terminated. 
-.noatc You are leaving my airspace, no further ATC service available, monitor UNICOM 122.8 bye!
+.co contact $radioname($1) $freq($1), bye!
+.rst radar service terminated. 
+.noatc you are leaving my airspace, no further ATC service available, monitor UNICOM 122.8 bye!
 .noatcb $radioname is closing, no further ATC service available, radar service terminated. monitor UNICOM 122.8 bye!
 .noatcc $radioname is closing, for further ATC service contact $radioname($1) $freq($1), bye!
-.noatco You are outside of my airspace, continue own discretion and make blind transmissions on UNICOM 122.800, bye!
-.blt Please use UNICOM 122.800 for blind transmissions. Thank you.
+.noatco you are outside of my airspace, continue own discretion and make blind transmissions on UNICOM 122.800, bye!
+.blt please use UNICOM 122.800 for blind transmissions. Thank you.
+.autocontact Contact $1 $2, bye!
 
 ;*** 04 Transponder ***
 .sq squawk $squawk.
