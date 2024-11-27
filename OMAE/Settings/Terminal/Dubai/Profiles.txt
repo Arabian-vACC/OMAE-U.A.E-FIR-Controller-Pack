@@ -27,4 +27,16 @@ PROFILE:OMDB_FX_APP:150:5
 ATIS2:"Dubai Director" - TURN THEN RESPOND!
 ATIS3:Report callsign only on initial contact, eg. "Dubai Director, UAE572"
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMDW_APP:150:5
+ATIS2:"Al-Maktoum Radar"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMDW_X_APP:150:5
+ATIS2:"Al-Maktoum Radar"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMDW_S_APP:150:5
+ATIS2:"Dubai South Radar"
+ATIS3:Airport Information - vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 END
