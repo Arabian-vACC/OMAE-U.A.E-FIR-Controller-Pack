@@ -255,23 +255,23 @@
 .bye Thanks for coming to $arr, good bye!
 
 ;*** 17 VFR ***
-.in Enter control zone via $1. 
-.lr Landing runway $arrrwy. 
-.out Leave control zone via $1.
-.rta Right turn approved.
-.jld Join left downind runway $arrrwy.
-.jrd Join right downwind runway $arrrwy.
-.jlb Join left base runway $arrrwy.
-.jrb Join right base runway $arrrwy.
-.ed Extend downwind until advised.
-.tb Turn now for base.
-.mda Make direct approach runway $arrrwy. 
-.msa Make straight-in approach runway $arrrwy. 
-.mfs Make full stop landing. 
-.orl Orbit left.
-.orr Orbit right.
-.ra Routing approved.
-.hov Hold over $1.
+.in enter control zone via $1. 
+.lr landing runway $arrrwy. 
+.out leave control zone via $1.
+.rta right turn approved.
+.jld join left downind runway $arrrwy.
+.jrd join right downwind runway $arrrwy.
+.jlb join left base runway $arrrwy.
+.jrb join right base runway $arrrwy.
+.ed extend downwind until advised.
+.tb turn now for base.
+.mda make direct approach runway $arrrwy. 
+.msa make straight-in approach runway $arrrwy. 
+.mfs make full stop landing. 
+.orl orbit left.
+.orr orbit right.
+.ra routing approved.
+.hov hold over $1.
 
 ;*** 18 Pilot Infos ***
 .cr .msg $aircraft Please make a correct readback so that I see that you've understood my instructions correctly. A readback is made by repeating the instructions of the controller. 
