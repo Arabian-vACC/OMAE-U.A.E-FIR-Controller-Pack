@@ -1,17 +1,17 @@
 Settings	sector	\OMAE-Install_20241104160449-241101-0004.sct
-Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Symbology_AD.txt
-Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Voice_AD.txt
-Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Profiles_AD.txt
+Settings	SettingsfileSYMBOLOGY	\OMAE\Settings\Terminal\Abu Dhabi\Symbology.txt
+Settings	SettingsfileVOICE	\OMAE\Settings\Terminal\Abu Dhabi\Voice.txt
+Settings	SettingsfilePROFILE	\OMAE\Settings\Terminal\Abu Dhabi\Profiles.txt
 Settings	SettingsfileTAGS	\OMAE\Settings\Tags.txt
-Settings	SettingsfileSIL	\OMAE\Settings\Terminal\Lists_AD.txt
-Settings	SettingsfileSEL	\OMAE\Settings\Terminal\Lists_AD.txt
-Settings	SettingsfileDEP	\OMAE\Settings\Terminal\Lists_AD.txt
-Settings	SettingsfileARR	\OMAE\Settings\Terminal\Lists_AD.txt
-Settings	SettingsfileFP	\OMAE\Settings\Terminal\Lists_AD.txt
-Settings	SettingsfilePLUGINS	\OMAE\Settings\Terminal\Plugins_AD.txt
+Settings	SettingsfileSIL	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileSEL	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileDEP	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileARR	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfileFP	\OMAE\Settings\Terminal\Lists.txt
+Settings	SettingsfilePLUGINS	\OMAE\Settings\Terminal\Plugins.txt
 Settings	Settingsfile	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileSCREEN	\OMAE\Settings\Terminal\Screen.txt
-Settings	SettingsfileCONFLICT	\OMAE\Settings\Terminal\Lists_AD.txt
+Settings	SettingsfileCONFLICT	\OMAE\Settings\Terminal\Lists.txt
 Settings	SettingsfileVCCS	\OMAE\Settings\Terminal\VCCS.txt
 Settings	SettingsfilePILOTING	\OMAE\Settings\Terminal\General.txt
 Settings	SettingsfileORIGPLANE	\OMAE\Settings\Terminal\General.txt
@@ -26,14 +26,16 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Terminal\Abu Dhabi CTA Dynamic.asr
-ASRFastKeys	2	\OMAE\ASR\SMGCS\Abu Dhabi SMGCS.asr
-ASRFastKeys	3	\OMAE\ASR\SMGCS\Al Ain SMGCS.asr
-ASRFastKeys	4	\OMAE\ASR\SMGCS\Al Bateen SMGCS.asr
-RecentFiles	Recent1	\OMAE\ASR\Terminal\Abu Dhabi CTA Dynamic.asr
-RecentFiles	Recent2	\OMAE\ASR\SMGCS\Abu Dhabi SMGCS.asr
-TeamSpeakVccs	TsVccsMiniControlX	1458
-TeamSpeakVccs	TsVccsMiniControlY	133
+ASRFastKeys	1	\OMAE\ASR\Terminal\CTA Abu Dhabi.asr
+ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Sheikh Zayed.asr
+ASRFastKeys	3	\OMAE\ASR\SMGCS\SMGCS Al-Bateen.asr
+ASRFastKeys	4	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
+RecentFiles	Recent1	\OMAE\ASR\Terminal\CTA Abu Dhabi.asr
+RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
+RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Al-Bateen.asr
+RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Sheikh Zayed.asr
+TeamSpeakVccs	TsVccsMiniControlX	2014
+TeamSpeakVccs	TsVccsMiniControlY	515
 TeamSpeakVccs	Ts3DialogLeft	0
 TeamSpeakVccs	Ts3DialogTop	0
 TeamSpeakVccs	Ts3DialogRight	896
@@ -56,7 +58,7 @@ Sounds	Sound14	\OMAE\Sounds\ongoing_manual.wav
 Sounds	Sound15	\OMAE\Sounds\new_atis.wav
 Sounds	Sound16	\OMAE\Sounds\handoff_refused.wav
 Sounds	Sound17	\OMAE\Sounds\pointout.wav
-Sounds	Sound18	\OMAE\Sounds\startup.wav
+Sounds	Sound18	\OMAE\Sounds\startup_auhair.wav
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin2	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
@@ -79,3 +81,5 @@ LastSession	atis4	Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 LastSession	range	275
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+LastSession	atis_freq4	118000
+RecentFiles	Recent5	\OMAE\ASR\SMGCS\SMGCS Abu Dhabi.asr
