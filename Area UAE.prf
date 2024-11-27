@@ -26,7 +26,7 @@ Settings	airports	\OMAE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\OMAE\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\OMAE\NavData\icao.txt
 Settings	airways	\OMAE\NavData\airway.txt
-ASRFastKeys	1	\OMAE\ASR\Enroute\ACC U.A.E.asr
+ASRFastKeys	1	\OMAE\ASR\Enroute\ACC UAE.asr
 ASRFastKeys	2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
 ASRFastKeys	3	\OMAE\ASR\SMGCS\SMGCS Sheikh Zayed.asr
 ASRFastKeys	4	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
@@ -35,7 +35,7 @@ ASRFastKeys	6	\OMAE\ASR\SMGCS\SMGCS Ras Al Khaimah.asr
 ASRFastKeys	7	\OMAE\ASR\SMGCS\SMGCS Fujairah.asr
 ASRFastKeys	8	\OMAE\ASR\SMGCS\SMGCS Al-Bateen.asr
 ASRFastKeys	9	\OMAE\ASR\SMGCS\SMGCS Al-Ain.asr
-RecentFiles	Recent1	\OMAE\ASR\Enroute\ACC U.A.E.asr
+RecentFiles	Recent1	\OMAE\ASR\Enroute\ACC UAE.asr
 RecentFiles	Recent2	\OMAE\ASR\SMGCS\SMGCS Dubai.asr
 RecentFiles	Recent3	\OMAE\ASR\SMGCS\SMGCS Sheikh Zayed.asr
 RecentFiles	Recent4	\OMAE\ASR\SMGCS\SMGCS Sharjah.asr
