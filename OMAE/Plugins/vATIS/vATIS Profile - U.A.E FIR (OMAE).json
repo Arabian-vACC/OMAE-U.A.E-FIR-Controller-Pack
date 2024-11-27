@@ -149,6 +149,12 @@
           "ordinal": 8,
           "text": "DXB VFR FREQ 126. 775",
           "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 9,
+          "text": "V-ACDM IN USE! UPDATE YOUR TOBT ON VACDM.VATSIM.ME",
+          "enabled": false
         }
       ],
       "notamDefinitions": [
@@ -929,6 +935,12 @@
           "ordinal": 8,
           "text": "DXB VFR FREQ 126. 775",
           "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 9,
+          "text": "V-ACDM IN USE! UPDATE YOUR TOBT ON VACDM.VATSIM.ME",
+          "enabled": false
         }
       ],
       "notamDefinitions": [
@@ -1311,6 +1323,12 @@
         {
           "ordinal": 6,
           "text": "LVO ENFORCED",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 7,
+          "text": "V-ACDM IN USE! UPDATE YOUR TOBT ON VACDM.VATSIM.ME",
           "enabled": false
         }
       ],
@@ -2059,11 +2077,17 @@
         {
           "ordinal": 5,
           "text": "CONTACT RADAR WHEN READY FOR PUSH AND START ON FREQ 1 3 2. 1 5",
-          "enabled": true
+          "enabled": false
         },
         {
           "ordinal": 6,
           "text": "LVO ENFORCED",
+          "enabled": false
+        },
+        {
+          "description": "",
+          "ordinal": 7,
+          "text": "V-ACDM IN USE! UPDATE YOUR TOBT ON VACDM.VATSIM.ME",
           "enabled": false
         }
       ],
