@@ -18,11 +18,14 @@
 
 ;*** 02 Initial Contact ***
 .h $radioname, hello. 
+.gm  $radioname, good morning.
+.ga  $radioname, good afternoon.
+.ge  $radioname, good evening.
 .gd $radioname, good day. 
-.id Identified. 
-.ids Standby for identification.
-.v? Are you able to receive voice?
-.pym Pass your message.
+.id identified. 
+.ids standby for identification.
+.v? are you able to receive voice?
+.pym pass your message.
 
 ;*** 03 Handoff ***
 .co contact $radioname($1) $freq($1), bye!
