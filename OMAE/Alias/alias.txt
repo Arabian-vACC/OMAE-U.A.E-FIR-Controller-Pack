@@ -285,26 +285,26 @@
 .tatl .msg $aircraft Hello, the transition altitude within the Emiates FIR is 13,000ft and the transition level is FL150. When flying at/or below the transition altitude you must set the LOCAL QNH which is given to you by the controller or the ATIS and refer to all altitudes in thousands of FEET. When flying at/or above the transition level you must set STANDARD PRESSURE (1013.25 hPa) on your altimeter. These levels are referred to as FLIGHT LEVELS. Thank you Captain!
 
 ;*** 19 Others ***
-.dis Disregard last transmission. 
-.ru Report unable.
-.rac Report aircraft type (and version).
-.ri Report intentions.
-.wx Weather report $metar($1).
-.wxa Weather report $metar($arr).
+.dis disregard last transmission. 
+.ru report unable.
+.rac report aircraft type (and version).
+.ri report intentions.
+.wx weather report $metar($1).
+.wxa weather report $metar($arr).
 .q QNH $1.
 .qd QNH $altim($dep).
 .qa QNH $altim($arr).
-.sb Standby, I'll call you back.
-.r Roger.
+.sb standby, I'll call you back.
+.r roger.
 .on / Salam, $radioname is online.
 .off / $radioname is now closed. Masalama!
 .offmin / $radioname is closing in $1 minutes.
-.mic You have a stuck microphone and are blocking the frequency. Please release the transmit button immediately.
-.loudmic Your microphone level is too high, causing excessive volume on the frequency. Please adjust your mic settings in your pilot client to ensure your voice stays within the green band when transmitting.
-.why Being rerouted? Your flight plan likely doesn't comply with Middle Eastern routing restrictions. For more information, check out library.arabian-vacc.com or email whyamigettingrerouted@vatsim.me.
-.noob It appears that you might be unfamiliar with the correct operation of your aircraft. To ensure a smooth experience for yourself and others on the VATSIM network, we recommend taking some time to practice offline and gain proficiency. This will help you become more confident in handling your aircraft. Alternatively, consider flying an aircraft you are more comfortable and experienced with until you build your skills further.
-.charts It appears you may be unfamiliar with the aerodrome. Please ensure you're using the latest charts, which you can find at chartfox.org or explore additional chart resources at vats.im/arb/airports.
-.chartsvfr It seems you might not be familiar with VFR procedures in the United Arab Emirates. You can find more information about these procedures at vats.im/arb/airports.
+.mic you have a stuck microphone and are blocking the frequency. Please release the transmit button immediately.
+.loudmic your microphone level is too high, causing excessive volume on the frequency. Please adjust your mic settings in your pilot client to ensure your voice stays within the green band when transmitting.
+.why being rerouted? Your flight plan likely doesn't comply with Middle Eastern routing restrictions. For more information, check out library.arabian-vacc.com or email whyamigettingrerouted@vatsim.me.
+.noob it appears that you might be unfamiliar with the correct operation of your aircraft. To ensure a smooth experience for yourself and others on the VATSIM network, we recommend taking some time to practice offline and gain proficiency. This will help you become more confident in handling your aircraft. Alternatively, consider flying an aircraft you are more comfortable and experienced with until you build your skills further.
+.charts it appears you may be unfamiliar with the aerodrome. Please ensure you're using the latest charts, which you can find at chartfox.org or explore additional chart resources at vats.im/arb/airports.
+.chartsvfr it seems you might not be familiar with VFR procedures in the United Arab Emirates. You can find more information about these procedures at vats.im/arb/airports.
 
 ;*** 20 AIRAC ***
 .csr .msg $aircraft At the moment, your callsign is not listed in our database. Please register your airline on gng.aero-nav.com/AERONAV/icao_request_airlines. If you continue to fly in our region, your callsign may be included in our controller files.
