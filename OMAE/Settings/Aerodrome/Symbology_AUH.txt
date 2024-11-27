@@ -90,9 +90,9 @@ Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
 Transitions:transition grid:8881798:3.5:0:0:7
 Chat:text:16777215:3.5:0:0:7
-Chat:background:2105376:3.5:0:0:7
+Chat:background:0:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
-Chat:name unread:52428:3.5:0:0:7
+Chat:name unread:33023:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
