@@ -1,4 +1,4 @@
-# [U.A.E FIR] AIRAC 2412-beta
+# [U.A.E FIR] AIRAC 2412
 @U.A.E FIR Operations The Operations Department has been updating the **U.A.E FIR [OMAE]** sector file. Controllers must perform a clean installation of the sector file, as significant changes have been made to the folder structure and files throughout the entire sector. These modifications are essential for the proper functioning of the system, and installing the new sector file over the old one could lead to errors or misconfigurations. To ensure everything works as intended and to avoid any potential issues, it is crucial to fully uninstall the previous version and follow the clean installation process.
 
 This release now allows us to fully utilize the capabilities of TopSky and GRplugin. Please review the changelog below for the details of the changes.
