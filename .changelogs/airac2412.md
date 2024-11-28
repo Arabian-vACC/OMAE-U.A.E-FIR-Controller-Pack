@@ -26,7 +26,9 @@ Several updates have been made to the TopSky maps after testing them on the Duba
 ### Ground Radar Plugin
 The entire U.A.E FIR has been redrawn on QGIS using accurate satellite imagery and fully leveraging the Ground Radar Plugin, as some of the ground layouts hadn't been updated since 2018. The following SMGCS ASRs are now available: Al-Ain, Al-Bateen, Al-Dhafra, Al-Maktoum, Arzanah, Das Island, Delma, Dubai, Fujairah, Minhad, Qarnayn, Ras Al Khaimah, Sharjah, Sheikh Zayed, Sir Bani Yas, and Zirku. Each airport’s configuration has also been set, including maximum aircraft category per runway and low visibility procedure buffers.
 
-- [SMGCS] Sheikh Zayed SMGCS has been redrawn, with colors updated to reflect real-world displays. Ongoing tweaks are being made to match the color vibrancy differences between real-world screens and Euroscope. Code F restriction safety nets have been added, along with closed taxiway nets. Stand assignment dataset is complete, and stand auto-assign now functions.
+Observers & Controllers can adjust their SMGCS displays by navigating to the top menu and selecting: FUNCTIONS -> MAPS -> [NAME SMGCS], where they can enable or disable the desired maps for display.
+
+- [SMGCS] The Sheikh Zayed SMGCS has been redrawn, with updated colors to better reflect real-world displays. Ongoing adjustments are being made to address the color vibrancy differences between real-world screens and Euroscope. Intermediate Holding Points are disabled by default to reduce screen clutter; however, they can be enabled by navigating to FUNCTIONS -> MAPS -> Sheikh Zayed SMGCS. Code F restriction safety nets have been added, along with closed taxiway nets. The stand assignment dataset is now complete, and the stand auto-assign feature is fully functional.
 - [SMGCS] Al-Bateen has been redrawn and implemented.
 - [SMGCS] Al-Ain has been redrawn and implemented.
 - [SMGCS] Al-Dhafra has been created and implemented.
