@@ -1,5 +1,7 @@
 # [U.A.E FIR] AIRAC 2412 - Revision 1
-@U.A.E FIR Operations The Operations Department has been updating the **U.A.E FIR [OMAE]** sector file. Controllers must either perform a clean installation of the sector file or download the update package and overwrite their current files.  
+@U.A.E FIR Operations The Operations Department has been updating the **U.A.E FIR [OMAE]** sector file. Controllers must either perform a clean installation of the sector file or download the update package and overwrite their current files.
+
+Please note that the update package only contains the affected files and does not include the entire U.A.E sector file. If you need to redownload the full sector file, please download the install package instead.  
 
 ## Sector File Changelog:
 ### Ground Radar Plugin
