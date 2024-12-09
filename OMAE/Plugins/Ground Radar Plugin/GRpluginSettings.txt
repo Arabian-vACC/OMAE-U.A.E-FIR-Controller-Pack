@@ -124,7 +124,7 @@ Airport_Runway_MaxCode=31R:F
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -151,7 +151,7 @@ Airport_Runway_MaxCode=13:C
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -176,7 +176,7 @@ Airport_Runway_MaxCode=19:F
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -205,7 +205,7 @@ Airport_Runway_MaxCode=31R:E
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -229,7 +229,7 @@ Airport_Runway_MaxCode=29:A
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -248,7 +248,7 @@ Airport_Runway_MaxCode=31:A
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -270,7 +270,7 @@ Airport_Runway_MaxCode=31:A
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -292,7 +292,7 @@ Airport_Runway_MaxCode=31:A
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -314,7 +314,7 @@ Airport_Runway_MaxCode=31:B
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -343,7 +343,7 @@ Airport_Runway_MaxCode=30R:F
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -372,7 +372,7 @@ Airport_Runway_MaxCode=27:E
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -399,7 +399,7 @@ Airport_Runway_MaxCode=31:A
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -423,7 +423,7 @@ Airport_Runway_MaxCode=29L:E
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -445,7 +445,7 @@ Airport_Runway_MaxCode=34:F
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
@@ -470,7 +470,7 @@ Airport_Runway_MaxCode=30:F
 
 Airport_TransAlt=13000
 
-List_Outbound=*,1,100,800
+//List_Outbound=*,1,100,800
 
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=35
