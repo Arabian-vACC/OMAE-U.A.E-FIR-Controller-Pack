@@ -16,7 +16,7 @@ Significant reports of plugin crashes and tag issues have been received. The fol
 
 ### Additions
 - NIL
-- 
+
 ### Removals
 - NIL
 
