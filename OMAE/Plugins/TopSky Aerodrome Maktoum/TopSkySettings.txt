@@ -220,3 +220,4 @@ Label_Alt_Digits=2
 
 Label_COP_MaxChars=3
 Label_FCOP_MaxChars=3
+Label_CFL_DefaultValue=1
