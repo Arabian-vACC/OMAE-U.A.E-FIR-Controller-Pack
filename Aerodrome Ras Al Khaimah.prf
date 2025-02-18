@@ -38,6 +38,7 @@ Plugins	Plugin4	\OMAE\Plugins\TopSky Aerodrome North\TopSky.dll
 Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
+Plugins	Plugin8	\OMAE\Plugins\Sync.dll
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin4Display0	Standard ES radar screen
