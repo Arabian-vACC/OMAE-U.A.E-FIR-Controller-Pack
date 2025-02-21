@@ -85,6 +85,7 @@ Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
 Plugins	Plugin8	\OMAE\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin9	\OMAE\Plugins\Sync.dll
 Plugins	Plugin10 \OMAE\Plugins\RDFPlugin.dll
+Plugins Plugin11 \OMAE\Plugins\IASsure\IASsure.dll
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin10Display0 Standard ES radar screen
 LastSession	connecttype	0
