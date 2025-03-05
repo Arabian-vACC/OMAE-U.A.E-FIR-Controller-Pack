@@ -112,7 +112,7 @@ Track_PredictionLine=0
 RwyAppLines_Auto=0
 
 // Colors
-Color_Active_Map=0,213,87
+Color_Active_Map=0,176,73
 Color_Active_Map_Type_1=87,87,164
 Color_Active_Map_Type_2=80,162,74
 Color_Active_Map_Type_3=179,180,180
