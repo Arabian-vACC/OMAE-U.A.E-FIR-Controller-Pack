@@ -19,6 +19,10 @@ PROFILE:OMAE_4_CTR:400:6
 ATIS2:"U.A.E Radar"
 ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_5_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_D_CTR:400:6
 ATIS2:"U.A.E Radar"
 ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
@@ -40,6 +44,10 @@ ATIS2:"U.A.E Radar"
 ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
 PROFILE:OMAE_R_CTR:400:6
+ATIS2:"U.A.E Radar"
+ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
+ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
+PROFILE:OMAE_S_CTR:400:6
 ATIS2:"U.A.E Radar"
 ATIS3:Area Coverage on vatglasses.uk & Airport Info on vats.im/arb/airports
 ATIS4:Give us Feedback (and Karak Chai) - vats.im/arb/feedback
