@@ -29,11 +29,12 @@
 ;*** 03 Handoff ***
 .co contact $radioname($1) $freq($1), bye!
 .rst radar service terminated. 
-.noatc you are leaving my airspace, no further ATC service available, monitor UNICOM 122.8 bye!
-.noatcb $radioname is closing, no further ATC service available, radar service terminated. monitor UNICOM 122.8 bye!
+.noatc you are leaving my airspace, no further ATC service available, ATC services terminated, frequency change approved, bye!
+.uni you are leaving my airspace, no further ATC service available, ATC services terminated, frequency change approved, bye!
+.noatcb $radioname is closing, no further ATC service available, ATC services terminated, frequency change approved,  bye!
 .noatcc $radioname is closing, for further ATC service contact $radioname($1) $freq($1), bye!
-.noatco you are outside of my airspace, continue own discretion and make blind transmissions on UNICOM 122.800, bye!
-.blt please use UNICOM 122.800 for blind transmissions. Thank you.
+.noatco you are outside of my airspace, continue own discretion and make blind transmissions on Advisory frequency 122.800, bye!
+.blt please use Advisory frequency 122.800 for blind transmissions. Thank you.
 .autocontact Contact $1 $2, bye!
 
 ;*** 04 Transponder ***
@@ -48,10 +49,15 @@
 .nopdc .msg $aircraft PDC UNAVAILABLE. REVERT TO VOICE PROCEDURES ON $com
 .rrc clearance available, report ready to copy.
 .cl  cleared to $arr via $sid departure, maintain altitude $temp, squawk $squawk.
+.sid  cleared to $arr via $sid departure, maintain altitude $temp, squawk $squawk.
 .cla cleared to $arr via $sid departure, runway $deprwy, maintain altitude $temp, squawk $squawk.
+.sida cleared to $arr via $sid departure, runway $deprwy, maintain altitude $temp, squawk $squawk.
 .cll cleared to $arr via $sid departure, runway $deprwy, climb to FL $temp, squawk $squawk.
+.sidl cleared to $arr via $sid departure, runway $deprwy, climb to FL $temp, squawk $squawk.
 .clo cleared to $arr via omnidirectional departure runway $deprwy. After departure climb to $1 ft and maintain runway heading, squawk $squawk.
+.sido cleared to $arr via omnidirectional departure runway $deprwy. After departure climb to $1 ft and maintain runway heading, squawk $squawk.
 .clrv cleared to $arr, expect radar vectors after departure. After departure climb to $1 ft, squawk $squawk.
+.sidv cleared to $arr, expect radar vectors after departure. After departure climb to $1 ft, squawk $squawk.
 .sid? Are you able to fly the $sid departure?
 .ico information $atiscode correct. 
 .icu information $atiscode current. 
@@ -62,7 +68,9 @@
 
 ;*** 06 Startup / Pushback ***
 .rb readback correct.
+.rc readback correct.
 .rbp readback correct, information $atiscode, QNH $altim($dep), Report ready for pushback.
+.rcr readback correct, information $atiscode, QNH $altim($dep), Report ready for pushback.
 .rrs report ready for startup.
 .rrp report ready for pushback. 
 .sa startup approved. 
@@ -77,8 +85,10 @@
 ;*** 07 Taxi ***
 .rrt report ready for taxi. 
 .rft are you ready for taxi?
-.tv taxi via $1. 
-.tts taxi to stand $1 via $2. 
+.tv taxi via $1, hold at $2.
+.taxi taxi via $1, hold at $2. 
+.tts taxi to stand $1 via $2.
+.stand taxi via $1, stand $2. 
 .ttc taxi to a parking position of your choice. 
 .hst hold short of taxiway $1. 
 .ths taxi via $1, holding point $2. 
@@ -90,20 +100,26 @@
 .wcc when clear of $1 continue taxi.
 
 ;*** 08 Line up and Departure ***
-.lu line up and wait runway $deprwy.
-.lubl behind landing $1, line up and wait runway $deprwy behind.
-.lubd behind departing $1, line up and wait runway $deprwy behind.
-.bt line up and backtrack runway $deprwy.
+.lu Via $1, line up and wait runway $deprwy.
+.luv Via $1, line up and wait runway $deprwy.
+.bllu behind landing $1, via $2, line up and wait runway $deprwy behind.
+.bdlu behind departing $1, via $2, line up and wait runway $deprwy behind.
+.bt Via $1, backtrack and line up runway $deprwy.
 .rrd report ready for departure.
 .rfd are you ready for departure?
 .rfid are you ready for immediate departure?
 .afid are you able for departure from intersection $1?
-.cto wind $winds($dep), runway $deprwy, cleared for take-off.
-.ctor traffic is a $1 departing ahead, wind $winds($dep), runway $deprwy, cleared for take-off.
-.ctoi wind $winds($dep), runway $deprwy, intersection $1, cleared for take-off.
-.cito wind $winds($dep), runway $deprwy, cleared for immediate take-off.
-.toc hold position, CANCEL take-off, I say again, CANCEL take-off.
-.stop STOP immediately, $aircraft, STOP immediately.
+.cto runway $deprwy, surface wind $winds($dep), cleared for take-off.
+.to runway $deprwy, surface wind $winds($dep), cleared for take-off.
+.ctor traffic is a $1 departing ahead, runway $deprwy, wind $winds($dep), cleared for take-off.
+.tor traffic is a $1 departing ahead, runway $deprwy, wind $winds($dep), cleared for take-off.
+.ctoi intersection $1, runway $deprwy, wind $winds($dep), cleared for take-off.
+.toi intersection $1, runway $deprwy, wind $winds($dep), cleared for take-off.
+.ctof From $1, runway $deprwy, wind $winds($dep), cleared for take-off.
+.tof From $1, runway $deprwy, wind $winds($dep), cleared for take-off.
+.cito runway $deprwy, wind $winds($dep), cleared for immediate take-off.
+.toc hold position, CANCEL take-off, I say again, CANCEL take-off, acknowledge.
+.stop STOP immediately, $aircraft, STOP immediately, acknowledge.
 
 ;*** 10 Lateral Navigation ***
 .tl turn left heading $1.
@@ -127,14 +143,16 @@
 .autoproceed proceed direct $1.
 
 ;*** 11 Vertical Navigation ***
-.c climb to FL $1.
-.ca climb to $1 ft.
-.caq climb to $1 ft, QNH $altim($dep).
-.caqq climb to $1 ft, QNH $2.
-.d descend to FL $1.
-.da descend to $1 ft.
-.daq descend to $1 ft, QNH $altim($arr).
-.daqq descend to $1 ft, QNH $2.
+.c climb FL $1.
+.cfl climb FL $1.
+.ca climb $1 ft.
+.caq climb $1 ft, QNH $altim($dep).
+.caqq climb $1 ft, QNH $2.
+.d descend FL $1.
+.dfl descend FL $1.
+.da descend $1 ft.
+.daq descend $1 ft, QNH $altim($arr).
+.daqq descend $1 ft, QNH $2.
 .mf maintain $1 feet.
 .ml maintain FL $1.
 .rpa report passing altitude.
@@ -143,9 +161,13 @@
 .tod report top of descent.
 .rl report level.
 .wrd when ready, descend to FL $1.
+.wrdfl when ready, descend to FL $1.
 .wrdr when ready, descend to FL $1 to reach level at $2.
+.wrdfllb when ready, descend to FL $1 to reach level at $2.
 .cas check QNH setting and confirm level. You are indicating $calt.
+.qnh check QNH setting and confirm level. You are indicating $calt.
 .sas set standard pressure (1013.25 hPa).
+.std set standard pressure (1013.25 hPa).
 .rla reach level at $1.
 .xl cross $1 at $2 
 .xa cross $1 at $2 or above.
@@ -171,17 +193,23 @@
 
 ;*** 12 Approach ***
 .arr? confirm able $star arrival?
+.star? confirm able $star arrival?
 .arr cleared $star arrival, runway $arrrwy. QNH $altim($arr).
+.star cleared $star arrival, runway $arrrwy. QNH $altim($arr).
 .earr expect $star arrival, runway $arrrwy. QNH $altim($arr).
+.estar expect $star arrival, runway $arrrwy. QNH $altim($arr).
 .exp expect ILS approach runway $arrrwy information $, QNH $altim($arr)
+.eils expect ILS approach runway $arrrwy information $, QNH $altim($arr)
 .ev expect vectors for $1 approach runway $arrrwy. QNH $altim($arr).
+.ernp expect RNP approach runway $arrrwy. QNH $altim($arr).
 .v vectors for $1 approach runway $arrrwy.
 .ils cleared ILS approach runway $arrrwy. Report established.
-.rnav cleared RNAV approach runway $arrrwy. Report established.
-.rnavy cleared RNAV-Y approach runway $arrrwy. Report established.
-.rnavz cleared RNAV-Z approach runway $arrrwy. Report established.
+.rnp cleared RNP approach runway $arrrwy. Report established.
+.rnpy cleared RNP-Y approach runway $arrrwy. Report established.
+.rnpz cleared RNP-Z approach runway $arrrwy. Report established.
 .vor cleared VOR/DME approach runway $arrrwy. Report established.
 .vi cleared Visual approach runway $arrrwy. Report runway in sight.
+.vis cleared Visual approach runway $arrrwy. Report runway in sight.
 .cpla continue approach, vacate at $1.
 .coa continue approach, wind $winds($arr).
 .llc continue approach, expect late landing clearance, wind $winds($arr).
@@ -202,9 +230,10 @@
 .mcr reduce to minimum clean speed and report.
 .ma reduce to minimum approach speed.
 .160 speed 160kts till 4 DME.
+.1605 speed 160kts till 5 DME.
 .190 speed 190kts till 10 DME.
 .169 speed 190kts until 10 DME, and 160kts until 4 DME.
-.nsr no speed restrictions.
+.nsr no ATC speed restrictions.
 .rns resume normal speed.
 .autonospeed no speed restrictions.
 .autospeed maintain speed $1 knots 
@@ -216,17 +245,22 @@
 .ho hold at $1.
 .hor hold at $1, inbound course $2°, right turns.
 .hol hold at $1, inbound course $2°, left turns.
-.alnev hold at ALNEV, inbound course 117°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
-.itlap hold at ITLAP, inbound course 204°, with left turns. This published hold is available in the LOW IFR section on Navigraph.
-.imped hold at IMPED, inbound course 298°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
-.vuteb hold at VUTEB, inbound course 107°, with right turns. This published hold is available in the LOW IFR section on Navigraph.
+.alnev hold at ALNEV, inbound course 117°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
+.itlap hold at ITLAP, inbound course 204°, with left turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
+.imped hold at IMPED, inbound course 298°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
+.vuteb hold at VUTEB, inbound course 107°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
 
 ;*** 15 Landing ***
-.ctl wind $winds($arr), runway $arrrwy, cleared to land.
-.ctlr traffic is a $1 vacating ahead, wind $winds($arr), runway $arrrwy, cleared to land.
-.ctg wind $winds($arr), runway $arrrwy, cleared touch and go.
-.csg wind $winds($arr), runway $arrrwy, cleared for stop and go.
-.clp wind $winds($arr), cleared low pass runway $arrrwy.
+.ctl runway $arrrwy, wind $winds($arr), cleared to land.
+.land runway $arrrwy, wind $winds($arr), cleared to land.
+.ctlr traffic is a $1 vacating ahead, runway $arrrwy, wind $winds($arr), cleared to land.
+.landr traffic is a $1 vacating ahead, runway $arrrwy, wind $winds($arr), cleared to land.
+.ctg runway $arrrwy, wind $winds($arr), cleared touch and go.
+.tg runway $arrrwy, wind $winds($arr), cleared touch and go.
+.csg runway $arrrwy, wind $winds($arr), cleared for stop and go.
+.sg runway $arrrwy, wind $winds($arr), cleared for stop and go.
+.clp runway $arrrwy, wind $winds($arr), cleared low pass runway $arrrwy.
+.lp runway $arrrwy, wind $winds($arr), cleared low pass runway $arrrwy.
 .ss side step to runway $1.
 .ga go around, I say again, go around acknowledge.
 .cvm climb to $ ft via standard missed approach
