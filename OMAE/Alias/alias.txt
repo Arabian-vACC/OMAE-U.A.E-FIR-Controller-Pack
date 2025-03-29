@@ -1,16 +1,17 @@
 ;*** 01 Before Initial Contact ***
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 
 .cp .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1).
-.cpl .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1) at FL $2.
-.deg .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing DEGSO at FL310.
-.itr .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ITRAX at FL160.
-.ors .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ORSAR at FL250.
-.pas .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PASOV at FL230.
-.pat .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PATAT at FL200.
-.res .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing RESAR at FL350.
-.sod .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing SODEX at FL160.
-.tap .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TAPRA at FL240.
-.tom .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TOMSO at FL310.
+.cpl .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1) and be level at FL $2.
+.degso .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing DEGSO and be level at FL310.
+.itrax .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ITRAX and be level at FL160.
+.orsar .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ORSAR and be level at FL250.
+.orsis .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing ORSIS and be level at FL350.
+.pasov .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PASOV and be level at FL230.
+.patat .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing PATAT and be level at FL200.
+.resar .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing RESAR and be level at FL350.
+.sodex .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing SODEX and be level at FL160.
+.tapra .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TAPRA and be level at FL240.
+.tomso .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing TOMSO and be level at FL310.
 .ct .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq at time $1 UTC.
 .ci .msg $aircraft No movement without permission, please! $radioname is providing top-down service for $dep. Hold position and contact me on $freq
 .cnow .msg $aircraft Hello. Please contact me on $freq as soon as possible.
@@ -248,6 +249,7 @@
 .alnev hold at ALNEV, inbound course 117°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
 .itlap hold at ITLAP, inbound course 204°, with left turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
 .imped hold at IMPED, inbound course 298°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
+.rovos hold at ROVOS, inbound course 280°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
 .vuteb hold at VUTEB, inbound course 107°, with right turns, 1 minute legs, speed 230kts. This published hold is available in the LOW IFR section on Navigraph.
 
 ;*** 15 Landing ***
