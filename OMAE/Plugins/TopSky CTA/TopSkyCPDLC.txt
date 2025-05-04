@@ -4,8 +4,10 @@
 // To be used on the VATSIM Network only
 
 [DCL]
-DCL:OMDB:SID:CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
-DCL:OMDW:SID:CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
+DCL:OMAA:SID:<adep> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
+DCL:OMDB:SID:<adep> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
+DCL:OMDW:SID:<adep> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
+DCL:OMSJ:SID:<adep> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <eobt> <atis> NO CTOT. SID ALTITUDE IS <cfl>. REPORT READY FOR PUSH <freq_own>
 
 [FREETEXT]
 FREETEXT:NE:RADAR SERVICE TERMINATED
