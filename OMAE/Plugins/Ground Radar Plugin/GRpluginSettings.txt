@@ -10,18 +10,17 @@ Track_HistoryDots_GND=3
 
 Color_Arrival=253,236,166
 Color_Departure=210,233,255
-Color_Background=19,20,21
+Color_APP_Background=19,20,21
 Color_RawVideo=255,255,0
 Color_Unknown=233,234,235
-Color_RunwayExtension=174,174,174
+Color_APP_RunwayExtension=174,174,174
 Color_SelectedLabelFill_App=0,0,0
 Color_SelectedLabelFill_Gnd=0,0,0
-Color_RunwayExtension=72,73,75
+Color_APP_RunwayExtension=72,73,75
 
 Window_APP_Scale=18
 Window_APP_AltFilter=6000
 Window_APP_Extensions=10
-Window_APP=1,1960,46,600,460
 
 Maps_FontSize=10
 GroundLabel_Font=EuroScope
@@ -45,7 +44,8 @@ System_State_OnFreq=FREQ
 System_State_DeIce=DE-ICE
 System_State_StartUp=START-UP
 System_State_Push=PUSH
-System_State_Taxi=TAXI
+System_State_Taxi_Out=TAXI
+System_State_Taxi_In=TAXI
 System_State_LineUp=LINE-UP
 System_State_Depa=TAKE-OFF
 
