@@ -7,6 +7,10 @@ on:
     paths:
       - '.data/GroundRadarPluginMaps/**'
 
+concurrency:
+  group: map-build
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
