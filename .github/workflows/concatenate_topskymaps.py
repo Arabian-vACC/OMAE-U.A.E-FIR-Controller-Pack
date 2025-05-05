@@ -20,14 +20,14 @@ def concatenate_files(source_directory, output_file):
 def main():
     base_dir = '.data/TopSkyMaps'
     targets = [
-        ('Aerodrome North', 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'),
-        ('Aerodrome South', 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'),
-        ('Aerodrome Maktoum', 'OMAE/Plugins/TopSky Aerodrome Maktoum/TopSkyMaps.txt'),
-        ('Enroute', 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'),
-        ('CTA Abu Dhabi', 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
-        ('CTA Dubai', 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'),
-        ('CTA Military', 'OMAE/Plugins/TopSky CTA Military/TopSkyMaps.txt'),
-        ('CTA', 'OMAE/Plugins/TopSky CTA/TopSkyMaps.txt'),
+        ('Aerodrome North', 'OMAE/Plugins/TopSky/TopSky Aerodrome North/TopSkyMaps.txt'),
+        ('Aerodrome South', 'OMAE/Plugins/TopSky/TopSky Aerodrome South/TopSkyMaps.txt'),
+        ('Aerodrome Maktoum', 'OMAE/Plugins/TopSky/TopSky Aerodrome Maktoum/TopSkyMaps.txt'),
+        ('Enroute', 'OMAE/Plugins/TopSky/TopSky Enroute/TopSkyMaps.txt'),
+        ('CTA Abu Dhabi', 'OMAE/Plugins/TopSky/TopSky CTA Abu Dhabi/TopSkyMaps.txt'),
+        ('CTA Dubai', 'OMAE/Plugins/TopSky/TopSky CTA Dubai/TopSkyMaps.txt'),
+        ('CTA Military', 'OMAE/Plugins/TopSky/TopSky CTA Military/TopSkyMaps.txt'),
+        ('CTA', 'OMAE/Plugins/TopSky/TopSky CTA/TopSkyMaps.txt'),
     ]
 
     for source_subdir, target_file in targets:
