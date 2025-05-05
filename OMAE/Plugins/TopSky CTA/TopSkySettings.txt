@@ -61,14 +61,18 @@ Window_SM_LeaveHoldTime=3
 Window_CARD_View_Risk=0
 
 WXR_Latitude=24.5
-WXR_Latitude_Max=27
-WXR_Latitude_Min=22
+WXR_Latitude_Max=28
+WXR_Latitude_Min=21
 WXR_Longitude=54.5
-WXR_Longitude_Max=57
-WXR_Longitude_Min=51
+WXR_Longitude_Max=60
+WXR_Longitude_Min=48
 WXR_ImageSize=256
 
 HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
+HTTP_GRIB_Latitude_Max=28
+HTTP_GRIB_Latitude_Min=21
+HTTP_GRIB_Longitude_Max=60
+HTTP_GRIB_Longitude_Min=48
 
 Shortcut_RadarMenu_Combo=0x12
 
