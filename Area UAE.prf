@@ -71,7 +71,7 @@ Sounds	Sound17	\OMAE\Sounds\pointout.wav
 Sounds	Sound18	\OMAE\Sounds\startup_uaeenr.wav
 Plugins	Plugin0	\OMAE\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\OMAE\Plugins\Discord Euroscope\DiscordEuroscope.dll
-Plugins	Plugin2	\OMAE\Plugins\TopSky Enroute\TopSky.dll
+Plugins	Plugin2	\OMAE\Plugins\TopSky\TopSky Enroute\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
 Plugins	Plugin3	\OMAE\Plugins\Ground Radar Plugin\GRplugin.dll

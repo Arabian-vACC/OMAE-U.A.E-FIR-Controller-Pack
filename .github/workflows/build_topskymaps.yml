@@ -36,14 +36,14 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add 'OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky Aerodrome Maktoum/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky CTA Military/TopSkyMaps.txt'
-        git add 'OMAE/Plugins/TopSky CTA/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky Aerodrome North/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky Aerodrome South/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky Aerodrome Maktoum/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky Enroute/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky CTA Abu Dhabi/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky CTA Dubai/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky CTA Military/TopSkyMaps.txt'
+        git add 'OMAE/Plugins/TopSky/TopSky CTA/TopSkyMaps.txt'
         git commit -m 'Update TopSkyMaps files'
         git push
 
@@ -52,12 +52,12 @@ jobs:
       with:
         name: Upload cleaned files
         path: |
-          OMAE/Plugins/TopSky Aerodrome North/TopSkyMaps.txt
-          OMAE/Plugins/TopSky Aerodrome South/TopSkyMaps.txt
-          OMAE/Plugins/TopSky Aerodrome Maktoum/TopSkyMaps.txt
-          OMAE/Plugins/TopSky Enroute/TopSkyMaps.txt
-          OMAE/Plugins/TopSky CTA Abu Dhabi/TopSkyMaps.txt
-          OMAE/Plugins/TopSky CTA Dubai/TopSkyMaps.txt
-          OMAE/Plugins/TopSky CTA Military/TopSkyMaps.txt
-          OMAE/Plugins/TopSky CTA/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky Aerodrome North/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky Aerodrome South/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky Aerodrome Maktoum/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky Enroute/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky CTA Abu Dhabi/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky CTA Dubai/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky CTA Military/TopSkyMaps.txt
+          OMAE/Plugins/TopSky/TopSky CTA/TopSkyMaps.txt
           
