@@ -1,4 +1,4 @@
-![omae_github](https://github.com/user-attachments/assets/df9ffd38-f657-4543-aaba-0c16ef25db69)
+![arbvacc_omae_github](https://github.com/user-attachments/assets/061caf71-b3a1-41a2-88f7-225bfb0c9d4a)
 [![topsky-version](https://img.shields.io/badge/TopSky-2.5.15-blue.svg)](https://forum.vatsim-scandinavia.org/d/80-topsky-plugin-25-beta-15)
 [![gr-version](https://img.shields.io/badge/Ground%20Radar-1.5-blue.svg)](https://vats.im/GRplugin)
 [![vacdm-version](https://img.shields.io/badge/vACDM-1.3.2-blue.svg)](https://github.com/vACDM)
