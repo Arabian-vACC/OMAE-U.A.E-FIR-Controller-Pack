@@ -27,6 +27,7 @@ Maps_FontSize=10
 GroundLabel_Font=EuroScope
 GroundLabel_FontSize=13
 GroundLabel_Filter_NoState=1
+GroundLabel_Filter_Parked=1
 Color_SelectedLabelBorder_Gnd=5,6,7
 GroundLabel_Transparency_Bd=165
 GroundLabel_Transparency_Bg=130
