@@ -70,7 +70,6 @@ WXR_Longitude_Max=60
 WXR_Longitude_Min=48
 WXR_ImageSize=256
 
-HTTP_NAT_Tracks_URL=https://www.notams.faa.gov/common/nat.html
 HTTP_GRIB_Latitude_Max=28
 HTTP_GRIB_Latitude_Min=21
 HTTP_GRIB_Longitude_Max=60
