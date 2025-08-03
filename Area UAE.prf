@@ -88,6 +88,7 @@ Plugins	Plugin10 \OMAE\Plugins\RDFPlugin.dll
 Plugins Plugin11 \OMAE\Plugins\IASsure\IASsure.dll
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin10Display0 Standard ES radar screen
+Plugins	Plugin11Display0 Standard ES radar screen
 LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
