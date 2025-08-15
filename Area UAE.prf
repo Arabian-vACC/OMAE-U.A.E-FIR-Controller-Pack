@@ -79,7 +79,7 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	DelHel
 Plugins	Plugin4	\OMAE\Plugins\Delivery Helper\DelHel.dll
 Plugins	Plugin4Display0	DelHel
-Plugins	Plugin5	\OMAE\Plugins\VACDM\vACDM.dll
+Plugins	Plugin5	\OMAE\Plugins\CDM\CDM.dll
 Plugins	Plugin6	\OMAE\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin7	\OMAE\Plugins\VFPC\VFPC.dll
 Plugins	Plugin8	\OMAE\Plugins\MAESTRO\MAESTRO.dll
