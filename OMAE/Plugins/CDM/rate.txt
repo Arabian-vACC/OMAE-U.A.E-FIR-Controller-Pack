@@ -1,9 +1,3 @@
-AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
-- `LEPA:A:24L:*:D:24R,24L:*:24L,24R:30_12` (1 arr runway, 1 dep runway, 24R/L as dependant. 1 rate defined for all departures).
-
-- `LEPA:A:24L:24R:D:24R,24L:*:*:30_12,20_7` (1 arr runway, 1 non-arrival runway, 2 dep runway, dep runways as independant, different rates defined for both dep runways).
-
-- `LEPA:A:*:*:D:*:*:*:30_12` (All departures would have the same rate, doesn't matter the selected runways).
 # OMAA
 # Independent Parallel Ops
 OMAA:A:31R:31L:D:31L:31R:*:34_17
@@ -19,12 +13,6 @@ OMAA:A:31L:31R:D:31L:31R:31L:28_14
 OMAA:A:31R:31L:D:31R:31L:31L:28_14
 OMAA:A:13R:13L:D:13R:13L:13R:28_14
 
-# OMAD
-OMAD:A:*:*:D:*:*:*:24_12
-
-# OMAL
-OMAL:A:*:*:D:*:*:*:24_12
-
 # OMDB
 # 30 Duals
 OMDB:A:30L:*:D:30R:30L:30L,30R:36_18
@@ -38,3 +26,9 @@ OMDB:A:12R:*:D:12R:12L:12L,12R:25_12
 OMDB:A:30L:*:D:30L:30R:30L,30R:25_12
 # 30R SRO
 OMDB:A:30R:*:D:30R:30L:30L,30R:25_12
+
+# OMDW
+OMDW:A:*:*:D:*:*:*:20_10
+
+# OMSJ
+OMSJ:A:*:*:D:*:*:*:20_10
