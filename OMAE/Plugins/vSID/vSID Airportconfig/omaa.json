@@ -1,0 +1,240 @@
+{
+  "OMAA": {
+    "elevation": 83,
+    "runways": "13L,13R,31L,31R",
+    "transAlt": 13000,
+    "maxInitialClimb": 4000,
+    "timeMode": false,
+    "timezone": "UTC",
+    "sids": {
+      "ATUDO": {
+        "U": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "K": {
+          "1": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "BOSEV": {
+        "K": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "DAXIB": {
+        "K": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "KANIP": {
+        "U": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "K": {
+          "1": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "LORID": {
+        "K": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "MEKRI": {
+        "K": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "ORNEL": {
+        "U": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "K": {
+          "1": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        }
+      },
+      "TULON": {
+        "K": {
+          "1": {
+            "rwy": "31L",
+            "initial": 5000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "31R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "13R",
+            "initial": 5000,
+            "prio": 1
+          }
+        },
+        "F": {
+          "1": {
+            "rwy": "13L",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      }
+    }
+  }
+}

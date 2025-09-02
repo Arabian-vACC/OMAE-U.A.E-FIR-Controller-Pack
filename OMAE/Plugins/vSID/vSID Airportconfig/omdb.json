@@ -1,0 +1,248 @@
+{
+  "OMDB": {
+    "elevation": 62,
+    "runways": "12L,12R,30L,30R",
+    "transAlt": 13000,
+    "maxInitialClimb": 4000,
+    "intersections": {"12L": "M1C,N1C,M2,N2", "12R": "K5,K7,M10B", "30R": "M13A,M13,N9,N8A,M14A,N10,M15,N11,M15A,N12", "30L": "K15A,M18A,K16,M19,K17,M20"},
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
+    "sids": {
+      "ANVIX": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 1
+          },
+          "1": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 1
+          },
+          "1": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "DAVMO": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 4
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 4
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 4
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 4
+          }
+        }
+      },
+      "EMERU": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 2
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 2
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 2
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 2
+          }
+        }
+      },
+      "IVURO": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 1
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      },
+      "KUTLI": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 4
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 4
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 4
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 4
+          }
+        }
+      },
+      "MIROT": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 3
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 3
+          }
+        }
+      },
+      "NABIX": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 3
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 3
+          }
+        }
+      },
+      "RIDAP": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 2
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 2
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 3
+          }
+        }
+      },
+      "SENPA": {
+        "F": {
+          "1": {
+            "rwy": "30L",
+            "initial": 4000,
+            "prio": 2
+          },
+          "2": {
+            "rwy": "30R",
+            "initial": 4000,
+            "prio": 2
+          }
+        },
+        "G": {
+          "1": {
+            "rwy": "12L",
+            "initial": 4000,
+            "prio": 3
+          },
+          "2": {
+            "rwy": "12R",
+            "initial": 4000,
+            "prio": 3
+          }
+        }
+      }
+    }
+  }
+}
