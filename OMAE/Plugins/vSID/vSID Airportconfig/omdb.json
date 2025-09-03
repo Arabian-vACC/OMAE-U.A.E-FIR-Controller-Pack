@@ -3,12 +3,13 @@
     "elevation": 62,
     "runways": "12L,12R,30L,30R",
     "transAlt": 13000,
-    "maxInitialClimb": 4000,
+    "maxInitialClimb": 5000,
     "intersections": {"12L": "M1C,N1C,M2,N2", "12R": "K5,K7,M10B", "30R": "M13A,M13,N9,N8A,M14A,N10,M15,N11,M15A,N12", "30L": "K15A,M18A,K16,M19,K17,M20"},
     "timeMode": false,
     "timezone": "UTC",
     "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
     "sids": {
+      "climbvia": true,
       "ANVIX": {
         "F": {
           "1": {

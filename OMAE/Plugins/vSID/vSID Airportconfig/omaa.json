@@ -3,10 +3,12 @@
     "elevation": 83,
     "runways": "13L,13R,31L,31R",
     "transAlt": 13000,
-    "maxInitialClimb": 4000,
+    "maxInitialClimb": 5000,
     "timeMode": false,
     "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
     "sids": {
+      "climbvia": true,
       "ATUDO": {
         "U": {
           "1": {
