@@ -1,0 +1,200 @@
+{
+  "OMDW": {
+    "elevation": 171,
+    "runways": "12,13,30,31",
+    "transAlt": 13000,
+    "maxInitialClimb": 3000,
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
+    "sids": {
+      "climbvia": true,
+      "ANVIX": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "P": {
+          "1": {
+            "rwy": "31",
+            "initial": 2000,
+            "prio": 1
+          }
+        },
+        "N": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "DAVMO": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "EMERU": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "KUTLI": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "MIROT": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "P": {
+          "1": {
+            "rwy": "31",
+            "initial": 2000,
+            "prio": 1
+          }
+        },
+        "N": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "NABIX": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "P": {
+          "1": {
+            "rwy": "31",
+            "initial": 2000,
+            "prio": 1
+          }
+        },
+        "N": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "NOLSU": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "RIDAP": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "SENPA": {
+        "L": {
+          "1": {
+            "rwy": "30",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "12",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      }
+    }
+  }
+}
