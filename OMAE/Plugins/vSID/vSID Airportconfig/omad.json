@@ -1,0 +1,142 @@
+{
+  "OMAD": {
+    "elevation": 18,
+    "runways": "31,13",
+    "transAlt": 13000,
+    "maxInitialClimb": 3000,
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
+    "sids": {
+      "climbvia": true,
+      "ATUDO": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "BOSEV": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "DAXIB": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "KANIP": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "LORID": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "MEKRI": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "ORNEL": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "TULON": {
+        "R": {
+          "1": {
+            "rwy": "13",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "Q": {
+          "1": {
+            "rwy": "31",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      }
+    }
+  }
+}

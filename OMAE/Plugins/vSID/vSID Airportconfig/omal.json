@@ -1,0 +1,87 @@
+{
+  "OMAL": {
+    "elevation": 865,
+    "runways": "01,19",
+    "transAlt": 13000,
+    "maxInitialClimb": 3000,
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
+    "sids": {
+      "climbvia": true,
+      "GIDIS": {
+        "H": {
+          "1": {
+            "rwy": "01",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "19",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "LABRI": {
+        "H": {
+          "1": {
+            "rwy": "01",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "19",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "MURGU": {
+        "H": {
+          "1": {
+            "rwy": "01",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "19",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "RETAS": {
+        "H": {
+          "1": {
+            "rwy": "01",
+            "initial": 3000,
+            "prio": 1
+          }
+        },
+        "J": {
+          "1": {
+            "rwy": "19",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      },
+      "ROVOS": {
+        "J": {
+          "1": {
+            "rwy": "19",
+            "initial": 3000,
+            "prio": 1
+          }
+        }
+      }
+    }
+  }
+}
