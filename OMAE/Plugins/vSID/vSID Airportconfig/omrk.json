@@ -1,0 +1,76 @@
+{
+  "OMRK": {
+    "elevation": 94,
+    "runways": "16,34",
+    "transAlt": 13000,
+    "maxInitialClimb": 6000,
+    "timeMode": false,
+    "timezone": "UTC",
+    "appSI": "AEG,AEE,AE1,AED,AEW,AER,AEL,AEH,AE4,AE2,AEY,AE3,AE5,AES,DF,DAFM,DDN,DDS,DA",
+    "sids": {
+      "climbvia": true,
+      "ASNEK": {
+        "N": {
+          "1": {
+            "rwy": "34",
+            "initial": 6000,
+            "prio": 1
+          }
+        },
+        "E": {
+          "1": {
+            "rwy": "16",
+            "initial": 6000,
+            "prio": 1
+          }
+        },
+        "W": {
+          "1": {
+            "rwy": "16",
+            "initial": 6000,
+            "prio": 1
+          }
+        }
+      },
+      "EMOPI": {
+        "E": {
+          "2": {
+            "rwy": "34",
+            "initial": 6000,
+            "prio": 1
+          }
+        },
+        "W": {
+          "2": {
+            "rwy": "34",
+            "initial": 6000,
+            "prio": 1
+          }
+        },
+        "S": {
+          "2": {
+            "rwy": "16",
+            "initial": 6000,
+            "prio": 1
+          }
+        }
+      },
+      "PUVAL": {
+        "N": {
+          "1": {
+            "rwy": "34",
+            "initial": 4000,
+            "prio": 1
+          }
+        },
+        "S": {
+          "1": {
+            "rwy": "16",
+            "initial": 4000,
+            "prio": 1
+          }
+        }
+      }
+    }
+  }
+}
